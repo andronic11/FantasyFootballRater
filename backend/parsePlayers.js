@@ -9,6 +9,8 @@ const outputPath = path.join(__dirname, 'data/players.json');
 const players = [];
 
 const teamData = require('./data/teamData.json');
+const playerProj = require('./data/projectionData.json');
+const playerProjQB = require('./data/projectedQBData.json');
 
 fs.createReadStream(filePath)
   .pipe(csv())
@@ -28,6 +30,13 @@ fs.createReadStream(filePath)
     const avgPoints = safe(row['AVG']);
     const totalPoints = safe(row['TTL']);
     const AVGSecondHalf = safe(row['AVGSecondHalf']);
+
+  
+    projection = playerProj[name];
+
+    if(position == "QB"){
+      projection = playerProjQB[name];
+    }
 
     for (let i = 1; i <= 18; i++) {
       const raw = row[i.toString()];
@@ -123,6 +132,7 @@ fs.createReadStream(filePath)
         AVGSecondHalf,
         weeklyPoints,
         SORINErating,
+        projection
       });
     } else {
       console.log(`⚠️ Skipping ${name} due to completely invalid data`);

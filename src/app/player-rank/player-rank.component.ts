@@ -43,15 +43,16 @@ export class PlayerRankComponent implements OnInit {
           // Sort by descending SORINErating
           this.players = data.sort((a, b) => b.SORINErating - a.SORINErating);
           this.totalCount = data.length;
-          this.playerDisplay = this.players.slice(this.pageIndex*this.pageSize, this.pageIndex*this.pageSize+this.pageSize);this.playerDisplay = this.players.slice(this.pageIndex*this.pageSize, this.pageIndex*this.pageSize+this.pageSize);
+          this.playerDisplay = this.players.slice(this.pageIndex*this.pageSize, this.pageIndex*this.pageSize+this.pageSize);
         },
         error: (err) => console.error('Failed to load players:', err)
       });
   }
 
   onSortChange(){
-    
   }
-  tableHeaders = ['Rank', 'Name','Position', 'Team', 'Score', 'AVG',]
+
+
+  tableHeaders = ['Rank', 'Name','Position', 'Team', 'Score','Proj','AVG',]
   
 }
