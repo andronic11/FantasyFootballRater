@@ -26,6 +26,6 @@ export class PlayerRankComponent implements OnInit {
       });
   }
 
-  tableHeaders = ['Name', 'Score', 'Position', 'Team']
+  tableHeaders = ['Rank', 'Name','Position', 'Team', 'Score', 'AVG',]
   
 }
