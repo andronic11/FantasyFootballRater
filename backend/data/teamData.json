@@ -1,0 +1,290 @@
+{
+  "DET": {
+    "points": 33.2,
+    "QB": 21,
+    "RB": 34.4,
+    "WR": 34.3,
+    "TE": 10.5,
+    "runPercentage": 47.8,
+    "passPercentage": 52.2
+  },
+  "TB": {
+    "points": 29.5,
+    "QB": 23.5,
+    "RB": 27.7,
+    "WR": 34.6,
+    "TE": 9.1,
+    "runPercentage": 44.1,
+    "passPercentage": 55.9
+  },
+  "BAL": {
+    "points": 30.5,
+    "QB": 25.9,
+    "RB": 28.5,
+    "WR": 22.8,
+    "TE": 16.9,
+    "runPercentage": 52.5,
+    "passPercentage": 47.5
+  },
+  "CIN": {
+    "points": 27.8,
+    "QB": 23.7,
+    "RB": 17.7,
+    "WR": 39.2,
+    "TE": 11.7,
+    "runPercentage": 35.2,
+    "passPercentage": 64.8
+  },
+  "GB": {
+    "points": 27.1,
+    "QB": 17.6,
+    "RB": 24.3,
+    "WR": 30.4,
+    "TE": 9,
+    "runPercentage": 51.2,
+    "passPercentage": 48.8
+  },
+  "ATL": {
+    "points": 22.9,
+    "QB": 14.8,
+    "RB": 25.4,
+    "WR": 32,
+    "TE": 6.8,
+    "runPercentage": 45.6,
+    "passPercentage": 54.4
+  },
+  "BUF": {
+    "points": 30.9,
+    "QB": 24.1,
+    "RB": 26.9,
+    "WR": 18.4,
+    "TE": 7.5,
+    "runPercentage": 47.9,
+    "passPercentage": 52.1
+  },
+  "ARI": {
+    "points": 23.5,
+    "QB": 18.4,
+    "RB": 22.9,
+    "WR": 21,
+    "TE": 14.7,
+    "runPercentage": 44.7,
+    "passPercentage": 55.3
+  },
+  "PHI": {
+    "points": 27.2,
+    "QB": 20.7,
+    "RB": 22.5,
+    "WR": 25,
+    "TE": 8.3,
+    "runPercentage": 55.7,
+    "passPercentage": 44.3
+  },
+  "WAS": {
+    "points": 28.5,
+    "QB": 24.5,
+    "RB": 21.4,
+    "WR": 19.8,
+    "TE": 9.8,
+    "runPercentage": 47.8,
+    "passPercentage": 52.2
+  },
+  "MIA": {
+    "points": 20.3,
+    "QB": 11.6,
+    "RB": 18.4,
+    "WR": 21,
+    "TE": 12,
+    "runPercentage": 41.4,
+    "passPercentage": 58.6
+  },
+  "HOU": {
+    "points": 21.9,
+    "QB": 14.6,
+    "RB": 19.9,
+    "WR": 21.4,
+    "TE": 7.1,
+    "runPercentage": 41,
+    "passPercentage": 59
+  },
+  "DEN": {
+    "points": 25,
+    "QB": 19.7,
+    "RB": 9.8,
+    "WR": 27.3,
+    "TE": 5.8,
+    "runPercentage": 43.7,
+    "passPercentage": 56.3
+  },
+  "KC": {
+    "points": 22.6,
+    "QB": 17.8,
+    "RB": 13,
+    "WR": 16.5,
+    "TE": 14.4,
+    "runPercentage": 41.2,
+    "passPercentage": 58.8
+  },
+  "SF": {
+    "points": 22.9,
+    "QB": 17.3,
+    "RB": 12.1,
+    "WR": 18.9,
+    "TE": 12.3,
+    "runPercentage": 44.5,
+    "passPercentage": 55.5
+  },
+  "IND": {
+    "points": 22.2,
+    "QB": 10.3,
+    "RB": 17.7,
+    "WR": 29.4,
+    "TE": 3.1,
+    "runPercentage": 47.6,
+    "passPercentage": 52.4
+  },
+  "CAR": {
+    "points": 20.1,
+    "QB": 16,
+    "RB": 14.5,
+    "WR": 22.1,
+    "TE": 6,
+    "runPercentage": 41.3,
+    "passPercentage": 58.7
+  },
+  "CHI": {
+    "points": 18.2,
+    "QB": 16,
+    "RB": 15.9,
+    "WR": 18.8,
+    "TE": 5.7,
+    "runPercentage": 40.6,
+    "passPercentage": 59.4
+  },
+  "LAR": {
+    "points": 21.6,
+    "QB": 14.7,
+    "RB": 18.5,
+    "WR": 18,
+    "TE": 4.7,
+    "runPercentage": 43.3,
+    "passPercentage": 56.7
+  },
+  "NE": {
+    "points": 17,
+    "QB": 11,
+    "RB": 15,
+    "WR": 17.5,
+    "TE": 12,
+    "runPercentage": 43.4,
+    "passPercentage": 56.6
+  },
+  "MIN": {
+    "points": 25.4,
+    "QB": 0,
+    "RB": 15.2,
+    "WR": 32.9,
+    "TE": 7.3,
+    "runPercentage": 43.4,
+    "passPercentage": 56.6
+  },
+  "NO": {
+    "points": 19.9,
+    "QB": 5.1,
+    "RB": 16.2,
+    "WR": 15.5,
+    "TE": 16.7,
+    "runPercentage": 43,
+    "passPercentage": 57
+  },
+  "LAC": {
+    "points": 23.6,
+    "QB": 17.5,
+    "RB": 3.8,
+    "WR": 23.9,
+    "TE": 5.4,
+    "runPercentage": 45.5,
+    "passPercentage": 54.5
+  },
+  "NYG": {
+    "points": 16.1,
+    "QB": 0.8,
+    "RB": 15.9,
+    "WR": 28.1,
+    "TE": 4.9,
+    "runPercentage": 39.9,
+    "passPercentage": 60.1
+  },
+  "JAC": {
+    "points": 18.8,
+    "QB": 9.3,
+    "RB": 14.2,
+    "WR": 20.3,
+    "TE": 4.2,
+    "runPercentage": 41.7,
+    "passPercentage": 58.3
+  },
+  "DAL": {
+    "points": 20.6,
+    "QB": 7.7,
+    "RB": 1.8,
+    "WR": 28.7,
+    "TE": 7.8,
+    "runPercentage": 38.9,
+    "passPercentage": 61.1
+  },
+  "TEN": {
+    "points": 18.3,
+    "QB": 7.8,
+    "RB": 17.7,
+    "WR": 11.2,
+    "TE": 8,
+    "runPercentage": 43.6,
+    "passPercentage": 56.4
+  },
+  "SEA": {
+    "points": 22.1,
+    "QB": 0,
+    "RB": 20.6,
+    "WR": 14.2,
+    "TE": 8.4,
+    "runPercentage": 37.2,
+    "passPercentage": 62.8
+  },
+  "NYJ": {
+    "points": 19.9,
+    "QB": 1.2,
+    "RB": 20.1,
+    "WR": 19.9,
+    "TE": 1.1,
+    "runPercentage": 35.9,
+    "passPercentage": 64.1
+  },
+  "LV": {
+    "points": 18.2,
+    "QB": 5.9,
+    "RB": 2.9,
+    "WR": 17.3,
+    "TE": 14,
+    "runPercentage": 35.7,
+    "passPercentage": 64.3
+  },
+  "CLE": {
+    "points": 15.2,
+    "QB": 4.7,
+    "RB": 8.5,
+    "WR": 17,
+    "TE": 7.7,
+    "runPercentage": 35,
+    "passPercentage": 65
+  },
+  "PIT": {
+    "points": 22.4,
+    "QB": 0,
+    "RB": 8.2,
+    "WR": 7.1,
+    "TE": 10.8,
+    "runPercentage": 49.3,
+    "passPercentage": 50.7
+  }
+}
