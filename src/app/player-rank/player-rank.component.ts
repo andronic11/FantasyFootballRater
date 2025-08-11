@@ -2,11 +2,12 @@ import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
 import { Player } from '../models/player.model';
+import {MatTableModule, MatTableDataSource} from '@angular/material/table';
 
 @Component({
   selector: 'app-player-rank',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, MatTableModule],
   templateUrl: './player-rank.component.html'
 })
 export class PlayerRankComponent implements OnInit {
@@ -24,5 +25,7 @@ export class PlayerRankComponent implements OnInit {
         error: (err) => console.error('Failed to load players:', err)
       });
   }
+
+  tableHeaders = ['Name', 'Score', 'Position', 'Team']
   
 }
