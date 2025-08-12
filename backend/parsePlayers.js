@@ -68,7 +68,12 @@ fs.createReadStream(filePath)
       opportunityScore = 0;
     }
 
-    
+    let expectedProj;
+    if (position === 'QB') expectedProj = 430;
+    else if (position === 'RB') expectedProj = 360;
+    else if (position === 'WR') expectedProj = 400;
+    else if (position === 'TE') expectedProj = 260;
+    else expectedProj = 260;
 
     let expectedPoints;
     if (position === 'QB') expectedPoints = 20;
@@ -103,15 +108,16 @@ fs.createReadStream(filePath)
       return;
     }
     if (position === 'QB'){
-      pointsRating = 40 * (avgPoints/expectedMaxAvg)**(2);
+      pointsRating = 25 * (avgPoints/expectedMaxAvg)**(2);
     }else{
-      pointsRating = 40 * (avgPoints/expectedMaxAvg)**(1/2.5);
+      pointsRating = 25 * (avgPoints/expectedMaxAvg)**(1/2.5);
     }
     
-    consistencyRating = 30 * (gamesOverAvg/validGames)
-    riseRating = 10 * (AVGSecondHalf/26)**(1.2)
-    opportunityScore = 13 * (opportunityScore)
-    health = 7 * (validGames/17)**(1/3)
+    consistencyRating = 18 * (gamesOverAvg/validGames)
+    riseRating = 16 * (AVGSecondHalf/26)**(1.2)
+    opportunityScore = 2 * (opportunityScore)
+    health = 9 * (validGames/17)**(1/3)
+    projectionScore = 30 + (projection/expectedProj)**(.5);
 
 
       const SORINErating = (
@@ -119,7 +125,8 @@ fs.createReadStream(filePath)
       consistencyRating +
       riseRating +
       opportunityScore +
-      health
+      health + 
+      projectionScore
       );
       
       
