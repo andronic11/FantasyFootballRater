@@ -25,7 +25,9 @@
       29.4,
       23
     ],
-    "SORINErating": 96.40034869619438
+    "SORINErating": 99.73818073842997,
+    "projection": 375.6,
+    "adp": 21
   },
   {
     "name": "Ja'Marr Chase",
@@ -53,7 +55,9 @@
       19.2,
       25.6
     ],
-    "SORINErating": 96.48511588733398
+    "SORINErating": 98.8408133084969,
+    "projection": 351.9,
+    "adp": 1
   },
   {
     "name": "Josh Allen",
@@ -81,7 +85,9 @@
       23,
       0
     ],
-    "SORINErating": 82.31904140577784
+    "SORINErating": 92.45476972824726,
+    "projection": 376.7,
+    "adp": 20
   },
   {
     "name": "Joe Burrow",
@@ -109,7 +115,9 @@
       37,
       14
     ],
-    "SORINErating": 82.95062156310583
+    "SORINErating": 90.99763357873667,
+    "projection": 341.6,
+    "adp": 31
   },
   {
     "name": "Baker Mayfield",
@@ -137,7 +145,9 @@
       34.6,
       22.6
     ],
-    "SORINErating": 83.21699895547383
+    "SORINErating": 91.34169093527184,
+    "projection": 321.6,
+    "adp": 51
   },
   {
     "name": "Jayden Daniels",
@@ -165,7 +175,9 @@
       32.8,
       4.2
     ],
-    "SORINErating": 79.41573988507581
+    "SORINErating": 90.98068062956716,
+    "projection": 355.8,
+    "adp": 25
   },
   {
     "name": "Jahmyr Gibbs",
@@ -193,7 +205,9 @@
       26.3,
       46
     ],
-    "SORINErating": 95.22152641423362
+    "SORINErating": 98.86955231896707,
+    "projection": 316.7,
+    "adp": 5
   },
   {
     "name": "Saquon Barkley",
@@ -221,7 +235,9 @@
       18.9,
       null
     ],
-    "SORINErating": 92.21685583318798
+    "SORINErating": 95.64300668845746,
+    "projection": 315,
+    "adp": 3
   },
   {
     "name": "Bijan Robinson",
@@ -249,7 +265,9 @@
       24.8,
       31.3
     ],
-    "SORINErating": 91.02375616046851
+    "SORINErating": 96.03646115916486,
+    "projection": 317.4,
+    "adp": 2
   },
   {
     "name": "Jared Goff",
@@ -277,7 +295,9 @@
       25.8,
       11.2
     ],
-    "SORINErating": 70.46497380308696
+    "SORINErating": 84.57587190426966,
+    "projection": 290.8,
+    "adp": 119
   },
   {
     "name": "Derrick Henry",
@@ -305,7 +325,9 @@
       24.5,
       30.1
     ],
-    "SORINErating": 89.33455769177885
+    "SORINErating": 92.45657031917372,
+    "projection": 264.8,
+    "adp": 13
   },
   {
     "name": "Bo Nix",
@@ -333,7 +355,9 @@
       22.9,
       33.5
     ],
-    "SORINErating": 71.66225468697135
+    "SORINErating": 84.65506566077474,
+    "projection": 308.8,
+    "adp": 66
   },
   {
     "name": "Jalen Hurts",
@@ -361,7 +385,9 @@
       null,
       null
     ],
-    "SORINErating": 75.56784392752213
+    "SORINErating": 85.34882779020643,
+    "projection": 358.7,
+    "adp": 28
   },
   {
     "name": "Sam Darnold",
@@ -389,7 +415,9 @@
       25.8,
       7.6
     ],
-    "SORINErating": 70.71994554487702
+    "SORINErating": 83.62227846921256,
+    "projection": 257,
+    "adp": 211
   },
   {
     "name": "Justin Jefferson",
@@ -417,7 +445,9 @@
       17.2,
       8.4
     ],
-    "SORINErating": 87.31940232292229
+    "SORINErating": 92.11983497299983,
+    "projection": 311.5,
+    "adp": 4
   },
   {
     "name": "Amon-Ra St. Brown",
@@ -445,7 +475,9 @@
       20,
       13.7
     ],
-    "SORINErating": 84.07070321457121
+    "SORINErating": 90.09065221332564,
+    "projection": 291.2,
+    "adp": 9
   },
   {
     "name": "Kyler Murray",
@@ -473,7 +505,9 @@
       18,
       27.9
     ],
-    "SORINErating": 65.68348176438016
+    "SORINErating": 80.32967814871392,
+    "projection": 319.1,
+    "adp": 77
   },
   {
     "name": "De'Von Achane",
@@ -501,7 +535,9 @@
       5.8,
       18.1
     ],
-    "SORINErating": 80.93072275098626
+    "SORINErating": 89.41886527779323,
+    "projection": 289.3,
+    "adp": 12
   },
   {
     "name": "Patrick Mahomes II",
@@ -529,7 +565,9 @@
       26,
       null
     ],
-    "SORINErating": 68.19765156077237
+    "SORINErating": 82.48706406866712,
+    "projection": 327,
+    "adp": 47
   },
   {
     "name": "Josh Jacobs",
@@ -557,7 +595,9 @@
       10.9,
       11.6
     ],
-    "SORINErating": 85.01292277292559
+    "SORINErating": 91.05834522026966,
+    "projection": 264.2,
+    "adp": 18
   },
   {
     "name": "Justin Herbert",
@@ -585,7 +625,9 @@
       24.4,
       28
     ],
-    "SORINErating": 61.80911169050674
+    "SORINErating": 78.5916062617895,
+    "projection": 291.5,
+    "adp": 94
   },
   {
     "name": "Brian Thomas Jr.",
@@ -613,7 +655,9 @@
       23.9,
       17.3
     ],
-    "SORINErating": 82.97819376655423
+    "SORINErating": 91.49060035912787,
+    "projection": 273,
+    "adp": 16
   },
   {
     "name": "Geno Smith",
@@ -641,7 +685,9 @@
       8.3,
       26.3
     ],
-    "SORINErating": 59.762873563374626
+    "SORINErating": 75.69373732331864,
+    "projection": 261.8,
+    "adp": 223
   },
   {
     "name": "Drake London",
@@ -669,7 +715,9 @@
       17.6,
       40.7
     ],
-    "SORINErating": 81.02192700628541
+    "SORINErating": 88.75489643575428,
+    "projection": 261.7,
+    "adp": 22
   },
   {
     "name": "Brock Purdy",
@@ -697,7 +745,9 @@
       32.3,
       null
     ],
-    "SORINErating": 67.25630039213945
+    "SORINErating": 80.2264422085168,
+    "projection": 310.4,
+    "adp": 82
   },
   {
     "name": "Malik Nabers",
@@ -725,7 +775,9 @@
       36.1,
       17.4
     ],
-    "SORINErating": 84.80042553637753
+    "SORINErating": 90.25110322969459,
+    "projection": 289.9,
+    "adp": 10
   },
   {
     "name": "Kyren Williams",
@@ -753,7 +805,9 @@
       16.2,
       null
     ],
-    "SORINErating": 82.79234789512884
+    "SORINErating": 89.21931661202319,
+    "projection": 246.7,
+    "adp": 26
   },
   {
     "name": "Terry McLaurin",
@@ -781,7 +835,9 @@
       1.5,
       20.2
     ],
-    "SORINErating": 80.3608155550832
+    "SORINErating": 88.79649650851707,
+    "projection": 243.2,
+    "adp": 41
   },
   {
     "name": "Aaron Rodgers",
@@ -809,7 +865,9 @@
       2.5,
       26
     ],
-    "SORINErating": 45.2306942063268
+    "SORINErating": 73.9242127377156,
+    "projection": 237,
+    "adp": 198
   },
   {
     "name": "James Cook",
@@ -837,7 +895,9 @@
       11.3,
       8.8
     ],
-    "SORINErating": 81.04187105525607
+    "SORINErating": 87.5147236190864,
+    "projection": 227.5,
+    "adp": 33
   },
   {
     "name": "Alvin Kamara",
@@ -865,7 +925,9 @@
       null,
       null
     ],
-    "SORINErating": 85.19831243666138
+    "SORINErating": 89.64369346148439,
+    "projection": 241,
+    "adp": 38
   },
   {
     "name": "CeeDee Lamb",
@@ -893,7 +955,9 @@
       null,
       null
     ],
-    "SORINErating": 84.25354468852834
+    "SORINErating": 89.24209706402905,
+    "projection": 304.7,
+    "adp": 6
   },
   {
     "name": "Brock Bowers",
@@ -921,7 +985,9 @@
       14.6,
       15
     ],
-    "SORINErating": 82.64480240640032
+    "SORINErating": 88.97882483759805,
+    "projection": 255.7,
+    "adp": 19
   },
   {
     "name": "Caleb Williams",
@@ -949,7 +1015,9 @@
       7.6,
       10.9
     ],
-    "SORINErating": 54.596758864472264
+    "SORINErating": 74.2075501407781,
+    "projection": 287.5,
+    "adp": 115
   },
   {
     "name": "Chase Brown",
@@ -977,7 +1045,9 @@
       13.1,
       null
     ],
-    "SORINErating": 77.89998210341753
+    "SORINErating": 88.22513303292237,
+    "projection": 250.3,
+    "adp": 32
   },
   {
     "name": "James Conner",
@@ -1005,7 +1075,9 @@
       2.8,
       null
     ],
-    "SORINErating": 79.87670604086149
+    "SORINErating": 87.56542920614922,
+    "projection": 223.8,
+    "adp": 49
   },
   {
     "name": "Jaxon Smith-Njigba",
@@ -1033,7 +1105,9 @@
       6.2,
       5.3
     ],
-    "SORINErating": 74.85539117226502
+    "SORINErating": 84.09901346081304,
+    "projection": 246.6,
+    "adp": 36
   },
   {
     "name": "Garrett Wilson",
@@ -1061,7 +1135,9 @@
       17.6,
       9.1
     ],
-    "SORINErating": 75.50504299509652
+    "SORINErating": 83.48573399454239,
+    "projection": 236.2,
+    "adp": 39
   },
   {
     "name": "Trey McBride",
@@ -1089,7 +1165,9 @@
       30.3,
       19.5
     ],
-    "SORINErating": 86.98790331952986
+    "SORINErating": 92.1481835661171,
+    "projection": 243.9,
+    "adp": 24
   },
   {
     "name": "Jordan Love",
@@ -1117,7 +1195,9 @@
       14,
       2.8
     ],
-    "SORINErating": 57.13120762984407
+    "SORINErating": 73.92905751821459,
+    "projection": 278.4,
+    "adp": 124
   },
   {
     "name": "Jonathan Taylor",
@@ -1145,7 +1225,9 @@
       27.6,
       25
     ],
-    "SORINErating": 82.3012270167984
+    "SORINErating": 89.81932747042656,
+    "projection": 242.2,
+    "adp": 17
   },
   {
     "name": "Bucky Irving",
@@ -1173,7 +1255,9 @@
       23,
       16.4
     ],
-    "SORINErating": 77.57864662490125
+    "SORINErating": 86.99150011196828,
+    "projection": 246.9,
+    "adp": 23
   },
   {
     "name": "Aaron Jones Sr.",
@@ -1201,7 +1285,9 @@
       11.7,
       12.5
     ],
-    "SORINErating": 74.50647420686194
+    "SORINErating": 84.23294849494664,
+    "projection": 204.7,
+    "adp": 72
   },
   {
     "name": "Chuba Hubbard",
@@ -1229,7 +1315,9 @@
       null,
       null
     ],
-    "SORINErating": 77.1355477993378
+    "SORINErating": 85.98514817405706,
+    "projection": 212.2,
+    "adp": 46
   },
   {
     "name": "Davante Adams",
@@ -1257,7 +1345,9 @@
       9.7,
       20.8
     ],
-    "SORINErating": 80.56080719898853
+    "SORINErating": 89.86378001389495,
+    "projection": 244.6,
+    "adp": 35
   },
   {
     "name": "Jerry Jeudy",
@@ -1285,7 +1375,9 @@
       21.4,
       12.3
     ],
-    "SORINErating": 75.31396303438302
+    "SORINErating": 85.58725566951912,
+    "projection": 213.6,
+    "adp": 71
   },
   {
     "name": "Ladd McConkey",
@@ -1313,7 +1405,9 @@
       29.4,
       16.5
     ],
-    "SORINErating": 77.75560008069546
+    "SORINErating": 87.03225507444358,
+    "projection": 256.5,
+    "adp": 30
   },
   {
     "name": "Breece Hall",
@@ -1341,7 +1435,9 @@
       6.3,
       18.2
     ],
-    "SORINErating": 72.71454087154102
+    "SORINErating": 82.51707617147127,
+    "projection": 229.4,
+    "adp": 48
   },
   {
     "name": "Joe Mixon",
@@ -1369,7 +1465,9 @@
       5.9,
       3.8
     ],
-    "SORINErating": 75.76602688400823
+    "SORINErating": 82.7319467171105,
+    "projection": 192.6,
+    "adp": 56
   },
   {
     "name": "Mike Evans",
@@ -1397,7 +1495,9 @@
       29.7,
       17.9
     ],
-    "SORINErating": 80.35131857081993
+    "SORINErating": 88.57100560520405,
+    "projection": 243.7,
+    "adp": 40
   },
   {
     "name": "Courtland Sutton",
@@ -1425,7 +1525,9 @@
       16.5,
       20.8
     ],
-    "SORINErating": 76.88177593474151
+    "SORINErating": 86.00114459488371,
+    "projection": 221,
+    "adp": 59
   },
   {
     "name": "DJ Moore",
@@ -1453,7 +1555,9 @@
       12.2,
       22.1
     ],
-    "SORINErating": 73.85071865468854
+    "SORINErating": 84.76293897647233,
+    "projection": 229.4,
+    "adp": 52
   },
   {
     "name": "George Kittle",
@@ -1481,7 +1585,9 @@
       19.2,
       4.7
     ],
-    "SORINErating": 83.935912992207
+    "SORINErating": 88.37429019438201,
+    "projection": 223.6,
+    "adp": 34
   },
   {
     "name": "C.J. Stroud",
@@ -1509,7 +1615,9 @@
       7.1,
       6
     ],
-    "SORINErating": 49.19523582475256
+    "SORINErating": 69.7091913144375,
+    "projection": 279.8,
+    "adp": 143
   },
   {
     "name": "Matthew Stafford",
@@ -1537,7 +1645,9 @@
       9.2,
       null
     ],
-    "SORINErating": 49.47402952536525
+    "SORINErating": 70.02975038145642,
+    "projection": 266.6,
+    "adp": 165
   },
   {
     "name": "Jonnu Smith",
@@ -1565,7 +1675,9 @@
       11.6,
       18.6
     ],
-    "SORINErating": 79.18667253566957
+    "SORINErating": 87.71336443300106,
+    "projection": 128.9,
+    "adp": 167
   },
   {
     "name": "Tee Higgins",
@@ -1593,7 +1705,9 @@
       40.1,
       9.3
     ],
-    "SORINErating": 84.98928672831956
+    "SORINErating": 88.86441851264993,
+    "projection": 247.7,
+    "adp": 27
   },
   {
     "name": "David Montgomery",
@@ -1621,7 +1735,9 @@
       null,
       null
     ],
-    "SORINErating": 82.66614030796455
+    "SORINErating": 86.90809725864015,
+    "projection": 195.9,
+    "adp": 62
   },
   {
     "name": "Tyreek Hill",
@@ -1649,7 +1765,9 @@
       19.5,
       4
     ],
-    "SORINErating": 69.62881549342646
+    "SORINErating": 81.21202976762635,
+    "projection": 262.7,
+    "adp": 29
   },
   {
     "name": "Jakobi Meyers",
@@ -1677,7 +1795,9 @@
       17.1,
       27.3
     ],
-    "SORINErating": 76.74017754540765
+    "SORINErating": 84.77279003059398,
+    "projection": 210.9,
+    "adp": 87
   },
   {
     "name": "A.J. Brown",
@@ -1705,7 +1825,9 @@
       12.6,
       null
     ],
-    "SORINErating": 78.22193878692882
+    "SORINErating": 86.70854430182412,
+    "projection": 257.6,
+    "adp": 15
   },
   {
     "name": "D'Andre Swift",
@@ -1733,7 +1855,9 @@
       12.1,
       12.5
     ],
-    "SORINErating": 66.55098725182
+    "SORINErating": 78.58416919785515,
+    "projection": 203.6,
+    "adp": 57
   },
   {
     "name": "Jordan Addison",
@@ -1761,7 +1885,9 @@
       18.9,
       1
     ],
-    "SORINErating": 73.75882633993085
+    "SORINErating": 84.18025188782369,
+    "projection": 171.1,
+    "adp": 97
   },
   {
     "name": "Jameson Williams",
@@ -1789,7 +1915,9 @@
       24.5,
       9.4
     ],
-    "SORINErating": 73.95483461704575
+    "SORINErating": 83.36600724656984,
+    "projection": 202,
+    "adp": 67
   },
   {
     "name": "Nico Collins",
@@ -1817,7 +1945,9 @@
       8.9,
       14.8
     ],
-    "SORINErating": 82.4591432124195
+    "SORINErating": 87.20683330371784,
+    "projection": 275.5,
+    "adp": 14
   },
   {
     "name": "Jauan Jennings",
@@ -1845,7 +1975,9 @@
       13.7,
       12.2
     ],
-    "SORINErating": 68.21560457952634
+    "SORINErating": 79.60959462716417,
+    "projection": 196.4,
+    "adp": 110
   },
   {
     "name": "Zay Flowers",
@@ -1873,7 +2005,9 @@
       5.1,
       3.1
     ],
-    "SORINErating": 65.23055959281331
+    "SORINErating": 77.74090532586177,
+    "projection": 220.1,
+    "adp": 53
   },
   {
     "name": "Puka Nacua",
@@ -1901,7 +2035,9 @@
       22.9,
       null
     ],
-    "SORINErating": 85.8506649411037
+    "SORINErating": 91.68019916925226,
+    "projection": 293.4,
+    "adp": 8
   },
   {
     "name": "Najee Harris",
@@ -1929,7 +2065,9 @@
       10.1,
       15.6
     ],
-    "SORINErating": 66.24670656695837
+    "SORINErating": 78.97792235840438,
+    "projection": 127.7,
+    "adp": 160
   },
   {
     "name": "Tony Pollard",
@@ -1957,7 +2095,9 @@
       null,
       6.2
     ],
-    "SORINErating": 69.37677938401785
+    "SORINErating": 80.13897508788992,
+    "projection": 197.4,
+    "adp": 84
   },
   {
     "name": "Rachaad White",
@@ -1985,7 +2125,9 @@
       4.4,
       0
     ],
-    "SORINErating": 68.91556923584618
+    "SORINErating": 79.27404800951837,
+    "projection": 139.3,
+    "adp": 145
   },
   {
     "name": "DeVonta Smith",
@@ -2013,7 +2155,9 @@
       30,
       null
     ],
-    "SORINErating": 76.73857169771158
+    "SORINErating": 87.0648343543613,
+    "projection": 218.9,
+    "adp": 60
   },
   {
     "name": "Calvin Ridley",
@@ -2041,7 +2185,9 @@
       14.1,
       10.3
     ],
-    "SORINErating": 65.27077622931984
+    "SORINErating": 78.53596858845,
+    "projection": 212,
+    "adp": 63
   },
   {
     "name": "Rico Dowdle",
@@ -2069,7 +2215,9 @@
       9.8,
       16.4
     ],
-    "SORINErating": 68.54740712818841
+    "SORINErating": 80.74203126512492,
+    "projection": 101.8,
+    "adp": 0
   },
   {
     "name": "Jayden Reed",
@@ -2097,7 +2245,9 @@
       1.6,
       5.1
     ],
-    "SORINErating": 63.14066062511026
+    "SORINErating": 75.78633448306168,
+    "projection": 183.3,
+    "adp": 122
   },
   {
     "name": "Marvin Harrison Jr.",
@@ -2125,7 +2275,9 @@
       15.6,
       17.3
     ],
-    "SORINErating": 66.86897276512637
+    "SORINErating": 78.84465993066065,
+    "projection": 234.1,
+    "adp": 45
   },
   {
     "name": "Travis Kelce",
@@ -2153,7 +2305,9 @@
       22.4,
       null
     ],
-    "SORINErating": 74.07084590283091
+    "SORINErating": 82.99701206582776,
+    "projection": 186.8,
+    "adp": 54
   },
   {
     "name": "Darnell Mooney",
@@ -2181,7 +2335,9 @@
       5.7,
       null
     ],
-    "SORINErating": 66.94651635738722
+    "SORINErating": 77.51302412259886,
+    "projection": 172.9,
+    "adp": 129
   },
   {
     "name": "Kirk Cousins",
@@ -2209,7 +2365,9 @@
       null,
       null
     ],
-    "SORINErating": 44.7883276666763
+    "SORINErating": 65.1985746744835,
+    "projection": 7.3,
+    "adp": 259
   },
   {
     "name": "J.K. Dobbins",
@@ -2237,7 +2395,9 @@
       15.3,
       10.5
     ],
-    "SORINErating": 65.28252957284502
+    "SORINErating": 80.8186729743119,
+    "projection": 148.1,
+    "adp": 105
   },
   {
     "name": "DK Metcalf",
@@ -2265,7 +2425,9 @@
       7.2,
       14.3
     ],
-    "SORINErating": 65.34702421479983
+    "SORINErating": 78.07210401481228,
+    "projection": 230.8,
+    "adp": 44
   },
   {
     "name": "Mark Andrews",
@@ -2293,7 +2455,9 @@
       14.8,
       15.4
     ],
-    "SORINErating": 76.75120029207753
+    "SORINErating": 84.6852261448329,
+    "projection": 177.2,
+    "adp": 68
   },
   {
     "name": "Tua Tagovailoa",
@@ -2321,7 +2485,9 @@
       null,
       null
     ],
-    "SORINErating": 61.48219997393223
+    "SORINErating": 77.28469338675626,
+    "projection": 263,
+    "adp": 163
   },
   {
     "name": "Drake Maye",
@@ -2349,7 +2515,9 @@
       9.9,
       0
     ],
-    "SORINErating": 50.68081467660883
+    "SORINErating": 70.24646117734298,
+    "projection": 274,
+    "adp": 140
   },
   {
     "name": "Zach Charbonnet",
@@ -2377,7 +2545,9 @@
       10.6,
       9.1
     ],
-    "SORINErating": 61.89665874739425
+    "SORINErating": 77.45134156605684,
+    "projection": 142,
+    "adp": 152
   },
   {
     "name": "Keenan Allen",
@@ -2405,7 +2575,9 @@
       7.5,
       4.5
     ],
-    "SORINErating": 56.95247064077325
+    "SORINErating": 78.9050528730699,
+    "projection": 156.9,
+    "adp": 128
   },
   {
     "name": "Josh Downs",
@@ -2433,7 +2605,9 @@
       5.2,
       19.4
     ],
-    "SORINErating": 70.40977394635469
+    "SORINErating": 79.50054017160296,
+    "projection": 162.2,
+    "adp": 138
   },
   {
     "name": "Wan'Dale Robinson",
@@ -2461,7 +2635,9 @@
       18.1,
       14.3
     ],
-    "SORINErating": 64.89747428113766
+    "SORINErating": 76.91949140122418,
+    "projection": 150.7,
+    "adp": 197
   },
   {
     "name": "Khalil Shakir",
@@ -2489,7 +2665,9 @@
       5.5,
       null
     ],
-    "SORINErating": 66.85395722284169
+    "SORINErating": 78.4662502935537,
+    "projection": 181.5,
+    "adp": 107
   },
   {
     "name": "Tyrone Tracy Jr.",
@@ -2517,7 +2695,9 @@
       9.3,
       8.6
     ],
-    "SORINErating": 63.360241342012934
+    "SORINErating": 77.75286941854432,
+    "projection": 174.4,
+    "adp": 93
   },
   {
     "name": "Kenneth Walker III",
@@ -2545,7 +2725,9 @@
       null,
       null
     ],
-    "SORINErating": 76.6092892305044
+    "SORINErating": 83.36948423776059,
+    "projection": 225.3,
+    "adp": 37
   },
   {
     "name": "Russell Wilson",
@@ -2573,7 +2755,9 @@
       18.7,
       11.5
     ],
-    "SORINErating": 57.43585343422752
+    "SORINErating": 73.8309796088115,
+    "projection": 194.1,
+    "adp": 255
   },
   {
     "name": "Zach Ertz",
@@ -2601,7 +2785,9 @@
       25.2,
       15.4
     ],
-    "SORINErating": 71.51847453180666
+    "SORINErating": 81.80830098350381,
+    "projection": 142.3,
+    "adp": 157
   },
   {
     "name": "Rhamondre Stevenson",
@@ -2629,7 +2815,9 @@
       0.1,
       null
     ],
-    "SORINErating": 64.93485945829545
+    "SORINErating": 76.4172614920144,
+    "projection": 141.4,
+    "adp": 109
   },
   {
     "name": "Anthony Richardson Sr.",
@@ -2657,7 +2845,9 @@
       null,
       null
     ],
-    "SORINErating": 56.06864359415797
+    "SORINErating": 74.24577700625683,
+    "projection": 203.1,
+    "adp": 229
   },
   {
     "name": "Cooper Kupp",
@@ -2685,7 +2875,9 @@
       3.9,
       null
     ],
-    "SORINErating": 71.80272548492958
+    "SORINErating": 79.17195051386267,
+    "projection": 187.2,
+    "adp": 79
   },
   {
     "name": "Quentin Johnston",
@@ -2713,7 +2905,9 @@
       9.8,
       31.6
     ],
-    "SORINErating": 65.20311445757851
+    "SORINErating": 77.48685139767144,
+    "projection": 119.7,
+    "adp": 0
   },
   {
     "name": "Sam LaPorta",
@@ -2741,7 +2935,9 @@
       18.4,
       13.3
     ],
-    "SORINErating": 74.00628504542988
+    "SORINErating": 83.28781443548912,
+    "projection": 183.5,
+    "adp": 42
   },
   {
     "name": "Rashod Bateman",
@@ -2769,7 +2965,9 @@
       2.2,
       18.6
     ],
-    "SORINErating": 61.215560188467954
+    "SORINErating": 76.0602225734909,
+    "projection": 147.8,
+    "adp": 183
   },
   {
     "name": "Pat Freiermuth",
@@ -2797,7 +2995,9 @@
       11,
       22.5
     ],
-    "SORINErating": 71.0106645399047
+    "SORINErating": 81.5460732188899,
+    "projection": 119.9,
+    "adp": 199
   },
   {
     "name": "Michael Pittman Jr.",
@@ -2825,7 +3025,9 @@
       25.9,
       13.2
     ],
-    "SORINErating": 62.81573650503615
+    "SORINErating": 77.10652990375735,
+    "projection": 179.2,
+    "adp": 116
   },
   {
     "name": "George Pickens",
@@ -2853,7 +3055,9 @@
       8,
       1
     ],
-    "SORINErating": 67.58243090184298
+    "SORINErating": 77.0492307609298,
+    "projection": 205.5,
+    "adp": 64
   },
   {
     "name": "Tucker Kraft",
@@ -2881,7 +3085,9 @@
       7.3,
       7.6
     ],
-    "SORINErating": 68.09729952999211
+    "SORINErating": 78.88059299203906,
+    "projection": 147.8,
+    "adp": 98
   },
   {
     "name": "Alec Pierce",
@@ -2909,7 +3115,9 @@
       24.2,
       13.7
     ],
-    "SORINErating": 62.05242918522571
+    "SORINErating": 75.61920481124794,
+    "projection": 101.9,
+    "adp": 0
   },
   {
     "name": "Brian Robinson Jr.",
@@ -2937,7 +3145,9 @@
       8.9,
       2.6
     ],
-    "SORINErating": 66.63623167363201
+    "SORINErating": 76.61014084698053,
+    "projection": 169,
+    "adp": 92
   },
   {
     "name": "Javonte Williams",
@@ -2965,35 +3175,9 @@
       2,
       10.8
     ],
-    "SORINErating": 54.37905573651633
-  },
-  {
-    "name": "Derek Carr",
-    "team": "FA",
-    "position": "QB",
-    "avgPoints": 15.6,
-    "AVGSecondHalf": 14.4,
-    "weeklyPoints": [
-      21.3,
-      22.8,
-      9,
-      9.1,
-      13.6,
-      null,
-      null,
-      null,
-      13.4,
-      20.5,
-      18.7,
-      null,
-      14.6,
-      13,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SORINErating": 42.94802718132753
+    "SORINErating": 72.19293910718392,
+    "projection": 153.3,
+    "adp": 102
   },
   {
     "name": "Kareem Hunt",
@@ -3021,7 +3205,9 @@
       8,
       null
     ],
-    "SORINErating": 65.4929284225082
+    "SORINErating": 76.51736156233213,
+    "projection": 86.2,
+    "adp": 215
   },
   {
     "name": "Deebo Samuel Sr.",
@@ -3049,7 +3235,9 @@
       9.1,
       null
     ],
-    "SORINErating": 60.27762826804186
+    "SORINErating": 74.34831043438572,
+    "projection": 197.3,
+    "adp": 96
   },
   {
     "name": "Trevor Lawrence",
@@ -3077,7 +3265,9 @@
       null,
       null
     ],
-    "SORINErating": 51.86224230557952
+    "SORINErating": 67.52729755396223,
+    "projection": 273.8,
+    "adp": 178
   },
   {
     "name": "Jalen Tolbert",
@@ -3105,7 +3295,9 @@
       12,
       13.8
     ],
-    "SORINErating": 58.69742103327071
+    "SORINErating": 72.95040766646039,
+    "projection": 95.9,
+    "adp": 0
   },
   {
     "name": "Jaylen Waddle",
@@ -3133,7 +3325,9 @@
       0,
       9
     ],
-    "SORINErating": 59.21809289506349
+    "SORINErating": 74.7078074774699,
+    "projection": 202.1,
+    "adp": 69
   },
   {
     "name": "David Njoku",
@@ -3161,7 +3355,9 @@
       null,
       null
     ],
-    "SORINErating": 75.06824868726082
+    "SORINErating": 84.37932085570549,
+    "projection": 177.7,
+    "adp": 70
   },
   {
     "name": "DeMario Douglas",
@@ -3189,35 +3385,9 @@
       14.6,
       6.4
     ],
-    "SORINErating": 56.723395843404646
-  },
-  {
-    "name": "Denver Broncos",
-    "team": "DEN",
-    "position": "DST",
-    "avgPoints": 8.6,
-    "AVGSecondHalf": 10.23,
-    "weeklyPoints": [
-      10,
-      0,
-      15,
-      11,
-      0,
-      3,
-      20,
-      7,
-      0,
-      5,
-      13,
-      0,
-      20,
-      null,
-      20,
-      0,
-      8,
-      15
-    ],
-    "SORINErating": 59.82652854090218
+    "SORINErating": 72.9061250980582,
+    "projection": 130.3,
+    "adp": 0
   },
   {
     "name": "DeAndre Hopkins",
@@ -3245,7 +3415,9 @@
       2.7,
       null
     ],
-    "SORINErating": 56.74501233123835
+    "SORINErating": 73.25091346877042,
+    "projection": 96.9,
+    "adp": 214
   },
   {
     "name": "Hunter Henry",
@@ -3273,7 +3445,9 @@
       0,
       null
     ],
-    "SORINErating": 66.42228533960777
+    "SORINErating": 77.7788752801475,
+    "projection": 133.9,
+    "adp": 155
   },
   {
     "name": "Rome Odunze",
@@ -3301,7 +3475,9 @@
       2.5,
       3.8
     ],
-    "SORINErating": 55.97061974657169
+    "SORINErating": 71.91972108159705,
+    "projection": 184.8,
+    "adp": 75
   },
   {
     "name": "Jameis Winston",
@@ -3329,7 +3505,9 @@
       null,
       null
     ],
-    "SORINErating": 44.98600764728035
+    "SORINErating": 67.72003693867285,
+    "projection": 16.3,
+    "adp": 271
   },
   {
     "name": "Daniel Jones",
@@ -3357,7 +3535,9 @@
       null,
       null
     ],
-    "SORINErating": 50.08002011004069
+    "SORINErating": 69.14127886372114,
+    "projection": 115.3,
+    "adp": 0
   },
   {
     "name": "Mike Gesicki",
@@ -3385,7 +3565,9 @@
       18.6,
       14.8
     ],
-    "SORINErating": 60.97970773908616
+    "SORINErating": 76.0861043118198,
+    "projection": 125.4,
+    "adp": 225
   },
   {
     "name": "Ray-Ray McCloud III",
@@ -3413,7 +3595,9 @@
       3.7,
       10.6
     ],
-    "SORINErating": 55.77257528493089
+    "SORINErating": 71.85851774215318,
+    "projection": 99.8,
+    "adp": 0
   },
   {
     "name": "Tank Dell",
@@ -3441,7 +3625,9 @@
       null,
       null
     ],
-    "SORINErating": 61.44655819883034
+    "SORINErating": 74.27439820090976,
+    "projection": 4.4,
+    "adp": 253
   },
   {
     "name": "Adam Thielen",
@@ -3469,7 +3655,9 @@
       28,
       9.4
     ],
-    "SORINErating": 72.09886844625339
+    "SORINErating": 81.57670555862151,
+    "projection": 153.4,
+    "adp": 153
   },
   {
     "name": "Chris Godwin",
@@ -3497,35 +3685,9 @@
       null,
       null
     ],
-    "SORINErating": 85.96953078842952
-  },
-  {
-    "name": "Alexander Mattison",
-    "team": "MIA",
-    "position": "RB",
-    "avgPoints": 9.8,
-    "AVGSecondHalf": 7.94,
-    "weeklyPoints": [
-      16.2,
-      6.1,
-      13.4,
-      6,
-      10.1,
-      17.5,
-      15.3,
-      9.4,
-      3.6,
-      null,
-      9.9,
-      null,
-      null,
-      null,
-      2.4,
-      15.6,
-      4.8,
-      7.1
-    ],
-    "SORINErating": 60.15136293742221
+    "SORINErating": 89.01715828963196,
+    "projection": 194.6,
+    "adp": 89
   },
   {
     "name": "Nick Westbrook-Ikhine",
@@ -3553,7 +3715,9 @@
       6.7,
       9
     ],
-    "SORINErating": 56.40381956280108
+    "SORINErating": 72.37480497149002,
+    "projection": 95.4,
+    "adp": 0
   },
   {
     "name": "Jalen McMillan",
@@ -3581,7 +3745,9 @@
       23,
       19
     ],
-    "SORINErating": 65.39747391206004
+    "SORINErating": 78.11547588756326,
+    "projection": 107.9,
+    "adp": 228
   },
   {
     "name": "Jerome Ford",
@@ -3609,7 +3775,9 @@
       2.2,
       null
     ],
-    "SORINErating": 56.97168240015639
+    "SORINErating": 74.02091540629314,
+    "projection": 119.3,
+    "adp": 144
   },
   {
     "name": "Austin Ekeler",
@@ -3637,7 +3805,9 @@
       null,
       5.2
     ],
-    "SORINErating": 64.06744952353486
+    "SORINErating": 74.33259178108369,
+    "projection": 156.1,
+    "adp": 125
   },
   {
     "name": "Romeo Doubs",
@@ -3665,35 +3835,9 @@
       14.8,
       null
     ],
-    "SORINErating": 61.21416938249213
-  },
-  {
-    "name": "Kyle Pitts",
-    "team": "ATL",
-    "position": "TE",
-    "avgPoints": 7.7,
-    "AVGSecondHalf": 5.21,
-    "weeklyPoints": [
-      11.6,
-      5,
-      7.9,
-      0,
-      15.8,
-      10,
-      13.5,
-      25.1,
-      2.1,
-      9.5,
-      1.9,
-      null,
-      0,
-      2.4,
-      6.8,
-      1.7,
-      14.4,
-      3.5
-    ],
-    "SORINErating": 59.01491757237901
+    "SORINErating": 75.20085763766413,
+    "projection": 127.4,
+    "adp": 241
   },
   {
     "name": "Marvin Mims Jr.",
@@ -3721,7 +3865,9 @@
       30.2,
       22.1
     ],
-    "SORINErating": 56.5511271415285
+    "SORINErating": 75.00249414429456,
+    "projection": 157.7,
+    "adp": 168
   },
   {
     "name": "Tre Tucker",
@@ -3749,7 +3895,9 @@
       10.9,
       5.4
     ],
-    "SORINErating": 54.880632404348866
+    "SORINErating": 70.95499284049217,
+    "projection": 87.7,
+    "adp": 0
   },
   {
     "name": "Tank Bigsby",
@@ -3777,7 +3925,9 @@
       3.3,
       11.2
     ],
-    "SORINErating": 53.33101811806524
+    "SORINErating": 70.94157771626442,
+    "projection": 109.3,
+    "adp": 136
   },
   {
     "name": "Justice Hill",
@@ -3805,7 +3955,9 @@
       null,
       null
     ],
-    "SORINErating": 59.40759169207225
+    "SORINErating": 73.33328457772774,
+    "projection": 84,
+    "adp": 301
   },
   {
     "name": "Allen Lazard",
@@ -3833,35 +3985,9 @@
       1.9,
       16.1
     ],
-    "SORINErating": 61.742795375864226
-  },
-  {
-    "name": "Ameer Abdullah",
-    "team": "FA",
-    "position": "RB",
-    "avgPoints": 7.8,
-    "AVGSecondHalf": 12.89,
-    "weeklyPoints": [
-      0,
-      2.2,
-      3.3,
-      0,
-      14.1,
-      4.8,
-      0,
-      2.1,
-      5.6,
-      null,
-      10.7,
-      17.5,
-      7.3,
-      0.8,
-      19.6,
-      19.5,
-      17.7,
-      null
-    ],
-    "SORINErating": 48.50797969826602
+    "SORINErating": 72.25090362367757,
+    "projection": 84.2,
+    "adp": 0
   },
   {
     "name": "Xavier Legette",
@@ -3889,35 +4015,9 @@
       7.8,
       6
     ],
-    "SORINErating": 53.87548256770933
-  },
-  {
-    "name": "Minnesota Vikings",
-    "team": "MIN",
-    "position": "DST",
-    "avgPoints": 7.4,
-    "AVGSecondHalf": 5.43,
-    "weeklyPoints": [
-      0,
-      13,
-      13,
-      0,
-      16,
-      null,
-      11,
-      1,
-      11,
-      13,
-      11,
-      7,
-      5,
-      0,
-      8,
-      6,
-      5,
-      5
-    ],
-    "SORINErating": 53.7119518816032
+    "SORINErating": 70.19469598589774,
+    "projection": 141.3,
+    "adp": 156
   },
   {
     "name": "Dak Prescott",
@@ -3945,7 +4045,9 @@
       null,
       null
     ],
-    "SORINErating": 54.04017742665442
+    "SORINErating": 71.24671940559703,
+    "projection": 290,
+    "adp": 103
   },
   {
     "name": "Michael Wilson",
@@ -3973,7 +4075,9 @@
       6.9,
       null
     ],
-    "SORINErating": 53.56862144929021
+    "SORINErating": 70.59101513766163,
+    "projection": 120.2,
+    "adp": 0
   },
   {
     "name": "Jaylen Warren",
@@ -4001,7 +4105,9 @@
       16.2,
       2.1
     ],
-    "SORINErating": 56.3496098150473
+    "SORINErating": 72.8852514988682,
+    "projection": 176.2,
+    "adp": 99
   },
   {
     "name": "Kayshon Boutte",
@@ -4029,7 +4135,9 @@
       6.8,
       24.7
     ],
-    "SORINErating": 55.310831532407846
+    "SORINErating": 72.39930846022293,
+    "projection": 64.5,
+    "adp": 313
   },
   {
     "name": "Isaiah Likely",
@@ -4057,7 +4165,9 @@
       7.9,
       6.8
     ],
-    "SORINErating": 61.51653924682522
+    "SORINErating": 74.11690743672354,
+    "projection": 118.4,
+    "adp": 195
   },
   {
     "name": "Demarcus Robinson",
@@ -4085,7 +4195,9 @@
       0,
       10.2
     ],
-    "SORINErating": 51.42950273521749
+    "SORINErating": 68.45202133872277,
+    "projection": 51.5,
+    "adp": 470
   },
   {
     "name": "Juwan Johnson",
@@ -4113,35 +4225,9 @@
       12.6,
       14
     ],
-    "SORINErating": 61.09029635490518
-  },
-  {
-    "name": "Amari Cooper",
-    "team": "FA",
-    "position": "WR",
-    "avgPoints": 8.8,
-    "AVGSecondHalf": 7.52,
-    "weeklyPoints": [
-      3.6,
-      4.1,
-      27.6,
-      7.5,
-      10,
-      8.2,
-      16.6,
-      1.3,
-      null,
-      null,
-      7.5,
-      null,
-      4.2,
-      15.5,
-      0,
-      2,
-      14.6,
-      null
-    ],
-    "SORINErating": 46.52725775513907
+    "SORINErating": 75.33171431218484,
+    "projection": 118.4,
+    "adp": 0
   },
   {
     "name": "Stefon Diggs",
@@ -4169,7 +4255,9 @@
       null,
       null
     ],
-    "SORINErating": 76.14259825176966
+    "SORINErating": 82.81697197666534,
+    "projection": 194.2,
+    "adp": 86
   },
   {
     "name": "Tyler Conklin",
@@ -4197,7 +4285,9 @@
       21.7,
       9.6
     ],
-    "SORINErating": 61.167407663394684
+    "SORINErating": 76.12032292394908,
+    "projection": 86.3,
+    "adp": 0
   },
   {
     "name": "Tyler Lockett",
@@ -4225,7 +4315,9 @@
       5,
       4.8
     ],
-    "SORINErating": 50.290765608233045
+    "SORINErating": 67.96463743965406,
+    "projection": 128.1,
+    "adp": 240
   },
   {
     "name": "Elijah Moore",
@@ -4253,7 +4345,9 @@
       1.1,
       6.6
     ],
-    "SORINErating": 51.075110203097054
+    "SORINErating": 68.98530249714314,
+    "projection": 37.9,
+    "adp": 326
   },
   {
     "name": "Cole Kmet",
@@ -4281,7 +4375,9 @@
       0,
       2.3
     ],
-    "SORINErating": 53.50765372409363
+    "SORINErating": 70.59312038179209,
+    "projection": 71.7,
+    "adp": 237
   },
   {
     "name": "Justin Fields",
@@ -4309,7 +4405,9 @@
       null,
       null
     ],
-    "SORINErating": 40.85411079913385
+    "SORINErating": 60.503581998970866,
+    "projection": 301.1,
+    "adp": 114
   },
   {
     "name": "Andrei Iosivas",
@@ -4337,7 +4435,9 @@
       8.9,
       3.2
     ],
-    "SORINErating": 55.2352973553281
+    "SORINErating": 70.51162381054488,
+    "projection": 87,
+    "adp": 0
   },
   {
     "name": "Dalton Schultz",
@@ -4365,35 +4465,9 @@
       4.1,
       5.9
     ],
-    "SORINErating": 55.50500532573204
-  },
-  {
-    "name": "Houston Texans",
-    "team": "HOU",
-    "position": "DST",
-    "avgPoints": 6.9,
-    "AVGSecondHalf": 8.27,
-    "weeklyPoints": [
-      4,
-      15,
-      3,
-      2,
-      2,
-      0,
-      9,
-      0,
-      2,
-      10,
-      19,
-      19,
-      3,
-      null,
-      15,
-      1,
-      2,
-      11
-    ],
-    "SORINErating": 52.63284522436795
+    "SORINErating": 72.81187378380562,
+    "projection": 119.4,
+    "adp": 222
   },
   {
     "name": "Ray Davis",
@@ -4421,7 +4495,9 @@
       2.3,
       14.5
     ],
-    "SORINErating": 54.10432448022841
+    "SORINErating": 70.52242567495897,
+    "projection": 99.6,
+    "adp": 205
   },
   {
     "name": "Jordan Mason",
@@ -4449,7 +4525,9 @@
       null,
       null
     ],
-    "SORINErating": 57.393510464324386
+    "SORINErating": 71.4538525732026,
+    "projection": 133.7,
+    "adp": 141
   },
   {
     "name": "Chig Okonkwo",
@@ -4477,7 +4555,9 @@
       10.9,
       0
     ],
-    "SORINErating": 56.648132402811775
+    "SORINErating": 73.6320849789117,
+    "projection": 123.7,
+    "adp": 192
   },
   {
     "name": "Tyjae Spears",
@@ -4505,7 +4585,9 @@
       13.3,
       null
     ],
-    "SORINErating": 58.81353523448569
+    "SORINErating": 74.57125840784515,
+    "projection": 134.9,
+    "adp": 142
   },
   {
     "name": "Noah Gray",
@@ -4533,35 +4615,9 @@
       1.6,
       0.7
     ],
-    "SORINErating": 56.23160205664295
-  },
-  {
-    "name": "Seattle Seahawks",
-    "team": "SEA",
-    "position": "DST",
-    "avgPoints": 6.6,
-    "AVGSecondHalf": 7.33,
-    "weeklyPoints": [
-      0,
-      6,
-      13,
-      1,
-      11,
-      2,
-      16,
-      2,
-      5,
-      null,
-      5,
-      20,
-      0,
-      7,
-      1,
-      3,
-      16,
-      5
-    ],
-    "SORINErating": 50.917902562247384
+    "SORINErating": 72.31942841821335,
+    "projection": 72,
+    "adp": 258
   },
   {
     "name": "Keon Coleman",
@@ -4589,7 +4645,9 @@
       11.7,
       6
     ],
-    "SORINErating": 54.804359222453144
+    "SORINErating": 70.64262725950067,
+    "projection": 170.7,
+    "adp": 112
   },
   {
     "name": "Dontayvion Wicks",
@@ -4617,7 +4675,9 @@
       8.3,
       9.9
     ],
-    "SORINErating": 49.49432447835903
+    "SORINErating": 68.56534572513414,
+    "projection": 80.3,
+    "adp": 315
   },
   {
     "name": "Will Dissly",
@@ -4645,7 +4705,9 @@
       4.1,
       15.2
     ],
-    "SORINErating": 56.44936442083593
+    "SORINErating": 72.03086129425239,
+    "projection": 89.7,
+    "adp": 340
   },
   {
     "name": "Darius Slayton",
@@ -4673,35 +4735,9 @@
       10.2,
       0
     ],
-    "SORINErating": 50.8213015580675
-  },
-  {
-    "name": "Philadelphia Eagles",
-    "team": "PHI",
-    "position": "DST",
-    "avgPoints": 6.4,
-    "AVGSecondHalf": 6.93,
-    "weeklyPoints": [
-      3,
-      1,
-      7,
-      3,
-      null,
-      9,
-      15,
-      6,
-      9,
-      0,
-      6,
-      8,
-      4,
-      4,
-      8,
-      0,
-      19,
-      6
-    ],
-    "SORINErating": 48.64603844878481
+    "SORINErating": 67.19749506511307,
+    "projection": 99.3,
+    "adp": 0
   },
   {
     "name": "Joshua Palmer",
@@ -4729,7 +4765,9 @@
       8.1,
       null
     ],
-    "SORINErating": 49.906624472405994
+    "SORINErating": 68.6903572274775,
+    "projection": 120.8,
+    "adp": 0
   },
   {
     "name": "Devaughn Vele",
@@ -4757,7 +4795,9 @@
       4.7,
       15
     ],
-    "SORINErating": 55.70338510721842
+    "SORINErating": 70.55978164968958,
+    "projection": 65,
+    "adp": 412
   },
   {
     "name": "Gardner Minshew II",
@@ -4785,7 +4825,9 @@
       null,
       null
     ],
-    "SORINErating": 38.895322136907254
+    "SORINErating": 62.07410705563729,
+    "projection": 10.2,
+    "adp": 384
   },
   {
     "name": "Tyler Allgeier",
@@ -4813,7 +4855,9 @@
       1.9,
       8.9
     ],
-    "SORINErating": 48.798448015931
+    "SORINErating": 67.55269020298289,
+    "projection": 95.8,
+    "adp": 164
   },
   {
     "name": "Joe Flacco",
@@ -4841,7 +4885,9 @@
       17.3,
       14.6
     ],
-    "SORINErating": 48.09113710656574
+    "SORINErating": 67.73001683978157,
+    "projection": 127.4,
+    "adp": 275
   },
   {
     "name": "Christian Watson",
@@ -4869,7 +4915,9 @@
       null,
       0
     ],
-    "SORINErating": 51.27642143736466
+    "SORINErating": 68.4203507329392,
+    "projection": 71.6,
+    "adp": 0
   },
   {
     "name": "Mason Rudolph",
@@ -4897,7 +4945,9 @@
       13,
       3.3
     ],
-    "SORINErating": 46.56175016445174
+    "SORINErating": 65.90965712528269,
+    "projection": 18.8,
+    "adp": 323
   },
   {
     "name": "Jake Ferguson",
@@ -4925,7 +4975,9 @@
       2.8,
       3.2
     ],
-    "SORINErating": 57.432664832857206
+    "SORINErating": 72.27751847473442,
+    "projection": 150.2,
+    "adp": 139
   },
   {
     "name": "KaVontae Turpin",
@@ -4953,35 +5005,9 @@
       4.4,
       8.8
     ],
-    "SORINErating": 49.728977756274325
-  },
-  {
-    "name": "Baltimore Ravens",
-    "team": "BAL",
-    "position": "DST",
-    "avgPoints": 6.1,
-    "AVGSecondHalf": 8.44,
-    "weeklyPoints": [
-      4,
-      7,
-      5,
-      9,
-      1,
-      5,
-      6,
-      3,
-      0,
-      4,
-      7,
-      0,
-      0,
-      null,
-      6,
-      14,
-      17,
-      16
-    ],
-    "SORINErating": 49.07561376490623
+    "SORINErating": 67.35948422813016,
+    "projection": 54.9,
+    "adp": 309
   },
   {
     "name": "Noah Fant",
@@ -5009,7 +5035,9 @@
       8.3,
       17.3
     ],
-    "SORINErating": 57.57363721133797
+    "SORINErating": 73.128199902027,
+    "projection": 87.8,
+    "adp": 295
   },
   {
     "name": "Dallas Goedert",
@@ -5037,7 +5065,9 @@
       null,
       9.5
     ],
-    "SORINErating": 71.38466983337212
+    "SORINErating": 78.64308764597965,
+    "projection": 143,
+    "adp": 113
   },
   {
     "name": "Antonio Gibson",
@@ -5065,7 +5095,9 @@
       6.3,
       10.1
     ],
-    "SORINErating": 47.60965368993311
+    "SORINErating": 68.06500475391653,
+    "projection": 58.2,
+    "adp": 0
   },
   {
     "name": "Taysom Hill",
@@ -5093,7 +5125,9 @@
       null,
       null
     ],
-    "SORINErating": 71.27649127020456
+    "SORINErating": 78.7303723029143,
+    "projection": 37.1,
+    "adp": 263
   },
   {
     "name": "Foster Moreau",
@@ -5121,7 +5155,9 @@
       13.7,
       7.1
     ],
-    "SORINErating": 56.14221558345267
+    "SORINErating": 72.13162216698137,
+    "projection": 60.2,
+    "adp": 0
   },
   {
     "name": "Jalen Nailor",
@@ -5149,7 +5185,9 @@
       19.1,
       8.3
     ],
-    "SORINErating": 50.05964618466282
+    "SORINErating": 67.80236519451955,
+    "projection": 85.6,
+    "adp": 0
   },
   {
     "name": "Dalton Kincaid",
@@ -5177,7 +5215,9 @@
       4.4,
       null
     ],
-    "SORINErating": 60.94544765916898
+    "SORINErating": 73.68683637260297,
+    "projection": 140.7,
+    "adp": 127
   },
   {
     "name": "Tutu Atwell",
@@ -5205,7 +5245,9 @@
       0,
       8.7
     ],
-    "SORINErating": 46.9343978133635
+    "SORINErating": 66.28365632370411,
+    "projection": 104.4,
+    "adp": 0
   },
   {
     "name": "Mack Hollins",
@@ -5233,35 +5275,9 @@
       5.3,
       5.5
     ],
-    "SORINErating": 47.99678012799663
-  },
-  {
-    "name": "Green Bay Packers",
-    "team": "GB",
-    "position": "DST",
-    "avgPoints": 5.8,
-    "AVGSecondHalf": 4.48,
-    "weeklyPoints": [
-      7,
-      0,
-      21,
-      0,
-      13,
-      10,
-      4,
-      5,
-      2,
-      null,
-      6,
-      12,
-      8,
-      2,
-      0,
-      0,
-      3,
-      5
-    ],
-    "SORINErating": 46.254196782449206
+    "SORINErating": 67.27244665782402,
+    "projection": 26.3,
+    "adp": 307
   },
   {
     "name": "Aidan O'Connell",
@@ -5289,7 +5305,9 @@
       17.6,
       16.9
     ],
-    "SORINErating": 41.17265713736483
+    "SORINErating": 63.83235594264654,
+    "projection": 11.1,
+    "adp": 0
   },
   {
     "name": "Jaleel McLaughlin",
@@ -5317,7 +5335,9 @@
       9.6,
       6.8
     ],
-    "SORINErating": 46.60761197187942
+    "SORINErating": 67.29530836488084,
+    "projection": 52.5,
+    "adp": 0
   },
   {
     "name": "Parker Washington",
@@ -5345,7 +5365,9 @@
       12.1,
       9.5
     ],
-    "SORINErating": 49.41433737475663
+    "SORINErating": 69.61812699078051,
+    "projection": 63.5,
+    "adp": 0
   },
   {
     "name": "Devin Singletary",
@@ -5373,35 +5395,9 @@
       4,
       2.7
     ],
-    "SORINErating": 46.96155306823037
-  },
-  {
-    "name": "Los Angeles Chargers",
-    "team": "LAC",
-    "position": "DST",
-    "avgPoints": 5.6,
-    "AVGSecondHalf": 4.33,
-    "weeklyPoints": [
-      14,
-      0,
-      0,
-      8,
-      null,
-      7,
-      0,
-      12,
-      18,
-      8,
-      0,
-      0,
-      19,
-      4,
-      1,
-      2,
-      0,
-      3
-    ],
-    "SORINErating": 46.83508539101612
+    "SORINErating": 66.58909491139669,
+    "projection": 48.4,
+    "adp": 0
   },
   {
     "name": "Emanuel Wilson",
@@ -5429,7 +5425,9 @@
       8.9,
       14.1
     ],
-    "SORINErating": 49.677510356324184
+    "SORINErating": 67.52714445581975,
+    "projection": 43.1,
+    "adp": 0
   },
   {
     "name": "Ricky Pearsall",
@@ -5457,7 +5455,9 @@
       28.7,
       18.9
     ],
-    "SORINErating": 56.00881882736627
+    "SORINErating": 71.02145575390176,
+    "projection": 172.7,
+    "adp": 111
   },
   {
     "name": "Jalen Coker",
@@ -5485,7 +5485,9 @@
       5.5,
       14
     ],
-    "SORINErating": 56.88209748272931
+    "SORINErating": 71.76487034153027,
+    "projection": 88.3,
+    "adp": 0
   },
   {
     "name": "Tim Patrick",
@@ -5513,7 +5515,9 @@
       2,
       3.5
     ],
-    "SORINErating": 48.176254804351586
+    "SORINErating": 67.64986896925731,
+    "projection": 58.1,
+    "adp": 285
   },
   {
     "name": "Ty Johnson",
@@ -5541,7 +5545,9 @@
       3.5,
       2.3
     ],
-    "SORINErating": 48.47872343146976
+    "SORINErating": 67.5892733483823,
+    "projection": 66.8,
+    "adp": 0
   },
   {
     "name": "Brenton Strange",
@@ -5569,63 +5575,9 @@
       0,
       10
     ],
-    "SORINErating": 50.52857204350704
-  },
-  {
-    "name": "Jordan Akins",
-    "team": "FA",
-    "position": "TE",
-    "avgPoints": 5.4,
-    "AVGSecondHalf": 6.41,
-    "weeklyPoints": [
-      5.7,
-      2,
-      6.9,
-      2,
-      11.2,
-      0,
-      8.2,
-      0,
-      6.2,
-      null,
-      2.9,
-      6.8,
-      0,
-      2.4,
-      6,
-      1.8,
-      10.9,
-      18
-    ],
-    "SORINErating": 43.1805673579896
-  },
-  {
-    "name": "Kansas City Chiefs",
-    "team": "KC",
-    "position": "DST",
-    "avgPoints": 5.4,
-    "AVGSecondHalf": 6.55,
-    "weeklyPoints": [
-      4,
-      11,
-      5,
-      6,
-      0,
-      null,
-      8,
-      8,
-      2,
-      0,
-      0,
-      0,
-      6,
-      0,
-      21,
-      7,
-      13,
-      0
-    ],
-    "SORINErating": 45.54321825140157
+    "SORINErating": 69.71341649014238,
+    "projection": 128.5,
+    "adp": 235
   },
   {
     "name": "Greg Dortch",
@@ -5653,7 +5605,9 @@
       4.8,
       21.4
     ],
-    "SORINErating": 45.679732638343104
+    "SORINErating": 66.18707643366525,
+    "projection": 68.9,
+    "adp": 0
   },
   {
     "name": "Evan Engram",
@@ -5681,7 +5635,9 @@
       null,
       null
     ],
-    "SORINErating": 68.99308210042165
+    "SORINErating": 77.98103480280867,
+    "projection": 152.5,
+    "adp": 78
   },
   {
     "name": "Diontae Johnson",
@@ -5709,7 +5665,9 @@
       null,
       3.2
     ],
-    "SORINErating": 52.508338057564515
+    "SORINErating": 67.03500511559444,
+    "projection": 112,
+    "adp": 0
   },
   {
     "name": "T.J. Hockenson",
@@ -5737,7 +5695,9 @@
       11.8,
       2.9
     ],
-    "SORINErating": 62.270844769167375
+    "SORINErating": 74.82176739784336,
+    "projection": 182.9,
+    "adp": 55
   },
   {
     "name": "Noah Brown",
@@ -5765,7 +5725,9 @@
       null,
       null
     ],
-    "SORINErating": 52.564314695927514
+    "SORINErating": 69.49819226349179,
+    "projection": 83.1,
+    "adp": 0
   },
   {
     "name": "Braelon Allen",
@@ -5793,7 +5755,9 @@
       2.6,
       4.3
     ],
-    "SORINErating": 43.06765255013741
+    "SORINErating": 64.98759862442355,
+    "projection": 88.4,
+    "adp": 188
   },
   {
     "name": "Drew Lock",
@@ -5821,7 +5785,9 @@
       34.4,
       8.8
     ],
-    "SORINErating": 42.27699547148912
+    "SORINErating": 63.632522030926445,
+    "projection": 8.4,
+    "adp": 402
   },
   {
     "name": "David Moore",
@@ -5849,7 +5815,9 @@
       2.7,
       7.9
     ],
-    "SORINErating": 46.46454315268563
+    "SORINErating": 66.83170855021186,
+    "projection": 14.9,
+    "adp": 443
   },
   {
     "name": "Marquez Valdes-Scantling",
@@ -5877,91 +5845,9 @@
       0,
       6.3
     ],
-    "SORINErating": 49.791422463077105
-  },
-  {
-    "name": "New Orleans Saints",
-    "team": "NO",
-    "position": "DST",
-    "avgPoints": 4.9,
-    "AVGSecondHalf": 4.56,
-    "weeklyPoints": [
-      14,
-      8,
-      0,
-      4,
-      0,
-      9,
-      2,
-      5,
-      3,
-      8,
-      4,
-      null,
-      2,
-      10,
-      9,
-      0,
-      3,
-      3
-    ],
-    "SORINErating": 42.740319352162366
-  },
-  {
-    "name": "Tampa Bay Buccaneers",
-    "team": "TB",
-    "position": "DST",
-    "avgPoints": 4.9,
-    "AVGSecondHalf": 6.36,
-    "weeklyPoints": [
-      3,
-      5,
-      2,
-      11,
-      4,
-      0,
-      0,
-      3,
-      5,
-      5,
-      null,
-      10,
-      0,
-      10,
-      8,
-      1,
-      14,
-      3
-    ],
-    "SORINErating": 43.61565798790513
-  },
-  {
-    "name": "Zack Moss",
-    "team": "CIN",
-    "position": "RB",
-    "avgPoints": 10.2,
-    "AVGSecondHalf": 10.2,
-    "weeklyPoints": [
-      14.1,
-      5.7,
-      20.7,
-      17.8,
-      8.2,
-      0.5,
-      7,
-      7.9,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SORINErating": 59.11288790936348
+    "SORINErating": 67.58857345001971,
+    "projection": 79.9,
+    "adp": 0
   },
   {
     "name": "Samaje Perine",
@@ -5989,7 +5875,9 @@
       4.9,
       2.4
     ],
-    "SORINErating": 40.93565104285838
+    "SORINErating": 63.98611551972635,
+    "projection": 74.8,
+    "adp": 0
   },
   {
     "name": "Sterling Shepard",
@@ -6017,7 +5905,9 @@
       null,
       2.1
     ],
-    "SORINErating": 46.545919101229636
+    "SORINErating": 65.16154954656005,
+    "projection": 8.5,
+    "adp": 399
   },
   {
     "name": "Deshaun Watson",
@@ -6045,7 +5935,9 @@
       null,
       null
     ],
-    "SORINErating": 39.48775280921372
+    "SORINErating": 61.19713582204746,
+    "projection": 6.7,
+    "adp": 260
   },
   {
     "name": "AJ Barner",
@@ -6073,35 +5965,9 @@
       0,
       14.4
     ],
-    "SORINErating": 46.92937941881578
-  },
-  {
-    "name": "Tyler Boyd",
-    "team": "FA",
-    "position": "WR",
-    "avgPoints": 4.9,
-    "AVGSecondHalf": 5.44,
-    "weeklyPoints": [
-      4.8,
-      4.6,
-      6.3,
-      5.1,
-      null,
-      4.9,
-      9.3,
-      4.4,
-      0.3,
-      0,
-      5.4,
-      11.5,
-      6.7,
-      1.7,
-      5.9,
-      4,
-      3.4,
-      null
-    ],
-    "SORINErating": 33.25566248984984
+    "SORINErating": 67.68945882494015,
+    "projection": 76.7,
+    "adp": 281
   },
   {
     "name": "Roschon Johnson",
@@ -6129,7 +5995,9 @@
       0.5,
       6.9
     ],
-    "SORINErating": 45.743905166674
+    "SORINErating": 65.04388468032681,
+    "projection": 97.7,
+    "adp": 0
   },
   {
     "name": "Miles Sanders",
@@ -6157,7 +6025,9 @@
       null,
       26.6
     ],
-    "SORINErating": 50.09032996287236
+    "SORINErating": 72.97393106590161,
+    "projection": 76.6,
+    "adp": 0
   },
   {
     "name": "Ja'Tavion Sanders",
@@ -6185,7 +6055,9 @@
       1.5,
       6.5
     ],
-    "SORINErating": 46.68742025459576
+    "SORINErating": 66.34512190806373,
+    "projection": 89.5,
+    "adp": 266
   },
   {
     "name": "Spencer Rattler",
@@ -6213,7 +6085,9 @@
       15.3,
       14.7
     ],
-    "SORINErating": 35.85903622291388
+    "SORINErating": 59.805572355971776,
+    "projection": 77.1,
+    "adp": 377
   },
   {
     "name": "Christian Kirk",
@@ -6241,7 +6115,9 @@
       null,
       null
     ],
-    "SORINErating": 57.56887680842107
+    "SORINErating": 70.7532314762898,
+    "projection": 135.2,
+    "adp": 248
   },
   {
     "name": "Brandin Cooks",
@@ -6269,7 +6145,9 @@
       9.2,
       4
     ],
-    "SORINErating": 49.15303024129618
+    "SORINErating": 66.91904269173622,
+    "projection": 98.1,
+    "adp": 0
   },
   {
     "name": "Sean Tucker",
@@ -6297,7 +6175,9 @@
       5.4,
       1.6
     ],
-    "SORINErating": 41.09501137536671
+    "SORINErating": 62.7102390758713,
+    "projection": 41.3,
+    "adp": 0
   },
   {
     "name": "Theo Johnson",
@@ -6325,7 +6205,9 @@
       null,
       null
     ],
-    "SORINErating": 51.1982921679595
+    "SORINErating": 69.64437077785566,
+    "projection": 106.1,
+    "adp": 378
   },
   {
     "name": "Dyami Brown",
@@ -6353,7 +6235,9 @@
       null,
       5.4
     ],
-    "SORINErating": 42.40643107084054
+    "SORINErating": 64.2859933787451,
+    "projection": 111.7,
+    "adp": 0
   },
   {
     "name": "Troy Franklin",
@@ -6381,7 +6265,9 @@
       0.9,
       3.2
     ],
-    "SORINErating": 41.66562461628159
+    "SORINErating": 62.87967310299842,
+    "projection": 78,
+    "adp": 302
   },
   {
     "name": "Josh Oliver",
@@ -6409,7 +6295,9 @@
       0,
       3.6
     ],
-    "SORINErating": 45.92605527802397
+    "SORINErating": 65.09333377556813,
+    "projection": 46.6,
+    "adp": 321
   },
   {
     "name": "Colby Parkinson",
@@ -6437,7 +6325,9 @@
       0,
       1.6
     ],
-    "SORINErating": 42.24157017257085
+    "SORINErating": 63.8349503356121,
+    "projection": 26.4,
+    "adp": 0
   },
   {
     "name": "Kendrick Bourne",
@@ -6465,7 +6355,9 @@
       4.2,
       3.2
     ],
-    "SORINErating": 44.9179359935673
+    "SORINErating": 64.34089116205465,
+    "projection": 44.6,
+    "adp": 372
   },
   {
     "name": "Lil'Jordan Humphrey",
@@ -6493,35 +6385,9 @@
       0,
       4.6
     ],
-    "SORINErating": 41.599586570412576
-  },
-  {
-    "name": "Gus Edwards",
-    "team": "FA",
-    "position": "RB",
-    "avgPoints": 5.8,
-    "AVGSecondHalf": 8.2,
-    "weeklyPoints": [
-      3.8,
-      5.9,
-      0.9,
-      1.9,
-      null,
-      null,
-      null,
-      null,
-      null,
-      5.5,
-      2.7,
-      7.1,
-      4.3,
-      9.6,
-      2.3,
-      20.1,
-      null,
-      null
-    ],
-    "SORINErating": 37.44602164672131
+    "SORINErating": 61.789915119617746,
+    "projection": 8.4,
+    "adp": 356
   },
   {
     "name": "Curtis Samuel",
@@ -6549,7 +6415,9 @@
       null,
       12.2
     ],
-    "SORINErating": 42.66310201565922
+    "SORINErating": 63.66776060722714,
+    "projection": 72.4,
+    "adp": 379
   },
   {
     "name": "Van Jefferson",
@@ -6577,7 +6445,9 @@
       0,
       4.8
     ],
-    "SORINErating": 39.24621052313559
+    "SORINErating": 62.48741416102635,
+    "projection": 64.4,
+    "adp": 0
   },
   {
     "name": "Nick Chubb",
@@ -6605,7 +6475,9 @@
       null,
       null
     ],
-    "SORINErating": 43.80544340472808
+    "SORINErating": 67.70376889184533,
+    "projection": 91.9,
+    "adp": 176
   },
   {
     "name": "Justin Watson",
@@ -6633,7 +6505,9 @@
       14,
       1.5
     ],
-    "SORINErating": 40.66833809088425
+    "SORINErating": 62.29357324298163,
+    "projection": 12.1,
+    "adp": 0
   },
   {
     "name": "Brandon Aiyuk",
@@ -6661,35 +6535,9 @@
       null,
       null
     ],
-    "SORINErating": 53.665439397791665
-  },
-  {
-    "name": "New York Giants",
-    "team": "NYG",
-    "position": "DST",
-    "avgPoints": 3.6,
-    "AVGSecondHalf": 3.83,
-    "weeklyPoints": [
-      0,
-      5,
-      13,
-      2,
-      0,
-      7,
-      4,
-      0,
-      0,
-      4,
-      null,
-      1,
-      0,
-      7,
-      1,
-      2,
-      13,
-      3
-    ],
-    "SORINErating": 37.852947550743
+    "SORINErating": 68.88003919453291,
+    "projection": 142.8,
+    "adp": 158
   },
   {
     "name": "Tyler Johnson",
@@ -6717,7 +6565,9 @@
       null,
       13.5
     ],
-    "SORINErating": 43.19323186386305
+    "SORINErating": 62.887143749824425,
+    "projection": 49.6,
+    "adp": 481
   },
   {
     "name": "Josh Whyle",
@@ -6745,7 +6595,9 @@
       0,
       9.9
     ],
-    "SORINErating": 42.97341078800695
+    "SORINErating": 64.76719308360438,
+    "projection": 36.2,
+    "adp": 0
   },
   {
     "name": "Kenneth Gainwell",
@@ -6773,7 +6625,9 @@
       1.9,
       4.3
     ],
-    "SORINErating": 38.98596424234713
+    "SORINErating": 62.31029240628847,
+    "projection": 50.2,
+    "adp": 0
   },
   {
     "name": "Grant Calcaterra",
@@ -6801,7 +6655,9 @@
       4.4,
       3
     ],
-    "SORINErating": 44.94702339481057
+    "SORINErating": 64.5333535318039,
+    "projection": 26.4,
+    "adp": 310
   },
   {
     "name": "Dawson Knox",
@@ -6829,35 +6685,9 @@
       1.4,
       null
     ],
-    "SORINErating": 42.93867637865952
-  },
-  {
-    "name": "Ezekiel Elliott",
-    "team": "FA",
-    "position": "RB",
-    "avgPoints": 3.8,
-    "AVGSecondHalf": 2.54,
-    "weeklyPoints": [
-      12.9,
-      5.2,
-      2.2,
-      3.4,
-      1.7,
-      1.7,
-      null,
-      10.8,
-      null,
-      0.2,
-      5.4,
-      0.6,
-      0.4,
-      1.6,
-      5.1,
-      6.1,
-      0.2,
-      null
-    ],
-    "SORINErating": 30.455167296938782
+    "SORINErating": 64.39155930004182,
+    "projection": 57.2,
+    "adp": 234
   },
   {
     "name": "Luke Schoonmaker",
@@ -6885,7 +6715,9 @@
       0,
       3.6
     ],
-    "SORINErating": 42.62860506430282
+    "SORINErating": 64.85158356528481,
+    "projection": 35.2,
+    "adp": 317
   },
   {
     "name": "Isiah Pacheco",
@@ -6913,35 +6745,9 @@
       1.8,
       null
     ],
-    "SORINErating": 52.713926794750975
-  },
-  {
-    "name": "Mike Williams",
-    "team": "LAC",
-    "position": "WR",
-    "avgPoints": 3.2,
-    "AVGSecondHalf": 2.65,
-    "weeklyPoints": [
-      0,
-      2.9,
-      6.4,
-      10.7,
-      4.5,
-      0,
-      2.5,
-      0,
-      1.6,
-      10.2,
-      0,
-      0,
-      0,
-      6.6,
-      2.5,
-      5.4,
-      0,
-      3.5
-    ],
-    "SORINErating": 38.301207611138686
+    "SORINErating": 67.67037591383918,
+    "projection": 177.5,
+    "adp": 74
   },
   {
     "name": "Kalif Raymond",
@@ -6969,7 +6775,9 @@
       null,
       2.1
     ],
-    "SORINErating": 43.812264251630005
+    "SORINErating": 62.52046176566903,
+    "projection": 39.2,
+    "adp": 320
   },
   {
     "name": "John Metchie III",
@@ -6997,7 +6805,9 @@
       9.8,
       4.4
     ],
-    "SORINErating": 42.93802706152235
+    "SORINErating": 62.86417410415583,
+    "projection": 8.8,
+    "adp": 0
   },
   {
     "name": "Malik Washington",
@@ -7025,7 +6835,9 @@
       7,
       8.8
     ],
-    "SORINErating": 41.188285251463796
+    "SORINErating": 62.599580643936335,
+    "projection": 67.9,
+    "adp": 0
   },
   {
     "name": "Emari Demercado",
@@ -7053,35 +6865,9 @@
       null,
       null
     ],
-    "SORINErating": 42.11901705291372
-  },
-  {
-    "name": "Gabe Davis",
-    "team": "FA",
-    "position": "WR",
-    "avgPoints": 5.4,
-    "AVGSecondHalf": 5.4,
-    "weeklyPoints": [
-      9.2,
-      7.3,
-      3.8,
-      0.8,
-      4.8,
-      21.5,
-      2.3,
-      0,
-      null,
-      2.9,
-      1.3,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SORINErating": 34.91944330611232
+    "SORINErating": 62.46207198383575,
+    "projection": 27.2,
+    "adp": 0
   },
   {
     "name": "Trey Sermon",
@@ -7109,7 +6895,9 @@
       2,
       1.5
     ],
-    "SORINErating": 37.95646642360813
+    "SORINErating": 60.7736730740305,
+    "projection": 5.6,
+    "adp": 0
   },
   {
     "name": "JuJu Smith-Schuster",
@@ -7137,7 +6925,9 @@
       3.8,
       1.4
     ],
-    "SORINErating": 40.84096854752009
+    "SORINErating": 61.92218051569644,
+    "projection": 49,
+    "adp": 269
   },
   {
     "name": "Jordan Whittington",
@@ -7165,7 +6955,9 @@
       1.6,
       12.8
     ],
-    "SORINErating": 40.64436166627574
+    "SORINErating": 61.909261510275925,
+    "projection": 89.7,
+    "adp": 0
   },
   {
     "name": "Malik Willis",
@@ -7193,7 +6985,9 @@
       null,
       3.7
     ],
-    "SORINErating": 27.716738177199296
+    "SORINErating": 52.65801809323971,
+    "projection": 16.2,
+    "adp": 312
   },
   {
     "name": "Elijah Higgins",
@@ -7221,35 +7015,9 @@
       4.3,
       0
     ],
-    "SORINErating": 39.33091319509134
-  },
-  {
-    "name": "Nelson Agholor",
-    "team": "FA",
-    "position": "WR",
-    "avgPoints": 3.5,
-    "AVGSecondHalf": 1.78,
-    "weeklyPoints": [
-      1.6,
-      2.3,
-      6.6,
-      3,
-      1.4,
-      3.5,
-      3,
-      12.6,
-      3.9,
-      7.6,
-      0,
-      0,
-      0,
-      null,
-      3.6,
-      null,
-      null,
-      null
-    ],
-    "SORINErating": 28.347989633190103
+    "SORINErating": 61.70217855800112,
+    "projection": 28.8,
+    "adp": 350
   },
   {
     "name": "Audric Estime",
@@ -7277,7 +7045,9 @@
       4.7,
       9.4
     ],
-    "SORINErating": 38.38018761104249
+    "SORINErating": 61.70487788236068,
+    "projection": 30.9,
+    "adp": 391
   },
   {
     "name": "Nick Vannett",
@@ -7305,35 +7075,9 @@
       7.8,
       4.6
     ],
-    "SORINErating": 32.01054572532286
-  },
-  {
-    "name": "DJ Turner",
-    "team": "FA",
-    "position": "WR",
-    "avgPoints": 3.9,
-    "AVGSecondHalf": 3.3,
-    "weeklyPoints": [
-      1.9,
-      0.2,
-      0,
-      7.8,
-      2.7,
-      5.7,
-      3.7,
-      13.2,
-      0,
-      null,
-      5.9,
-      2.5,
-      3.5,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SORINErating": 29.85359823624097
+    "SORINErating": 61.09873463336836,
+    "projection": 2,
+    "adp": 0
   },
   {
     "name": "Trey Benson",
@@ -7361,35 +7105,9 @@
       null,
       null
     ],
-    "SORINErating": 39.24109015491578
-  },
-  {
-    "name": "Tennessee Titans",
-    "team": "TEN",
-    "position": "DST",
-    "avgPoints": 2.7,
-    "AVGSecondHalf": 3.96,
-    "weeklyPoints": [
-      8,
-      2,
-      0,
-      0,
-      null,
-      3,
-      0,
-      0,
-      0,
-      0,
-      4,
-      10,
-      0,
-      9,
-      6,
-      0,
-      0,
-      4
-    ],
-    "SORINErating": 33.42427324368313
+    "SORINErating": 61.049100660735306,
+    "projection": 109.4,
+    "adp": 154
   },
   {
     "name": "Isaiah Davis",
@@ -7417,7 +7135,9 @@
       5.3,
       4.1
     ],
-    "SORINErating": 39.016122288714364
+    "SORINErating": 62.93558258718525,
+    "projection": 28.7,
+    "adp": 0
   },
   {
     "name": "Johnny Mundt",
@@ -7445,7 +7165,9 @@
       1.7,
       0
     ],
-    "SORINErating": 36.54236178140494
+    "SORINErating": 61.23974956287652,
+    "projection": 30.3,
+    "adp": 0
   },
   {
     "name": "Darnell Washington",
@@ -7473,7 +7195,9 @@
       1.8,
       0
     ],
-    "SORINErating": 38.2911710503825
+    "SORINErating": 61.01360078754003,
+    "projection": 29.4,
+    "adp": 270
   },
   {
     "name": "Tyler Goodson",
@@ -7501,7 +7225,9 @@
       0,
       1.5
     ],
-    "SORINErating": 37.42242091477791
+    "SORINErating": 59.94324872239266,
+    "projection": 18.1,
+    "adp": 0
   },
   {
     "name": "Adam Trautman",
@@ -7529,7 +7255,9 @@
       1.5,
       0
     ],
-    "SORINErating": 37.40034012643219
+    "SORINErating": 61.5476533998352,
+    "projection": 34.5,
+    "adp": 360
   },
   {
     "name": "Nate Adkins",
@@ -7557,7 +7285,9 @@
       1.7,
       5.5
     ],
-    "SORINErating": 37.44347932730781
+    "SORINErating": 61.89285137946612,
+    "projection": 25,
+    "adp": 0
   },
   {
     "name": "Dameon Pierce",
@@ -7585,7 +7315,9 @@
       1.3,
       23.6
     ],
-    "SORINErating": 41.63524441985742
+    "SORINErating": 62.35149285814103,
+    "projection": 21.1,
+    "adp": 369
   },
   {
     "name": "Chris Brooks",
@@ -7613,7 +7345,9 @@
       0,
       5.9
     ],
-    "SORINErating": 39.24084263883081
+    "SORINErating": 60.71446206466089,
+    "projection": 28.5,
+    "adp": 0
   },
   {
     "name": "Jahan Dotson",
@@ -7641,7 +7375,9 @@
       0,
       16.4
     ],
-    "SORINErating": 34.96389811009965
+    "SORINErating": 60.130117968750405,
+    "projection": 40.2,
+    "adp": 254
   },
   {
     "name": "Derius Davis",
@@ -7669,7 +7405,9 @@
       10.6,
       1.4
     ],
-    "SORINErating": 36.806718807996965
+    "SORINErating": 60.298520498247235,
+    "projection": 10.4,
+    "adp": 0
   },
   {
     "name": "Tanner Hudson",
@@ -7697,7 +7435,9 @@
       null,
       2.1
     ],
-    "SORINErating": 39.73912561452415
+    "SORINErating": 61.58773945908581,
+    "projection": 6.7,
+    "adp": 452
   },
   {
     "name": "Josh Reynolds",
@@ -7725,7 +7465,9 @@
       0,
       2.1
     ],
-    "SORINErating": 42.23399286103781
+    "SORINErating": 60.481498274399975,
+    "projection": 93,
+    "adp": 0
   },
   {
     "name": "Robert Woods",
@@ -7753,63 +7495,9 @@
       4.1,
       3.9
     ],
-    "SORINErating": 33.02299088733902
-  },
-  {
-    "name": "Jamaal Williams",
-    "team": "FA",
-    "position": "RB",
-    "avgPoints": 2.7,
-    "AVGSecondHalf": 2.19,
-    "weeklyPoints": [
-      12.1,
-      3.9,
-      0.9,
-      3.9,
-      0.9,
-      0.7,
-      1.7,
-      0.4,
-      null,
-      null,
-      null,
-      null,
-      1.7,
-      3.5,
-      0,
-      0.8,
-      3.4,
-      3.2
-    ],
-    "SORINErating": 26.264605362024923
-  },
-  {
-    "name": "Ryan Miller",
-    "team": "TB",
-    "position": "WR",
-    "avgPoints": 3.3,
-    "AVGSecondHalf": 2.64,
-    "weeklyPoints": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      4.9,
-      null,
-      4.9,
-      7.1,
-      2.1,
-      null,
-      2.4,
-      0,
-      0,
-      1.1,
-      9.7,
-      4.6,
-      0
-    ],
-    "SORINErating": 38.27741301888955
+    "SORINErating": 59.07652656611138,
+    "projection": 48.5,
+    "adp": 343
   },
   {
     "name": "Michael Mayer",
@@ -7837,7 +7525,9 @@
       2.4,
       6.1
     ],
-    "SORINErating": 39.548990231107744
+    "SORINErating": 61.891149226214786,
+    "projection": 62.9,
+    "adp": 440
   },
   {
     "name": "Drew Sample",
@@ -7865,7 +7555,9 @@
       1.3,
       5.4
     ],
-    "SORINErating": 35.05256221009685
+    "SORINErating": 60.471490725811684,
+    "projection": 23.4,
+    "adp": 454
   },
   {
     "name": "Tylan Wallace",
@@ -7893,7 +7585,9 @@
       1.2,
       0
     ],
-    "SORINErating": 33.717814095948455
+    "SORINErating": 58.876006006807685,
+    "projection": 21.1,
+    "adp": 374
   },
   {
     "name": "D'Ernest Johnson",
@@ -7921,7 +7615,8 @@
       3.1,
       3.6
     ],
-    "SORINErating": 26.416255518285908
+    "SORINErating": 57.68424511410484,
+    "projection": 1.7
   },
   {
     "name": "Erick All Jr.",
@@ -7949,7 +7644,9 @@
       null,
       null
     ],
-    "SORINErating": 41.13671384194145
+    "SORINErating": 61.916224215671434,
+    "projection": 5.4,
+    "adp": 0
   },
   {
     "name": "Jalen Brooks",
@@ -7977,7 +7674,9 @@
       2.2,
       0
     ],
-    "SORINErating": 36.98601439463494
+    "SORINErating": 59.42556044841248,
+    "projection": 8.7,
+    "adp": 0
   },
   {
     "name": "Trey Palmer",
@@ -8005,7 +7704,9 @@
       0,
       0
     ],
-    "SORINErating": 35.66021669105398
+    "SORINErating": 58.460353121377196,
+    "projection": 2.4,
+    "adp": 449
   },
   {
     "name": "Pierre Strong Jr.",
@@ -8033,7 +7734,9 @@
       7.8,
       null
     ],
-    "SORINErating": 32.71162469402745
+    "SORINErating": 58.69508027624661,
+    "projection": 15.2,
+    "adp": 0
   },
   {
     "name": "Brock Wright",
@@ -8061,7 +7764,9 @@
       0,
       0
     ],
-    "SORINErating": 36.1959852940733
+    "SORINErating": 60.070231787568545,
+    "projection": 41.4,
+    "adp": 304
   },
   {
     "name": "Luke McCaffrey",
@@ -8089,7 +7794,9 @@
       0,
       0
     ],
-    "SORINErating": 32.658385698926054
+    "SORINErating": 58.294244697689656,
+    "projection": 48.4,
+    "adp": 273
   },
   {
     "name": "Stone Smartt",
@@ -8117,7 +7824,9 @@
       4.3,
       0
     ],
-    "SORINErating": 33.58661376162258
+    "SORINErating": 60.5552964038037,
+    "projection": 13.7,
+    "adp": 0
   },
   {
     "name": "Payne Durham",
@@ -8145,7 +7854,9 @@
       11.6,
       9.6
     ],
-    "SORINErating": 38.092847271965304
+    "SORINErating": 62.0468296040496,
+    "projection": 28.9,
+    "adp": 0
   },
   {
     "name": "Cade Stover",
@@ -8173,7 +7884,9 @@
       1.1,
       0
     ],
-    "SORINErating": 35.52801600200476
+    "SORINErating": 60.574858424956105,
+    "projection": 33.8,
+    "adp": 416
   },
   {
     "name": "Lucas Krull",
@@ -8201,7 +7914,9 @@
       1.3,
       0
     ],
-    "SORINErating": 35.708192204459095
+    "SORINErating": 59.844881154804746,
+    "projection": 18.6,
+    "adp": 0
   },
   {
     "name": "Mecole Hardman Jr.",
@@ -8229,7 +7944,9 @@
       null,
       null
     ],
-    "SORINErating": 35.64101557206575
+    "SORINErating": 58.390885726605774,
+    "projection": 6.8,
+    "adp": 339
   },
   {
     "name": "Mo Alie-Cox",
@@ -8257,7 +7974,9 @@
       0,
       0
     ],
-    "SORINErating": 34.2157456121605
+    "SORINErating": 59.44449967454296,
+    "projection": 8.3,
+    "adp": 407
   },
   {
     "name": "Kimani Vidal",
@@ -8285,7 +8004,9 @@
       2.4,
       0
     ],
-    "SORINErating": 35.62133266074296
+    "SORINErating": 58.96803502954248,
+    "projection": 25.4,
+    "adp": 0
   },
   {
     "name": "Ja'Lynn Polk",
@@ -8313,7 +8034,9 @@
       0,
       null
     ],
-    "SORINErating": 33.807108997146685
+    "SORINErating": 58.0981961654718,
+    "projection": 65.5,
+    "adp": 0
   },
   {
     "name": "Jonathan Mingo",
@@ -8341,7 +8064,9 @@
       2.2,
       4.4
     ],
-    "SORINErating": 34.54943230654743
+    "SORINErating": 58.26025113642524,
+    "projection": 11,
+    "adp": 494
   },
   {
     "name": "Kylen Granson",
@@ -8369,7 +8094,9 @@
       6.4,
       1.7
     ],
-    "SORINErating": 36.09842010293605
+    "SORINErating": 59.91277682554824,
+    "projection": 7.4,
+    "adp": 0
   },
   {
     "name": "KhaDarel Hodge",
@@ -8397,7 +8124,9 @@
       1.9,
       3.4
     ],
-    "SORINErating": 34.83240161498192
+    "SORINErating": 58.533302793872906,
+    "projection": 24,
+    "adp": 445
   },
   {
     "name": "Dante Pettis",
@@ -8425,7 +8154,9 @@
       5.7,
       9.6
     ],
-    "SORINErating": 38.80777206908054
+    "SORINErating": 59.91315988096801,
+    "projection": 13.9,
+    "adp": 0
   },
   {
     "name": "Malik Heath",
@@ -8453,7 +8184,9 @@
       7.3,
       8.3
     ],
-    "SORINErating": 35.83994215070458
+    "SORINErating": 59.60249917608695,
+    "projection": 14.4,
+    "adp": 0
   },
   {
     "name": "Chris Rodriguez Jr.",
@@ -8481,7 +8214,9 @@
       9.8,
       0
     ],
-    "SORINErating": 42.51039091130207
+    "SORINErating": 61.67008642312526,
+    "projection": 20.7,
+    "adp": 0
   },
   {
     "name": "Khalil Herbert",
@@ -8509,7 +8244,9 @@
       2.3,
       15.3
     ],
-    "SORINErating": 36.733110554599634
+    "SORINErating": 59.90355139434243,
+    "projection": 60.1,
+    "adp": 358
   },
   {
     "name": "Patrick Taylor Jr.",
@@ -8537,7 +8274,9 @@
       0,
       13.1
     ],
-    "SORINErating": 37.94230022528709
+    "SORINErating": 60.18252585179026,
+    "projection": 17.4,
+    "adp": 459
   },
   {
     "name": "Jake Bobo",
@@ -8565,7 +8304,9 @@
       0,
       7.4
     ],
-    "SORINErating": 33.13733379673654
+    "SORINErating": 58.06505833016122,
+    "projection": 30.8,
+    "adp": 289
   },
   {
     "name": "Kendre Miller",
@@ -8593,7 +8334,9 @@
       2.9,
       null
     ],
-    "SORINErating": 38.91293566672126
+    "SORINErating": 60.435706129099074,
+    "projection": 74.2,
+    "adp": 0
   },
   {
     "name": "JaMycal Hasty",
@@ -8621,7 +8364,9 @@
       0,
       null
     ],
-    "SORINErating": 24.981853194444433
+    "SORINErating": 56.63274279284914,
+    "projection": 1.3,
+    "adp": 0
   },
   {
     "name": "Jeremy Ruckert",
@@ -8649,7 +8394,9 @@
       0,
       1.5
     ],
-    "SORINErating": 28.769648938766963
+    "SORINErating": 57.996781218927836,
+    "projection": 42.1,
+    "adp": 404
   },
   {
     "name": "Ty Chandler",
@@ -8677,7 +8424,9 @@
       0.7,
       null
     ],
-    "SORINErating": 31.963961701855254
+    "SORINErating": 57.35368095455281,
+    "projection": 23.9,
+    "adp": 338
   },
   {
     "name": "Charlie Kolar",
@@ -8705,35 +8454,9 @@
       null,
       0
     ],
-    "SORINErating": 37.75956876965472
-  },
-  {
-    "name": "Kevin Austin Jr.",
-    "team": "NO",
-    "position": "WR",
-    "avgPoints": 3.4,
-    "AVGSecondHalf": 3.14,
-    "weeklyPoints": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      5.6,
-      2.8,
-      null,
-      7,
-      1.5,
-      1.8,
-      2.7,
-      3.3,
-      2.3
-    ],
-    "SORINErating": 36.17526781019562
+    "SORINErating": 59.31653648027342,
+    "projection": 15.6,
+    "adp": 458
   },
   {
     "name": "Hunter Luepke",
@@ -8761,7 +8484,9 @@
       1.1,
       1.5
     ],
-    "SORINErating": 28.157576188218417
+    "SORINErating": 56.70795469395192,
+    "projection": 8.9,
+    "adp": 0
   },
   {
     "name": "Bub Means",
@@ -8789,7 +8514,9 @@
       null,
       null
     ],
-    "SORINErating": 40.32811089839729
+    "SORINErating": 60.11296071917031,
+    "projection": 39.5,
+    "adp": 0
   },
   {
     "name": "Eric Saubert",
@@ -8817,7 +8544,9 @@
       0,
       5.7
     ],
-    "SORINErating": 31.74937970697917
+    "SORINErating": 58.64898587192478,
+    "projection": 11.8,
+    "adp": 0
   },
   {
     "name": "Daniel Bellinger",
@@ -8845,7 +8574,9 @@
       0,
       2.9
     ],
-    "SORINErating": 31.790837907486075
+    "SORINErating": 59.17786647694316,
+    "projection": 33.6,
+    "adp": 331
   },
   {
     "name": "Alec Ingold",
@@ -8873,7 +8604,9 @@
       0,
       4.1
     ],
-    "SORINErating": 31.377742087399383
+    "SORINErating": 57.28266457887222,
+    "projection": 21.4,
+    "adp": 0
   },
   {
     "name": "Jordan Mims",
@@ -8901,7 +8634,9 @@
       null,
       5.5
     ],
-    "SORINErating": 26.832192654448317
+    "SORINErating": 57.950140067192834,
+    "projection": 11.9,
+    "adp": 0
   },
   {
     "name": "Drew Ogletree",
@@ -8929,35 +8664,9 @@
       0,
       3.1
     ],
-    "SORINErating": 31.135261464636066
-  },
-  {
-    "name": "Mason Tipton",
-    "team": "NO",
-    "position": "WR",
-    "avgPoints": 2.2,
-    "AVGSecondHalf": 1.1,
-    "weeklyPoints": [
-      1.6,
-      0,
-      3.1,
-      1.6,
-      1.2,
-      2.5,
-      10.5,
-      3.4,
-      0,
-      0,
-      null,
-      null,
-      null,
-      null,
-      null,
-      0,
-      null,
-      null
-    ],
-    "SORINErating": 33.181181167727296
+    "SORINErating": 58.05410225478681,
+    "projection": 20.6,
+    "adp": 0
   },
   {
     "name": "Xavier Hutchinson",
@@ -8985,7 +8694,9 @@
       4.1,
       1.5
     ],
-    "SORINErating": 31.93718921190511
+    "SORINErating": 57.351735544637926,
+    "projection": 35,
+    "adp": 0
   },
   {
     "name": "Bo Melton",
@@ -9013,35 +8724,9 @@
       4.8,
       0.1
     ],
-    "SORINErating": 29.954155921362123
-  },
-  {
-    "name": "Kenny McIntosh",
-    "team": "SEA",
-    "position": "RB",
-    "avgPoints": 1.9,
-    "AVGSecondHalf": 2.84,
-    "weeklyPoints": [
-      null,
-      0,
-      1.1,
-      0,
-      null,
-      null,
-      0.5,
-      null,
-      null,
-      null,
-      0,
-      0,
-      0,
-      6.5,
-      0.9,
-      3.9,
-      4.6,
-      4.9
-    ],
-    "SORINErating": 31.162556486425906
+    "SORINErating": 56.605567136741556,
+    "projection": 16.9,
+    "adp": 0
   },
   {
     "name": "Trent Sherfield Sr.",
@@ -9069,7 +8754,9 @@
       0,
       0
     ],
-    "SORINErating": 31.020641896214862
+    "SORINErating": 56.500212841370754,
+    "projection": 4.3,
+    "adp": 482
   },
   {
     "name": "Julian Hill",
@@ -9097,7 +8784,9 @@
       0,
       0
     ],
-    "SORINErating": 30.825176928681266
+    "SORINErating": 57.417623618446115,
+    "projection": 32.2,
+    "adp": 303
   },
   {
     "name": "Dorian Thompson-Robinson",
@@ -9125,35 +8814,9 @@
       4.8,
       0.8
     ],
-    "SORINErating": 19.245706214409992
-  },
-  {
-    "name": "Rakim Jarrett",
-    "team": "TB",
-    "position": "WR",
-    "avgPoints": 2.1,
-    "AVGSecondHalf": 1.23,
-    "weeklyPoints": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      8.8,
-      1.9,
-      3,
-      null,
-      4,
-      0,
-      0,
-      0,
-      1.6,
-      2.1,
-      0
-    ],
-    "SORINErating": 33.76039802485248
+    "SORINErating": 48.580136865220254,
+    "projection": 0,
+    "adp": 413
   },
   {
     "name": "DeeJay Dallas",
@@ -9181,7 +8844,9 @@
       1.5,
       3.7
     ],
-    "SORINErating": 30.895603575100715
+    "SORINErating": 57.056311066297084,
+    "projection": 7.6,
+    "adp": 0
   },
   {
     "name": "Craig Reynolds",
@@ -9209,7 +8874,9 @@
       8.6,
       3.9
     ],
-    "SORINErating": 33.10227261998427
+    "SORINErating": 57.44698098960319,
+    "projection": 19.3,
+    "adp": 334
   },
   {
     "name": "Devin Duvernay",
@@ -9237,7 +8904,9 @@
       1.4,
       0
     ],
-    "SORINErating": 31.76417905154317
+    "SORINErating": 56.781100689603576,
+    "projection": 7.4,
+    "adp": 483
   },
   {
     "name": "Ashton Dulin",
@@ -9265,7 +8934,9 @@
       0,
       0
     ],
-    "SORINErating": 30.807216863174464
+    "SORINErating": 56.14852194233678,
+    "projection": 4.2,
+    "adp": 0
   },
   {
     "name": "K.J. Osborn",
@@ -9293,7 +8964,9 @@
       0,
       null
     ],
-    "SORINErating": 32.89450870453881
+    "SORINErating": 56.26023166869061,
+    "projection": 75.6,
+    "adp": 486
   },
   {
     "name": "Luke Farrell",
@@ -9321,7 +8994,9 @@
       0,
       1.4
     ],
-    "SORINErating": 29.772173286467016
+    "SORINErating": 56.768179134759215,
+    "projection": 15.6,
+    "adp": 477
   },
   {
     "name": "Ronnie Rivers",
@@ -9349,7 +9024,9 @@
       null,
       12.2
     ],
-    "SORINErating": 35.482961267664926
+    "SORINErating": 58.25714721382497,
+    "projection": 12.6,
+    "adp": 0
   },
   {
     "name": "Ryan Flournoy",
@@ -9377,7 +9054,9 @@
       1.3,
       3.4
     ],
-    "SORINErating": 33.15801465941918
+    "SORINErating": 56.46745926067165,
+    "projection": 4.8,
+    "adp": 0
   },
   {
     "name": "Brevyn Spann-Ford",
@@ -9405,7 +9084,9 @@
       0,
       0
     ],
-    "SORINErating": 28.39318941655056
+    "SORINErating": 56.66677044086788,
+    "projection": 18.1,
+    "adp": 0
   },
   {
     "name": "Ainias Smith",
@@ -9433,7 +9114,9 @@
       0,
       13.9
     ],
-    "SORINErating": 34.45681127345048
+    "SORINErating": 57.60806252430858,
+    "projection": 5.5,
+    "adp": 375
   },
   {
     "name": "Harrison Bryant",
@@ -9461,7 +9144,9 @@
       0,
       0
     ],
-    "SORINErating": 32.25714903254271
+    "SORINErating": 56.467023428624806,
+    "projection": 1.1,
+    "adp": 0
   },
   {
     "name": "Patrick Ricard",
@@ -9489,7 +9174,9 @@
       0,
       2.4
     ],
-    "SORINErating": 31.30321028555273
+    "SORINErating": 56.30285981598116,
+    "projection": 10.9,
+    "adp": 411
   },
   {
     "name": "Blake Whiteheart",
@@ -9517,7 +9204,9 @@
       1.8,
       1.1
     ],
-    "SORINErating": 30.924813165338993
+    "SORINErating": 56.72920172933772,
+    "projection": 4.3,
+    "adp": 0
   },
   {
     "name": "Simi Fehoko",
@@ -9545,7 +9234,8 @@
       null,
       null
     ],
-    "SORINErating": 32.664766439018685
+    "SORINErating": 56.011088765810904,
+    "projection": 20.7
   },
   {
     "name": "Zay Jones",
@@ -9573,7 +9263,9 @@
       2.9,
       8.6
     ],
-    "SORINErating": 30.877839100921385
+    "SORINErating": 56.05120553831644,
+    "projection": 42.4,
+    "adp": 0
   },
   {
     "name": "Connor Heyward",
@@ -9601,35 +9293,9 @@
       1.8,
       0
     ],
-    "SORINErating": 30.244046707259372
-  },
-  {
-    "name": "MyCole Pruitt",
-    "team": "FA",
-    "position": "TE",
-    "avgPoints": 1.3,
-    "AVGSecondHalf": 1.68,
-    "weeklyPoints": [
-      1.9,
-      0,
-      null,
-      null,
-      null,
-      null,
-      0,
-      2,
-      null,
-      0,
-      null,
-      0,
-      4.1,
-      0.9,
-      0,
-      7.1,
-      0,
-      0
-    ],
-    "SORINErating": 22.250851485512634
+    "SORINErating": 56.79327705992755,
+    "projection": 25.9,
+    "adp": 432
   },
   {
     "name": "Kenny Yeboah",
@@ -9657,7 +9323,9 @@
       0,
       4
     ],
-    "SORINErating": 32.81665192870577
+    "SORINErating": 56.35147398806433,
+    "projection": 15.2,
+    "adp": 0
   },
   {
     "name": "Bryce Oliver",
@@ -9685,35 +9353,9 @@
       0,
       2.5
     ],
-    "SORINErating": 29.724303439402036
-  },
-  {
-    "name": "Hayden Hurst",
-    "team": "FA",
-    "position": "TE",
-    "avgPoints": 1.7,
-    "AVGSecondHalf": 1.17,
-    "weeklyPoints": [
-      5.3,
-      1.5,
-      3.5,
-      1.6,
-      null,
-      0,
-      null,
-      null,
-      1.6,
-      0,
-      null,
-      null,
-      null,
-      null,
-      null,
-      1.8,
-      null,
-      0
-    ],
-    "SORINErating": 22.94005348782117
+    "SORINErating": 55.00375378181404,
+    "projection": 8.5,
+    "adp": 0
   },
   {
     "name": "Johnny Wilson",
@@ -9741,7 +9383,9 @@
       0,
       5.4
     ],
-    "SORINErating": 27.05981301843041
+    "SORINErating": 55.29066805026496,
+    "projection": 12.5,
+    "adp": 342
   },
   {
     "name": "Jermaine Burton",
@@ -9769,7 +9413,9 @@
       0,
       null
     ],
-    "SORINErating": 31.976074977156635
+    "SORINErating": 55.80113324739845,
+    "projection": 53.9,
+    "adp": 368
   },
   {
     "name": "Quintin Morris",
@@ -9797,35 +9443,8 @@
       0,
       5
     ],
-    "SORINErating": 27.21164759344639
-  },
-  {
-    "name": "Odell Beckham Jr.",
-    "team": "FA",
-    "position": "WR",
-    "avgPoints": 1.6,
-    "AVGSecondHalf": 1.15,
-    "weeklyPoints": [
-      null,
-      null,
-      null,
-      null,
-      0,
-      null,
-      0,
-      0,
-      4.5,
-      3.7,
-      3.3,
-      0,
-      1.9,
-      1.1,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SORINErating": 20.35423556695048
+    "SORINErating": 56.18372737515044,
+    "projection": 17.8
   },
   {
     "name": "John Bates",
@@ -9853,7 +9472,9 @@
       2.4,
       0
     ],
-    "SORINErating": 28.0950097428934
+    "SORINErating": 55.88737311861366,
+    "projection": 15.2,
+    "adp": 390
   },
   {
     "name": "Durham Smythe",
@@ -9881,7 +9502,9 @@
       0,
       0
     ],
-    "SORINErating": 25.993768661288122
+    "SORINErating": 55.51554694624879,
+    "projection": 7.6,
+    "adp": 0
   },
   {
     "name": "Jalin Hyatt",
@@ -9909,35 +9532,9 @@
       0,
       0
     ],
-    "SORINErating": 29.882659494685164
-  },
-  {
-    "name": "Brandon Powell",
-    "team": "FA",
-    "position": "WR",
-    "avgPoints": 0.8,
-    "AVGSecondHalf": 0.6,
-    "weeklyPoints": [
-      0,
-      3.6,
-      2.3,
-      0,
-      0,
-      null,
-      0,
-      0,
-      1.9,
-      0,
-      2.3,
-      0,
-      1.8,
-      0,
-      2.2,
-      0,
-      0,
-      0
-    ],
-    "SORINErating": 17.885060388678312
+    "SORINErating": 55.75935451391102,
+    "projection": 35.9,
+    "adp": 330
   },
   {
     "name": "Ben Sinnott",
@@ -9965,63 +9562,9 @@
       0,
       0
     ],
-    "SORINErating": 28.770485317249232
-  },
-  {
-    "name": "River Cracraft",
-    "team": "FA",
-    "position": "WR",
-    "avgPoints": 1.7,
-    "AVGSecondHalf": 2.19,
-    "weeklyPoints": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      0,
-      0,
-      0,
-      0,
-      null,
-      1.6,
-      1.6,
-      2.6,
-      7.8
-    ],
-    "SORINErating": 21.135353144338204
-  },
-  {
-    "name": "Chris Conley",
-    "team": "FA",
-    "position": "WR",
-    "avgPoints": 0.9,
-    "AVGSecondHalf": 1.64,
-    "weeklyPoints": [
-      0,
-      1.4,
-      0,
-      0,
-      null,
-      0,
-      0,
-      0,
-      null,
-      null,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      2.3,
-      9.9
-    ],
-    "SORINErating": 18.89055423619623
+    "SORINErating": 56.351184338474816,
+    "projection": 49.8,
+    "adp": 0
   },
   {
     "name": "C.J. Ham",
@@ -10049,7 +9592,9 @@
       3.5,
       0
     ],
-    "SORINErating": 27.143452128296563
+    "SORINErating": 55.38889577071101,
+    "projection": 16.6,
+    "adp": 363
   },
   {
     "name": "Julius Chestnut",
@@ -10077,7 +9622,9 @@
       1.7,
       1.1
     ],
-    "SORINErating": 27.819255756433073
+    "SORINErating": 55.004151027592755,
+    "projection": 12.3,
+    "adp": 352
   },
   {
     "name": "DJ Chark Jr.",
@@ -10105,7 +9652,9 @@
       0,
       7.6
     ],
-    "SORINErating": 21.6705010519646
+    "SORINErating": 53.68440983756171,
+    "projection": 27.8,
+    "adp": 406
   },
   {
     "name": "Hunter Long",
@@ -10133,7 +9682,9 @@
       0,
       0
     ],
-    "SORINErating": 25.896206856774647
+    "SORINErating": 55.52674153559033,
+    "projection": 18.1,
+    "adp": 0
   },
   {
     "name": "Chris Manhertz",
@@ -10161,7 +9712,8 @@
       2.2,
       2.6
     ],
-    "SORINErating": 25.60499369151868
+    "SORINErating": 55.37676660041457,
+    "projection": 11.5
   },
   {
     "name": "Scotty Miller",
@@ -10189,7 +9741,9 @@
       0,
       null
     ],
-    "SORINErating": 26.07377975440185
+    "SORINErating": 54.545440032047814,
+    "projection": 7.3,
+    "adp": 425
   },
   {
     "name": "Ben Skowronek",
@@ -10217,35 +9771,9 @@
       null,
       0
     ],
-    "SORINErating": 26.75599505452152
-  },
-  {
-    "name": "Gerald Everett",
-    "team": "FA",
-    "position": "TE",
-    "avgPoints": 0.7,
-    "AVGSecondHalf": 0.29,
-    "weeklyPoints": [
-      0.9,
-      2.1,
-      0,
-      0,
-      4.2,
-      0,
-      null,
-      1.3,
-      1.5,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1.6,
-      0,
-      0
-    ],
-    "SORINErating": 18.53168862818473
+    "SORINErating": 54.272541363585546,
+    "projection": 16.8,
+    "adp": 0
   },
   {
     "name": "Charlie Woerner",
@@ -10273,7 +9801,9 @@
       1.6,
       0
     ],
-    "SORINErating": 26.3721821862935
+    "SORINErating": 55.41601736009094,
+    "projection": 33.2,
+    "adp": 498
   },
   {
     "name": "Luke Musgrave",
@@ -10301,7 +9831,9 @@
       1.4,
       2.9
     ],
-    "SORINErating": 31.168624606424025
+    "SORINErating": 55.2106654359764,
+    "projection": 46.2,
+    "adp": 268
   },
   {
     "name": "Tucker Fisk",
@@ -10329,35 +9861,9 @@
       1.8,
       0
     ],
-    "SORINErating": 27.61228507177359
-  },
-  {
-    "name": "Peyton Hendershot",
-    "team": "FA",
-    "position": "TE",
-    "avgPoints": 1.4,
-    "AVGSecondHalf": 1.48,
-    "weeklyPoints": [
-      null,
-      0,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      1.9,
-      1.6,
-      2.1,
-      0,
-      null,
-      null,
-      null,
-      null,
-      0,
-      4.5
-    ],
-    "SORINErating": 21.10474363275714
+    "SORINErating": 54.341129005075985,
+    "projection": 5.9,
+    "adp": 0
   },
   {
     "name": "Davis Allen",
@@ -10385,7 +9891,9 @@
       0,
       0
     ],
-    "SORINErating": 25.913112042783574
+    "SORINErating": 54.607220862756144,
+    "projection": 9.1,
+    "adp": 471
   },
   {
     "name": "Tip Reiman",
@@ -10413,7 +9921,9 @@
       0,
       0
     ],
-    "SORINErating": 26.975654070147385
+    "SORINErating": 55.29059663974837,
+    "projection": 15.1,
+    "adp": 0
   },
   {
     "name": "Devontez Walker",
@@ -10441,7 +9951,9 @@
       0,
       0
     ],
-    "SORINErating": 28.376955631933676
+    "SORINErating": 53.81719395909916,
+    "projection": 15.7,
+    "adp": 380
   },
   {
     "name": "Ben Sims",
@@ -10469,7 +9981,8 @@
       0,
       0
     ],
-    "SORINErating": 26.446472759982303
+    "SORINErating": 54.55608595876066,
+    "projection": 0
   },
   {
     "name": "Sione Vaki",
@@ -10497,7 +10010,9 @@
       0,
       null
     ],
-    "SORINErating": 28.105688455737013
+    "SORINErating": 53.87395489374941,
+    "projection": 1.3,
+    "adp": 419
   },
   {
     "name": "Raheem Blackshear",
@@ -10525,7 +10040,9 @@
       2,
       4.7
     ],
-    "SORINErating": 24.556609263076986
+    "SORINErating": 54.189686191291216,
+    "projection": 16.1,
+    "adp": 353
   },
   {
     "name": "Cam Grandy",
@@ -10553,7 +10070,9 @@
       1.7,
       1.9
     ],
-    "SORINErating": 26.123564981815584
+    "SORINErating": 53.43757343537275,
+    "projection": 14.3,
+    "adp": 0
   },
   {
     "name": "Greg Dulcich",
@@ -10581,7 +10100,9 @@
       0,
       0
     ],
-    "SORINErating": 25.226444318501358
+    "SORINErating": 53.26505421180782,
+    "projection": 12.3,
+    "adp": 0
   },
   {
     "name": "E.J. Jenkins",
@@ -10609,7 +10130,9 @@
       0,
       7.7
     ],
-    "SORINErating": 30.187196000300705
+    "SORINErating": 54.360103570364444,
+    "projection": 0,
+    "adp": 0
   },
   {
     "name": "Tim Jones",
@@ -10637,35 +10160,9 @@
       2.1,
       0
     ],
-    "SORINErating": 26.06310191063637
-  },
-  {
-    "name": "Terrace Marshall Jr.",
-    "team": "PHI",
-    "position": "WR",
-    "avgPoints": 1,
-    "AVGSecondHalf": 1.16,
-    "weeklyPoints": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      0,
-      null,
-      0,
-      1.6,
-      1.7,
-      0,
-      3.8,
-      0
-    ],
-    "SORINErating": 25.66815051933692
+    "SORINErating": 53.805790382516946,
+    "projection": 18.4,
+    "adp": 0
   },
   {
     "name": "Will Mallory",
@@ -10693,7 +10190,8 @@
       null,
       null
     ],
-    "SORINErating": 24.54056674233847
+    "SORINErating": 53.028741360842666,
+    "projection": 8.3
   },
   {
     "name": "Travis Homer",
@@ -10721,7 +10219,9 @@
       null,
       null
     ],
-    "SORINErating": 24.657483271030785
+    "SORINErating": 52.57859423133418,
+    "projection": 15.6,
+    "adp": 434
   },
   {
     "name": "Xavier Smith",
@@ -10749,7 +10249,9 @@
       0,
       0.6
     ],
-    "SORINErating": 24.786812401157107
+    "SORINErating": 53.145606088214265,
+    "projection": 1.4,
+    "adp": 0
   },
   {
     "name": "Ihmir Smith-Marsette",
@@ -10777,35 +10279,9 @@
       6,
       0
     ],
-    "SORINErating": 26.458076614694892
-  },
-  {
-    "name": "Allen Robinson II",
-    "team": "FA",
-    "position": "WR",
-    "avgPoints": 0.5,
-    "AVGSecondHalf": 0.51,
-    "weeklyPoints": [
-      null,
-      null,
-      0,
-      null,
-      null,
-      0,
-      null,
-      0,
-      1.2,
-      0,
-      1.7,
-      0,
-      0,
-      0,
-      0,
-      0,
-      3.1,
-      null
-    ],
-    "SORINErating": 15.21028221417037
+    "SORINErating": 53.64067456444978,
+    "projection": 1.4,
+    "adp": 465
   },
   {
     "name": "Jamari Thrash",
@@ -10833,35 +10309,9 @@
       0,
       0
     ],
-    "SORINErating": 26.71831287462755
-  },
-  {
-    "name": "Dallin Holker",
-    "team": "NO",
-    "position": "TE",
-    "avgPoints": 0.4,
-    "AVGSecondHalf": 0.79,
-    "weeklyPoints": [
-      null,
-      null,
-      null,
-      null,
-      0,
-      0,
-      0,
-      null,
-      0,
-      0,
-      0,
-      null,
-      0,
-      2,
-      0,
-      0,
-      0,
-      3.1
-    ],
-    "SORINErating": 24.608684181257786
+    "SORINErating": 52.34679570914135,
+    "projection": 8,
+    "adp": 414
   },
   {
     "name": "Tanner Conner",
@@ -10889,7 +10339,9 @@
       null,
       null
     ],
-    "SORINErating": 25.008062337788026
+    "SORINErating": 52.135650765833354,
+    "projection": 16.3,
+    "adp": 0
   },
   {
     "name": "Trenton Irwin",
@@ -10917,7 +10369,9 @@
       null,
       null
     ],
-    "SORINErating": 14.848964338391694
+    "SORINErating": 49.64482778752512,
+    "projection": 0.5,
+    "adp": 0
   },
   {
     "name": "Josiah Deguara",
@@ -10945,35 +10399,8 @@
       0,
       0
     ],
-    "SORINErating": 23.557511904237515
-  },
-  {
-    "name": "Ronnie Bell",
-    "team": "DET",
-    "position": "WR",
-    "avgPoints": 0.5,
-    "AVGSecondHalf": 0.25,
-    "weeklyPoints": [
-      0,
-      0,
-      2.2,
-      null,
-      0,
-      null,
-      2,
-      0,
-      null,
-      0,
-      null,
-      0,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SORINErating": 24.69384621241388
+    "SORINErating": 52.370130415515334,
+    "projection": 0
   },
   {
     "name": "Jaheim Bell",
@@ -11001,7 +10428,9 @@
       0,
       2.9
     ],
-    "SORINErating": 23.02101685252946
+    "SORINErating": 52.60681461440398,
+    "projection": 16.5,
+    "adp": 0
   },
   {
     "name": "Anthony Gould",
@@ -11029,7 +10458,9 @@
       0,
       0
     ],
-    "SORINErating": 23.757148844941106
+    "SORINErating": 51.01491523668679,
+    "projection": 4.2,
+    "adp": 0
   },
   {
     "name": "Shane Zylstra",
@@ -11057,7 +10488,9 @@
       0,
       0
     ],
-    "SORINErating": 23.26021364462946
+    "SORINErating": 52.00522356511669,
+    "projection": 0,
+    "adp": 0
   },
   {
     "name": "Jack Stoll",
@@ -11085,35 +10518,9 @@
       0,
       null
     ],
-    "SORINErating": 22.80366234073716
-  },
-  {
-    "name": "Eric Tomlinson",
-    "team": "FA",
-    "position": "TE",
-    "avgPoints": 0.3,
-    "AVGSecondHalf": 0.15,
-    "weeklyPoints": [
-      0,
-      0,
-      0,
-      0,
-      null,
-      0,
-      1.7,
-      0,
-      1.2,
-      null,
-      null,
-      null,
-      null,
-      null,
-      0,
-      null,
-      null,
-      null
-    ],
-    "SORINErating": 13.716795565107187
+    "SORINErating": 51.09125983048524,
+    "projection": 5.1,
+    "adp": 0
   },
   {
     "name": "Isaiah Williams",
@@ -11141,147 +10548,9 @@
       0,
       0
     ],
-    "SORINErating": 25.61128718068463
-  },
-  {
-    "name": "Javon Baker",
-    "team": "NE",
-    "position": "WR",
-    "avgPoints": 0.2,
-    "AVGSecondHalf": 0.4,
-    "weeklyPoints": [
-      null,
-      0,
-      null,
-      null,
-      null,
-      null,
-      null,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      null,
-      null,
-      0,
-      0,
-      2.2
-    ],
-    "SORINErating": 21.930378229347227
-  },
-  {
-    "name": "Feleipe Franks",
-    "team": "ATL",
-    "position": "QB",
-    "avgPoints": 0.1,
-    "AVGSecondHalf": 0.29,
-    "weeklyPoints": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      null,
-      null,
-      0,
-      null,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      2.2
-    ],
-    "SORINErating": 19.02576478989379
-  },
-  {
-    "name": "Geoff Swaim",
-    "team": "FA",
-    "position": "TE",
-    "avgPoints": 0.2,
-    "AVGSecondHalf": 0.2,
-    "weeklyPoints": [
-      null,
-      null,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1.7,
-      0,
-      null,
-      0,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SORINErating": 12.298344507465806
-  },
-  {
-    "name": "Ramel Keyton",
-    "team": "FA",
-    "position": "WR",
-    "avgPoints": 0.2,
-    "AVGSecondHalf": 0.03,
-    "weeklyPoints": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      1.7,
-      null,
-      0,
-      0,
-      null,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "SORINErating": 11.574192305078547
-  },
-  {
-    "name": "John Samuel Shenker",
-    "team": "FA",
-    "position": "TE",
-    "avgPoints": 0.2,
-    "AVGSecondHalf": 0.07,
-    "weeklyPoints": [
-      null,
-      null,
-      null,
-      0,
-      0,
-      0,
-      0,
-      1.7,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      0,
-      0,
-      null
-    ],
-    "SORINErating": 12.0489459562848
+    "SORINErating": 50.83577153421693,
+    "projection": 5,
+    "adp": 472
   },
   {
     "name": "Jared Wiley",
@@ -11309,63 +10578,9 @@
       null,
       null
     ],
-    "SORINErating": 20.553583879649487
-  },
-  {
-    "name": "Jaelon Darden",
-    "team": "FA",
-    "position": "WR",
-    "avgPoints": 0.1,
-    "AVGSecondHalf": 0.01,
-    "weeklyPoints": [
-      0,
-      null,
-      null,
-      null,
-      null,
-      1.6,
-      0,
-      0,
-      0,
-      null,
-      null,
-      null,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "SORINErating": 10.695359384813202
-  },
-  {
-    "name": "Collin Johnson",
-    "team": "LV",
-    "position": "WR",
-    "avgPoints": 0.2,
-    "AVGSecondHalf": 0.23,
-    "weeklyPoints": [
-      null,
-      0,
-      0,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      0,
-      0,
-      1.6,
-      0,
-      0,
-      0,
-      0
-    ],
-    "SORINErating": 23.08770186128089
+    "SORINErating": 49.66102313291761,
+    "projection": 13,
+    "adp": 0
   },
   {
     "name": "Tyler Scott",
@@ -11393,7 +10608,9 @@
       0,
       0
     ],
-    "SORINErating": 21.226437835860924
+    "SORINErating": 50.38557802035252,
+    "projection": 6.6,
+    "adp": 437
   },
   {
     "name": "Ross Dwelley",
@@ -11421,7 +10638,9 @@
       null,
       0
     ],
-    "SORINErating": 20.3893142147882
+    "SORINErating": 51.31027846404052,
+    "projection": 11.7,
+    "adp": 0
   },
   {
     "name": "John FitzPatrick",
@@ -11449,35 +10668,9 @@
       0,
       0
     ],
-    "SORINErating": 20.0455456962529
-  },
-  {
-    "name": "Marcedes Lewis",
-    "team": "FA",
-    "position": "TE",
-    "avgPoints": 0.1,
-    "AVGSecondHalf": 0.01,
-    "weeklyPoints": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1.2,
-      null,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "SORINErating": 12.14083584368047
+    "SORINErating": 49.55121368292063,
+    "projection": 0,
+    "adp": 0
   },
   {
     "name": "Reggie Gilliam",
@@ -11505,7 +10698,8 @@
       0.3,
       0.4
     ],
-    "SORINErating": 22.028905793814317
+    "SORINErating": 51.21667617787995,
+    "projection": 0
   },
   {
     "name": "Jake Tonges",
@@ -11533,35 +10727,9 @@
       null,
       0
     ],
-    "SORINErating": 14.727883237136872
-  },
-  {
-    "name": "Quinton Bell",
-    "team": "MIA",
-    "position": "WR",
-    "avgPoints": 0,
-    "AVGSecondHalf": 0,
-    "weeklyPoints": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      null,
-      0,
-      null,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "SORINErating": 17.379405422958946
+    "SORINErating": 47.57846208915482,
+    "projection": 0,
+    "adp": 0
   },
   {
     "name": "Zach Pascal",
@@ -11589,7 +10757,9 @@
       null,
       0
     ],
-    "SORINErating": 17.88863681017838
+    "SORINErating": 49.02414598811845,
+    "projection": 3.7,
+    "adp": 0
   },
   {
     "name": "Braxton Berrios",
@@ -11617,7 +10787,9 @@
       0,
       null
     ],
-    "SORINErating": 15.832413762822979
+    "SORINErating": 46.381879485981784,
+    "projection": 2.3,
+    "adp": 382
   },
   {
     "name": "Dareke Young",
@@ -11645,7 +10817,9 @@
       0,
       0
     ],
-    "SORINErating": 16.927445649448075
+    "SORINErating": 48.36782044866422,
+    "projection": 8.7,
+    "adp": 0
   },
   {
     "name": "Avery Williams",
@@ -11673,63 +10847,9 @@
       0,
       0
     ],
-    "SORINErating": 19.075100483056584
-  },
-  {
-    "name": "Adam Prentice",
-    "team": "FA",
-    "position": "RB",
-    "avgPoints": 0,
-    "AVGSecondHalf": 0,
-    "weeklyPoints": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      null,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "SORINErating": 7
-  },
-  {
-    "name": "C.J. Uzomah",
-    "team": "FA",
-    "position": "TE",
-    "avgPoints": 0,
-    "AVGSecondHalf": 0,
-    "weeklyPoints": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      null
-    ],
-    "SORINErating": 5.207721444456348
+    "SORINErating": 49.95050383933792,
+    "projection": 3.1,
+    "adp": 430
   },
   {
     "name": "Ko Kieft",
@@ -11757,35 +10877,9 @@
       0,
       0
     ],
-    "SORINErating": 15.05599313412753
-  },
-  {
-    "name": "Jalen Virgil",
-    "team": "BUF",
-    "position": "WR",
-    "avgPoints": 0,
-    "AVGSecondHalf": 0,
-    "weeklyPoints": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      0,
-      0,
-      0,
-      0,
-      null,
-      0,
-      0,
-      null,
-      0,
-      null,
-      null
-    ],
-    "SORINErating": 14.358495578903364
+    "SORINErating": 49.239383559096545,
+    "projection": 0,
+    "adp": 0
   },
   {
     "name": "Teagan Quitoriano",
@@ -11813,7 +10907,9 @@
       null,
       null
     ],
-    "SORINErating": 13.041067316438836
+    "SORINErating": 46.136050077544326,
+    "projection": 17.5,
+    "adp": 0
   },
   {
     "name": "Justin Shorter",
@@ -11841,7 +10937,9 @@
       0,
       null
     ],
-    "SORINErating": 16.47719150079874
+    "SORINErating": 46.40524730661447,
+    "projection": 0,
+    "adp": 0
   },
   {
     "name": "Trayveon Williams",
@@ -11869,7 +10967,9 @@
       0,
       0
     ],
-    "SORINErating": 14.233114792787074
+    "SORINErating": 46.543674863292274,
+    "projection": 2.3,
+    "adp": 0
   },
   {
     "name": "Brady Russell",
@@ -11897,7 +10997,9 @@
       null,
       null
     ],
-    "SORINErating": 12.929605469093367
+    "SORINErating": 47.30180397099428,
+    "projection": 0,
+    "adp": 418
   },
   {
     "name": "Irvin Charles",
@@ -11925,7 +11027,9 @@
       null,
       null
     ],
-    "SORINErating": 17.509488537523307
+    "SORINErating": 48.284340208331095,
+    "projection": 30.9,
+    "adp": 0
   },
   {
     "name": "Brayden Willis",
@@ -11953,6 +11057,8 @@
       0,
       0
     ],
-    "SORINErating": 14.336143228465158
+    "SORINErating": 46.85094493019306,
+    "projection": 0,
+    "adp": 0
   }
 ]
