@@ -1,5 +1,10 @@
-<h2>Fantasy Players</h2>
   <div>
+    <button (click)="setPosition('')">Overall</button>
+    <button (click)="setPosition('QB')">QB</button>
+    <button (click)="setPosition('RB')">RB</button>
+    <button (click)="setPosition('WR')">WR</button>
+    <button (click)="setPosition('TE')">TE</button>
+    <button (click)="setPosition('FLEX')">Flex</button>
     <table mat-table [dataSource]="playerDisplay" >
       <!-- Rank Column -->
       <ng-container matColumnDef="Rank">
@@ -11,6 +16,12 @@
       <ng-container matColumnDef="Name">
         <th mat-header-cell *matHeaderCellDef > Name </th>
         <td mat-cell *matCellDef="let element"> {{element.name}}</td>
+      </ng-container>
+
+      <!-- ADP Column -->
+      <ng-container matColumnDef="ADP">
+        <th mat-header-cell *matHeaderCellDef > ESPN ADP </th>
+        <td mat-cell *matCellDef="let element"> {{element.adp}}</td>
       </ng-container>
 
       <!-- Score Column -->

@@ -6,5 +6,6 @@ export interface Player {
     weeklyPoints: number[];
     SORINErating: number;
     projection: number;
+    adp: number;
   }
   

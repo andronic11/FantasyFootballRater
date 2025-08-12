@@ -25,8 +25,9 @@
       29.4,
       23
     ],
-    "SORINErating": 99.42631075874958,
-    "projection": 375.6
+    "SORINErating": 99.73818073842997,
+    "projection": 375.6,
+    "adp": 21
   },
   {
     "name": "Ja'Marr Chase",
@@ -54,8 +55,9 @@
       19.2,
       25.6
     ],
-    "SORINErating": 98.43357152881269,
-    "projection": 351.9
+    "SORINErating": 98.8408133084969,
+    "projection": 351.9,
+    "adp": 1
   },
   {
     "name": "Josh Allen",
@@ -83,8 +85,9 @@
       23,
       0
     ],
-    "SORINErating": 90.32474297758938,
-    "projection": 376.7
+    "SORINErating": 92.45476972824726,
+    "projection": 376.7,
+    "adp": 20
   },
   {
     "name": "Joe Burrow",
@@ -112,8 +115,9 @@
       37,
       14
     ],
-    "SORINErating": 88.99888400462974,
-    "projection": 341.6
+    "SORINErating": 90.99763357873667,
+    "projection": 341.6,
+    "adp": 31
   },
   {
     "name": "Baker Mayfield",
@@ -141,8 +145,9 @@
       34.6,
       22.6
     ],
-    "SORINErating": 89.45566495528492,
-    "projection": 321.6
+    "SORINErating": 91.34169093527184,
+    "projection": 321.6,
+    "adp": 51
   },
   {
     "name": "Jayden Daniels",
@@ -170,8 +175,9 @@
       32.8,
       4.2
     ],
-    "SORINErating": 88.48582399527473,
-    "projection": 355.8
+    "SORINErating": 90.98068062956716,
+    "projection": 355.8,
+    "adp": 25
   },
   {
     "name": "Jahmyr Gibbs",
@@ -199,8 +205,9 @@
       26.3,
       46
     ],
-    "SORINErating": 98.50890545217948,
-    "projection": 316.7
+    "SORINErating": 98.86955231896707,
+    "projection": 316.7,
+    "adp": 5
   },
   {
     "name": "Saquon Barkley",
@@ -228,8 +235,9 @@
       18.9,
       null
     ],
-    "SORINErating": 95.0297575482854,
-    "projection": 315
+    "SORINErating": 95.64300668845746,
+    "projection": 315,
+    "adp": 3
   },
   {
     "name": "Bijan Robinson",
@@ -257,8 +265,9 @@
       24.8,
       31.3
     ],
-    "SORINErating": 95.41108485243899,
-    "projection": 317.4
+    "SORINErating": 96.03646115916486,
+    "projection": 317.4,
+    "adp": 2
   },
   {
     "name": "Jared Goff",
@@ -286,8 +295,9 @@
       25.8,
       11.2
     ],
-    "SORINErating": 81.15773268011363,
-    "projection": 290.8
+    "SORINErating": 84.57587190426966,
+    "projection": 290.8,
+    "adp": 119
   },
   {
     "name": "Derrick Henry",
@@ -315,8 +325,9 @@
       24.5,
       30.1
     ],
-    "SORINErating": 91.63885042126482,
-    "projection": 264.8
+    "SORINErating": 92.45657031917372,
+    "projection": 264.8,
+    "adp": 13
   },
   {
     "name": "Bo Nix",
@@ -344,8 +355,9 @@
       22.9,
       33.5
     ],
-    "SORINErating": 81.40754849091725,
-    "projection": 308.8
+    "SORINErating": 84.65506566077474,
+    "projection": 308.8,
+    "adp": 66
   },
   {
     "name": "Jalen Hurts",
@@ -373,8 +385,9 @@
       null,
       null
     ],
-    "SORINErating": 83.05913284982067,
-    "projection": 358.7
+    "SORINErating": 85.34882779020643,
+    "projection": 358.7,
+    "adp": 28
   },
   {
     "name": "Sam Darnold",
@@ -402,8 +415,9 @@
       25.8,
       7.6
     ],
-    "SORINErating": 80.23792666403466,
-    "projection": 257
+    "SORINErating": 83.62227846921256,
+    "projection": 257,
+    "adp": 211
   },
   {
     "name": "Justin Jefferson",
@@ -431,8 +445,9 @@
       17.2,
       8.4
     ],
-    "SORINErating": 91.11292625684828,
-    "projection": 311.5
+    "SORINErating": 92.11983497299983,
+    "projection": 311.5,
+    "adp": 4
   },
   {
     "name": "Amon-Ra St. Brown",
@@ -460,8 +475,9 @@
       20,
       13.7
     ],
-    "SORINErating": 88.82409596502865,
-    "projection": 291.2
+    "SORINErating": 90.09065221332564,
+    "projection": 291.2,
+    "adp": 9
   },
   {
     "name": "Kyler Murray",
@@ -489,8 +505,9 @@
       18,
       27.9
     ],
-    "SORINErating": 76.49254664774868,
-    "projection": 319.1
+    "SORINErating": 80.32967814871392,
+    "projection": 319.1,
+    "adp": 77
   },
   {
     "name": "De'Von Achane",
@@ -518,8 +535,9 @@
       5.8,
       18.1
     ],
-    "SORINErating": 87.91866462757021,
-    "projection": 289.3
+    "SORINErating": 89.41886527779323,
+    "projection": 289.3,
+    "adp": 12
   },
   {
     "name": "Patrick Mahomes II",
@@ -547,8 +565,9 @@
       26,
       null
     ],
-    "SORINErating": 78.9002382634984,
-    "projection": 327
+    "SORINErating": 82.48706406866712,
+    "projection": 327,
+    "adp": 47
   },
   {
     "name": "Josh Jacobs",
@@ -576,8 +595,9 @@
       10.9,
       11.6
     ],
-    "SORINErating": 89.70386392512485,
-    "projection": 264.2
+    "SORINErating": 91.05834522026966,
+    "projection": 264.2,
+    "adp": 18
   },
   {
     "name": "Justin Herbert",
@@ -605,8 +625,9 @@
       24.4,
       28
     ],
-    "SORINErating": 74.24541307991629,
-    "projection": 291.5
+    "SORINErating": 78.5916062617895,
+    "projection": 291.5,
+    "adp": 94
   },
   {
     "name": "Brian Thomas Jr.",
@@ -634,8 +655,9 @@
       23.9,
       17.3
     ],
-    "SORINErating": 89.84425722297323,
-    "projection": 273
+    "SORINErating": 91.49060035912787,
+    "projection": 273,
+    "adp": 16
   },
   {
     "name": "Geno Smith",
@@ -663,8 +685,9 @@
       8.3,
       26.3
     ],
-    "SORINErating": 71.18441573056695,
-    "projection": 261.8
+    "SORINErating": 75.69373732331864,
+    "projection": 261.8,
+    "adp": 223
   },
   {
     "name": "Drake London",
@@ -692,8 +715,9 @@
       17.6,
       40.7
     ],
-    "SORINErating": 87.03423578950685,
-    "projection": 261.7
+    "SORINErating": 88.75489643575428,
+    "projection": 261.7,
+    "adp": 22
   },
   {
     "name": "Brock Purdy",
@@ -721,8 +745,9 @@
       32.3,
       null
     ],
-    "SORINErating": 76.84360871592236,
-    "projection": 310.4
+    "SORINErating": 80.2264422085168,
+    "projection": 310.4,
+    "adp": 82
   },
   {
     "name": "Malik Nabers",
@@ -750,8 +775,9 @@
       36.1,
       17.4
     ],
-    "SORINErating": 89.08936183627713,
-    "projection": 289.9
+    "SORINErating": 90.25110322969459,
+    "projection": 289.9,
+    "adp": 10
   },
   {
     "name": "Kyren Williams",
@@ -779,8 +805,9 @@
       16.2,
       null
     ],
-    "SORINErating": 88.0982696483971,
-    "projection": 246.7
+    "SORINErating": 89.21931661202319,
+    "projection": 246.7,
+    "adp": 26
   },
   {
     "name": "Terry McLaurin",
@@ -808,8 +835,9 @@
       1.5,
       20.2
     ],
-    "SORINErating": 87.16314271864498,
-    "projection": 243.2
+    "SORINErating": 88.79649650851707,
+    "projection": 243.2,
+    "adp": 41
   },
   {
     "name": "Aaron Rodgers",
@@ -837,8 +865,9 @@
       2.5,
       26
     ],
-    "SORINErating": 69.09366639821664,
-    "projection": 237
+    "SORINErating": 73.9242127377156,
+    "projection": 237,
+    "adp": 198
   },
   {
     "name": "James Cook",
@@ -866,8 +895,9 @@
       11.3,
       8.8
     ],
-    "SORINErating": 85.98411286497864,
-    "projection": 227.5
+    "SORINErating": 87.5147236190864,
+    "projection": 227.5,
+    "adp": 33
   },
   {
     "name": "Alvin Kamara",
@@ -895,8 +925,9 @@
       null,
       null
     ],
-    "SORINErating": 89.12598687107074,
-    "projection": 241
+    "SORINErating": 89.64369346148439,
+    "projection": 241,
+    "adp": 38
   },
   {
     "name": "CeeDee Lamb",
@@ -924,8 +955,9 @@
       null,
       null
     ],
-    "SORINErating": 88.062183475307,
-    "projection": 304.7
+    "SORINErating": 89.24209706402905,
+    "projection": 304.7,
+    "adp": 6
   },
   {
     "name": "Brock Bowers",
@@ -953,8 +985,9 @@
       14.6,
       15
     ],
-    "SORINErating": 88.04834395496253,
-    "projection": 255.7
+    "SORINErating": 88.97882483759805,
+    "projection": 255.7,
+    "adp": 19
   },
   {
     "name": "Caleb Williams",
@@ -982,8 +1015,9 @@
       7.6,
       10.9
     ],
-    "SORINErating": 68.97245671229237,
-    "projection": 287.5
+    "SORINErating": 74.2075501407781,
+    "projection": 287.5,
+    "adp": 115
   },
   {
     "name": "Chase Brown",
@@ -1011,8 +1045,9 @@
       13.1,
       null
     ],
-    "SORINErating": 86.57687563133568,
-    "projection": 250.3
+    "SORINErating": 88.22513303292237,
+    "projection": 250.3,
+    "adp": 32
   },
   {
     "name": "James Conner",
@@ -1040,8 +1075,9 @@
       2.8,
       null
     ],
-    "SORINErating": 85.97713208510183,
-    "projection": 223.8
+    "SORINErating": 87.56542920614922,
+    "projection": 223.8,
+    "adp": 49
   },
   {
     "name": "Jaxon Smith-Njigba",
@@ -1069,8 +1105,9 @@
       6.2,
       5.3
     ],
-    "SORINErating": 81.74666312872922,
-    "projection": 246.6
+    "SORINErating": 84.09901346081304,
+    "projection": 246.6,
+    "adp": 36
   },
   {
     "name": "Garrett Wilson",
@@ -1098,8 +1135,9 @@
       17.6,
       9.1
     ],
-    "SORINErating": 81.19691865439016,
-    "projection": 236.2
+    "SORINErating": 83.48573399454239,
+    "projection": 236.2,
+    "adp": 39
   },
   {
     "name": "Trey McBride",
@@ -1127,8 +1165,9 @@
       30.3,
       19.5
     ],
-    "SORINErating": 91.48617138640986,
-    "projection": 243.9
+    "SORINErating": 92.1481835661171,
+    "projection": 243.9,
+    "adp": 24
   },
   {
     "name": "Jordan Love",
@@ -1156,8 +1195,9 @@
       14,
       2.8
     ],
-    "SORINErating": 69.48493650896368,
-    "projection": 278.4
+    "SORINErating": 73.92905751821459,
+    "projection": 278.4,
+    "adp": 124
   },
   {
     "name": "Jonathan Taylor",
@@ -1185,8 +1225,9 @@
       27.6,
       25
     ],
-    "SORINErating": 88.55868534774172,
-    "projection": 242.2
+    "SORINErating": 89.81932747042656,
+    "projection": 242.2,
+    "adp": 17
   },
   {
     "name": "Bucky Irving",
@@ -1214,8 +1255,9 @@
       23,
       16.4
     ],
-    "SORINErating": 84.92925514822821,
-    "projection": 246.9
+    "SORINErating": 86.99150011196828,
+    "projection": 246.9,
+    "adp": 23
   },
   {
     "name": "Aaron Jones Sr.",
@@ -1243,8 +1285,9 @@
       11.7,
       12.5
     ],
-    "SORINErating": 82.11647934028885,
-    "projection": 204.7
+    "SORINErating": 84.23294849494664,
+    "projection": 204.7,
+    "adp": 72
   },
   {
     "name": "Chuba Hubbard",
@@ -1272,8 +1315,9 @@
       null,
       null
     ],
-    "SORINErating": 84.3880927366077,
-    "projection": 212.2
+    "SORINErating": 85.98514817405706,
+    "projection": 212.2,
+    "adp": 46
   },
   {
     "name": "Davante Adams",
@@ -1301,8 +1345,9 @@
       9.7,
       20.8
     ],
-    "SORINErating": 88.26644679171861,
-    "projection": 244.6
+    "SORINErating": 89.86378001389495,
+    "projection": 244.6,
+    "adp": 35
   },
   {
     "name": "Jerry Jeudy",
@@ -1330,8 +1375,9 @@
       21.4,
       12.3
     ],
-    "SORINErating": 83.02660174083256,
-    "projection": 213.6
+    "SORINErating": 85.58725566951912,
+    "projection": 213.6,
+    "adp": 71
   },
   {
     "name": "Ladd McConkey",
@@ -1359,8 +1405,9 @@
       29.4,
       16.5
     ],
-    "SORINErating": 85.07365232476131,
-    "projection": 256.5
+    "SORINErating": 87.03225507444358,
+    "projection": 256.5,
+    "adp": 30
   },
   {
     "name": "Breece Hall",
@@ -1388,8 +1435,9 @@
       6.3,
       18.2
     ],
-    "SORINErating": 80.50480160041127,
-    "projection": 229.4
+    "SORINErating": 82.51707617147127,
+    "projection": 229.4,
+    "adp": 48
   },
   {
     "name": "Joe Mixon",
@@ -1417,8 +1465,9 @@
       5.9,
       3.8
     ],
-    "SORINErating": 81.25578902856037,
-    "projection": 192.6
+    "SORINErating": 82.7319467171105,
+    "projection": 192.6,
+    "adp": 56
   },
   {
     "name": "Mike Evans",
@@ -1446,8 +1495,9 @@
       29.7,
       17.9
     ],
-    "SORINErating": 86.90362795972067,
-    "projection": 243.7
+    "SORINErating": 88.57100560520405,
+    "projection": 243.7,
+    "adp": 40
   },
   {
     "name": "Courtland Sutton",
@@ -1475,8 +1525,9 @@
       16.5,
       20.8
     ],
-    "SORINErating": 83.82423054589275,
-    "projection": 221
+    "SORINErating": 86.00114459488371,
+    "projection": 221,
+    "adp": 59
   },
   {
     "name": "DJ Moore",
@@ -1504,8 +1555,9 @@
       12.2,
       22.1
     ],
-    "SORINErating": 82.17985624806977,
-    "projection": 229.4
+    "SORINErating": 84.76293897647233,
+    "projection": 229.4,
+    "adp": 52
   },
   {
     "name": "George Kittle",
@@ -1533,8 +1585,9 @@
       19.2,
       4.7
     ],
-    "SORINErating": 87.72329849614675,
-    "projection": 223.6
+    "SORINErating": 88.37429019438201,
+    "projection": 223.6,
+    "adp": 34
   },
   {
     "name": "C.J. Stroud",
@@ -1562,8 +1615,9 @@
       7.1,
       6
     ],
-    "SORINErating": 64.00220376523876,
-    "projection": 279.8
+    "SORINErating": 69.7091913144375,
+    "projection": 279.8,
+    "adp": 143
   },
   {
     "name": "Matthew Stafford",
@@ -1591,8 +1645,9 @@
       9.2,
       null
     ],
-    "SORINErating": 64.43780440932088,
-    "projection": 266.6
+    "SORINErating": 70.02975038145642,
+    "projection": 266.6,
+    "adp": 165
   },
   {
     "name": "Jonnu Smith",
@@ -1620,8 +1675,9 @@
       11.6,
       18.6
     ],
-    "SORINErating": 86.16803982301006,
-    "projection": 128.9
+    "SORINErating": 87.71336443300106,
+    "projection": 128.9,
+    "adp": 167
   },
   {
     "name": "Tee Higgins",
@@ -1649,8 +1705,9 @@
       40.1,
       9.3
     ],
-    "SORINErating": 87.88158199393534,
-    "projection": 247.7
+    "SORINErating": 88.86441851264993,
+    "projection": 247.7,
+    "adp": 27
   },
   {
     "name": "David Montgomery",
@@ -1678,8 +1735,9 @@
       null,
       null
     ],
-    "SORINErating": 85.82514492861601,
-    "projection": 195.9
+    "SORINErating": 86.90809725864015,
+    "projection": 195.9,
+    "adp": 62
   },
   {
     "name": "Tyreek Hill",
@@ -1707,8 +1765,9 @@
       19.5,
       4
     ],
-    "SORINErating": 78.25719588236934,
-    "projection": 262.7
+    "SORINErating": 81.21202976762635,
+    "projection": 262.7,
+    "adp": 29
   },
   {
     "name": "Jakobi Meyers",
@@ -1736,8 +1795,9 @@
       17.1,
       27.3
     ],
-    "SORINErating": 82.74766040822168,
-    "projection": 210.9
+    "SORINErating": 84.77279003059398,
+    "projection": 210.9,
+    "adp": 87
   },
   {
     "name": "A.J. Brown",
@@ -1765,8 +1825,9 @@
       12.6,
       null
     ],
-    "SORINErating": 85.3943054657902,
-    "projection": 257.6
+    "SORINErating": 86.70854430182412,
+    "projection": 257.6,
+    "adp": 15
   },
   {
     "name": "D'Andre Swift",
@@ -1794,8 +1855,9 @@
       12.1,
       12.5
     ],
-    "SORINErating": 75.72229496799606,
-    "projection": 203.6
+    "SORINErating": 78.58416919785515,
+    "projection": 203.6,
+    "adp": 57
   },
   {
     "name": "Jordan Addison",
@@ -1823,8 +1885,9 @@
       18.9,
       1
     ],
-    "SORINErating": 81.69999667490546,
-    "projection": 171.1
+    "SORINErating": 84.18025188782369,
+    "projection": 171.1,
+    "adp": 97
   },
   {
     "name": "Jameson Williams",
@@ -1852,8 +1915,9 @@
       24.5,
       9.4
     ],
-    "SORINErating": 81.14174954182809,
-    "projection": 202
+    "SORINErating": 83.36600724656984,
+    "projection": 202,
+    "adp": 67
   },
   {
     "name": "Nico Collins",
@@ -1881,8 +1945,9 @@
       8.9,
       14.8
     ],
-    "SORINErating": 86.34218384796102,
-    "projection": 275.5
+    "SORINErating": 87.20683330371784,
+    "projection": 275.5,
+    "adp": 14
   },
   {
     "name": "Jauan Jennings",
@@ -1910,8 +1975,9 @@
       13.7,
       12.2
     ],
-    "SORINErating": 76.83850021349828,
-    "projection": 196.4
+    "SORINErating": 79.60959462716417,
+    "projection": 196.4,
+    "adp": 110
   },
   {
     "name": "Zay Flowers",
@@ -1939,8 +2005,9 @@
       5.1,
       3.1
     ],
-    "SORINErating": 74.66382528912612,
-    "projection": 220.1
+    "SORINErating": 77.74090532586177,
+    "projection": 220.1,
+    "adp": 53
   },
   {
     "name": "Puka Nacua",
@@ -1968,8 +2035,9 @@
       22.9,
       null
     ],
-    "SORINErating": 91.14214557642622,
-    "projection": 293.4
+    "SORINErating": 91.68019916925226,
+    "projection": 293.4,
+    "adp": 8
   },
   {
     "name": "Najee Harris",
@@ -1997,8 +2065,9 @@
       10.1,
       15.6
     ],
-    "SORINErating": 76.10711985844102,
-    "projection": 127.7
+    "SORINErating": 78.97792235840438,
+    "projection": 127.7,
+    "adp": 160
   },
   {
     "name": "Tony Pollard",
@@ -2026,8 +2095,9 @@
       null,
       6.2
     ],
-    "SORINErating": 77.57197760843984,
-    "projection": 197.4
+    "SORINErating": 80.13897508788992,
+    "projection": 197.4,
+    "adp": 84
   },
   {
     "name": "Rachaad White",
@@ -2055,8 +2125,9 @@
       4.4,
       0
     ],
-    "SORINErating": 76.54892999551014,
-    "projection": 139.3
+    "SORINErating": 79.27404800951837,
+    "projection": 139.3,
+    "adp": 145
   },
   {
     "name": "DeVonta Smith",
@@ -2084,8 +2155,9 @@
       30,
       null
     ],
-    "SORINErating": 85.42751610937319,
-    "projection": 218.9
+    "SORINErating": 87.0648343543613,
+    "projection": 218.9,
+    "adp": 60
   },
   {
     "name": "Calvin Ridley",
@@ -2113,8 +2185,9 @@
       14.1,
       10.3
     ],
-    "SORINErating": 75.2944679059599,
-    "projection": 212
+    "SORINErating": 78.53596858845,
+    "projection": 212,
+    "adp": 63
   },
   {
     "name": "Rico Dowdle",
@@ -2142,8 +2215,9 @@
       9.8,
       16.4
     ],
-    "SORINErating": 78.05418417576723,
-    "projection": 101.8
+    "SORINErating": 80.74203126512492,
+    "projection": 101.8,
+    "adp": 0
   },
   {
     "name": "Jayden Reed",
@@ -2171,8 +2245,9 @@
       1.6,
       5.1
     ],
-    "SORINErating": 72.41168046187892,
-    "projection": 183.3
+    "SORINErating": 75.78633448306168,
+    "projection": 183.3,
+    "adp": 122
   },
   {
     "name": "Marvin Harrison Jr.",
@@ -2200,8 +2275,9 @@
       15.6,
       17.3
     ],
-    "SORINErating": 75.74987567318229,
-    "projection": 234.1
+    "SORINErating": 78.84465993066065,
+    "projection": 234.1,
+    "adp": 45
   },
   {
     "name": "Travis Kelce",
@@ -2229,8 +2305,9 @@
       22.4,
       null
     ],
-    "SORINErating": 81.08238195740745,
-    "projection": 186.8
+    "SORINErating": 82.99701206582776,
+    "projection": 186.8,
+    "adp": 54
   },
   {
     "name": "Darnell Mooney",
@@ -2258,8 +2335,9 @@
       5.7,
       null
     ],
-    "SORINErating": 74.5417726010848,
-    "projection": 172.9
+    "SORINErating": 77.51302412259886,
+    "projection": 172.9,
+    "adp": 129
   },
   {
     "name": "Kirk Cousins",
@@ -2287,8 +2365,9 @@
       null,
       null
     ],
-    "SORINErating": 59.407711878285134,
-    "projection": 7.3
+    "SORINErating": 65.1985746744835,
+    "projection": 7.3,
+    "adp": 259
   },
   {
     "name": "J.K. Dobbins",
@@ -2316,8 +2395,9 @@
       15.3,
       10.5
     ],
-    "SORINErating": 79.17456236644945,
-    "projection": 148.1
+    "SORINErating": 80.8186729743119,
+    "projection": 148.1,
+    "adp": 105
   },
   {
     "name": "DK Metcalf",
@@ -2345,8 +2425,9 @@
       7.2,
       14.3
     ],
-    "SORINErating": 75.30848824940688,
-    "projection": 230.8
+    "SORINErating": 78.07210401481228,
+    "projection": 230.8,
+    "adp": 44
   },
   {
     "name": "Mark Andrews",
@@ -2374,8 +2455,9 @@
       14.8,
       15.4
     ],
-    "SORINErating": 82.62994941769273,
-    "projection": 177.2
+    "SORINErating": 84.6852261448329,
+    "projection": 177.2,
+    "adp": 68
   },
   {
     "name": "Tua Tagovailoa",
@@ -2403,8 +2485,9 @@
       null,
       null
     ],
-    "SORINErating": 73.48560542224506,
-    "projection": 263
+    "SORINErating": 77.28469338675626,
+    "projection": 263,
+    "adp": 163
   },
   {
     "name": "Drake Maye",
@@ -2432,8 +2515,9 @@
       9.9,
       0
     ],
-    "SORINErating": 65.02388200498478,
-    "projection": 274
+    "SORINErating": 70.24646117734298,
+    "projection": 274,
+    "adp": 140
   },
   {
     "name": "Zach Charbonnet",
@@ -2461,8 +2545,9 @@
       10.6,
       9.1
     ],
-    "SORINErating": 73.87371787166248,
-    "projection": 142
+    "SORINErating": 77.45134156605684,
+    "projection": 142,
+    "adp": 152
   },
   {
     "name": "Keenan Allen",
@@ -2490,8 +2575,9 @@
       7.5,
       4.5
     ],
-    "SORINErating": 75.76015742308095,
-    "projection": 156.9
+    "SORINErating": 78.9050528730699,
+    "projection": 156.9,
+    "adp": 128
   },
   {
     "name": "Josh Downs",
@@ -2519,8 +2605,9 @@
       5.2,
       19.4
     ],
-    "SORINErating": 77.19089165338909,
-    "projection": 162.2
+    "SORINErating": 79.50054017160296,
+    "projection": 162.2,
+    "adp": 138
   },
   {
     "name": "Wan'Dale Robinson",
@@ -2548,8 +2635,9 @@
       18.1,
       14.3
     ],
-    "SORINErating": 73.42830764809123,
-    "projection": 150.7
+    "SORINErating": 76.91949140122418,
+    "projection": 150.7,
+    "adp": 197
   },
   {
     "name": "Khalil Shakir",
@@ -2577,8 +2665,9 @@
       5.5,
       null
     ],
-    "SORINErating": 75.68638973843815,
-    "projection": 181.5
+    "SORINErating": 78.4662502935537,
+    "projection": 181.5,
+    "adp": 107
   },
   {
     "name": "Tyrone Tracy Jr.",
@@ -2606,8 +2695,9 @@
       9.3,
       8.6
     ],
-    "SORINErating": 74.4133829188407,
-    "projection": 174.4
+    "SORINErating": 77.75286941854432,
+    "projection": 174.4,
+    "adp": 93
   },
   {
     "name": "Kenneth Walker III",
@@ -2635,8 +2725,9 @@
       null,
       null
     ],
-    "SORINErating": 82.37191059933525,
-    "projection": 225.3
+    "SORINErating": 83.36948423776059,
+    "projection": 225.3,
+    "adp": 37
   },
   {
     "name": "Russell Wilson",
@@ -2664,8 +2755,9 @@
       18.7,
       11.5
     ],
-    "SORINErating": 69.65332644101109,
-    "projection": 194.1
+    "SORINErating": 73.8309796088115,
+    "projection": 194.1,
+    "adp": 255
   },
   {
     "name": "Zach Ertz",
@@ -2693,8 +2785,9 @@
       25.2,
       15.4
     ],
-    "SORINErating": 79.42346703757184,
-    "projection": 142.3
+    "SORINErating": 81.80830098350381,
+    "projection": 142.3,
+    "adp": 157
   },
   {
     "name": "Rhamondre Stevenson",
@@ -2722,8 +2815,9 @@
       0.1,
       null
     ],
-    "SORINErating": 73.57309901274488,
-    "projection": 141.4
+    "SORINErating": 76.4172614920144,
+    "projection": 141.4,
+    "adp": 109
   },
   {
     "name": "Anthony Richardson Sr.",
@@ -2751,8 +2845,9 @@
       null,
       null
     ],
-    "SORINErating": 69.86254983045592,
-    "projection": 203.1
+    "SORINErating": 74.24577700625683,
+    "projection": 203.1,
+    "adp": 229
   },
   {
     "name": "Cooper Kupp",
@@ -2780,8 +2875,9 @@
       3.9,
       null
     ],
-    "SORINErating": 77.22921865055076,
-    "projection": 187.2
+    "SORINErating": 79.17195051386267,
+    "projection": 187.2,
+    "adp": 79
   },
   {
     "name": "Quentin Johnston",
@@ -2809,8 +2905,9 @@
       9.8,
       31.6
     ],
-    "SORINErating": 74.3527732751644,
-    "projection": 119.7
+    "SORINErating": 77.48685139767144,
+    "projection": 119.7,
+    "adp": 0
   },
   {
     "name": "Sam LaPorta",
@@ -2838,8 +2935,9 @@
       18.4,
       13.3
     ],
-    "SORINErating": 81.26093751742715,
-    "projection": 183.5
+    "SORINErating": 83.28781443548912,
+    "projection": 183.5,
+    "adp": 42
   },
   {
     "name": "Rashod Bateman",
@@ -2867,8 +2965,9 @@
       2.2,
       18.6
     ],
-    "SORINErating": 72.4189324389172,
-    "projection": 147.8
+    "SORINErating": 76.0602225734909,
+    "projection": 147.8,
+    "adp": 183
   },
   {
     "name": "Pat Freiermuth",
@@ -2896,8 +2995,9 @@
       11,
       22.5
     ],
-    "SORINErating": 79.01990074105515,
-    "projection": 119.9
+    "SORINErating": 81.5460732188899,
+    "projection": 119.9,
+    "adp": 199
   },
   {
     "name": "Michael Pittman Jr.",
@@ -2925,8 +3025,9 @@
       25.9,
       13.2
     ],
-    "SORINErating": 73.50392072916236,
-    "projection": 179.2
+    "SORINErating": 77.10652990375735,
+    "projection": 179.2,
+    "adp": 116
   },
   {
     "name": "George Pickens",
@@ -2954,8 +3055,9 @@
       8,
       1
     ],
-    "SORINErating": 74.25425239510962,
-    "projection": 205.5
+    "SORINErating": 77.0492307609298,
+    "projection": 205.5,
+    "adp": 64
   },
   {
     "name": "Tucker Kraft",
@@ -2983,8 +3085,9 @@
       7.3,
       7.6
     ],
-    "SORINErating": 76.13061126482974,
-    "projection": 147.8
+    "SORINErating": 78.88059299203906,
+    "projection": 147.8,
+    "adp": 98
   },
   {
     "name": "Alec Pierce",
@@ -3012,8 +3115,9 @@
       24.2,
       13.7
     ],
-    "SORINErating": 72.03005110852109,
-    "projection": 101.9
+    "SORINErating": 75.61920481124794,
+    "projection": 101.9,
+    "adp": 0
   },
   {
     "name": "Brian Robinson Jr.",
@@ -3041,8 +3145,9 @@
       8.9,
       2.6
     ],
-    "SORINErating": 73.90130211756617,
-    "projection": 169
+    "SORINErating": 76.61014084698053,
+    "projection": 169,
+    "adp": 92
   },
   {
     "name": "Javonte Williams",
@@ -3070,8 +3175,9 @@
       2,
       10.8
     ],
-    "SORINErating": 68.20762526235279,
-    "projection": 153.3
+    "SORINErating": 72.19293910718392,
+    "projection": 153.3,
+    "adp": 102
   },
   {
     "name": "Kareem Hunt",
@@ -3099,8 +3205,9 @@
       8,
       null
     ],
-    "SORINErating": 74.02723434284589,
-    "projection": 86.2
+    "SORINErating": 76.51736156233213,
+    "projection": 86.2,
+    "adp": 215
   },
   {
     "name": "Deebo Samuel Sr.",
@@ -3128,8 +3235,9 @@
       9.1,
       null
     ],
-    "SORINErating": 70.8048909826089,
-    "projection": 197.3
+    "SORINErating": 74.34831043438572,
+    "projection": 197.3,
+    "adp": 96
   },
   {
     "name": "Trevor Lawrence",
@@ -3157,8 +3265,9 @@
       null,
       null
     ],
-    "SORINErating": 63.189326513052066,
-    "projection": 273.8
+    "SORINErating": 67.52729755396223,
+    "projection": 273.8,
+    "adp": 178
   },
   {
     "name": "Jalen Tolbert",
@@ -3186,8 +3295,9 @@
       12,
       13.8
     ],
-    "SORINErating": 68.71525410684434,
-    "projection": 95.9
+    "SORINErating": 72.95040766646039,
+    "projection": 95.9,
+    "adp": 0
   },
   {
     "name": "Jaylen Waddle",
@@ -3215,8 +3325,9 @@
       0,
       9
     ],
-    "SORINErating": 70.63908718940301,
-    "projection": 202.1
+    "SORINErating": 74.7078074774699,
+    "projection": 202.1,
+    "adp": 69
   },
   {
     "name": "David Njoku",
@@ -3244,8 +3355,9 @@
       null,
       null
     ],
-    "SORINErating": 83.26781652869778,
-    "projection": 177.7
+    "SORINErating": 84.37932085570549,
+    "projection": 177.7,
+    "adp": 70
   },
   {
     "name": "DeMario Douglas",
@@ -3273,8 +3385,9 @@
       14.6,
       6.4
     ],
-    "SORINErating": 68.60321034702932,
-    "projection": 130.3
+    "SORINErating": 72.9061250980582,
+    "projection": 130.3,
+    "adp": 0
   },
   {
     "name": "DeAndre Hopkins",
@@ -3302,8 +3415,9 @@
       2.7,
       null
     ],
-    "SORINErating": 69.16654562714278,
-    "projection": 96.9
+    "SORINErating": 73.25091346877042,
+    "projection": 96.9,
+    "adp": 214
   },
   {
     "name": "Hunter Henry",
@@ -3331,8 +3445,9 @@
       0,
       null
     ],
-    "SORINErating": 75.04578596222936,
-    "projection": 133.9
+    "SORINErating": 77.7788752801475,
+    "projection": 133.9,
+    "adp": 155
   },
   {
     "name": "Rome Odunze",
@@ -3360,8 +3475,9 @@
       2.5,
       3.8
     ],
-    "SORINErating": 67.49946033814902,
-    "projection": 184.8
+    "SORINErating": 71.91972108159705,
+    "projection": 184.8,
+    "adp": 75
   },
   {
     "name": "Jameis Winston",
@@ -3389,8 +3505,9 @@
       null,
       null
     ],
-    "SORINErating": 61.796799611934716,
-    "projection": 16.3
+    "SORINErating": 67.72003693867285,
+    "projection": 16.3,
+    "adp": 271
   },
   {
     "name": "Daniel Jones",
@@ -3418,8 +3535,9 @@
       null,
       null
     ],
-    "SORINErating": 64.32719505858782,
-    "projection": 115.3
+    "SORINErating": 69.14127886372114,
+    "projection": 115.3,
+    "adp": 0
   },
   {
     "name": "Mike Gesicki",
@@ -3447,8 +3565,9 @@
       18.6,
       14.8
     ],
-    "SORINErating": 72.67067519628225,
-    "projection": 125.4
+    "SORINErating": 76.0861043118198,
+    "projection": 125.4,
+    "adp": 225
   },
   {
     "name": "Ray-Ray McCloud III",
@@ -3476,8 +3595,9 @@
       3.7,
       10.6
     ],
-    "SORINErating": 67.37424985424028,
-    "projection": 99.8
+    "SORINErating": 71.85851774215318,
+    "projection": 99.8,
+    "adp": 0
   },
   {
     "name": "Tank Dell",
@@ -3505,8 +3625,9 @@
       null,
       null
     ],
-    "SORINErating": 70.74542287751936,
-    "projection": 4.4
+    "SORINErating": 74.27439820090976,
+    "projection": 4.4,
+    "adp": 253
   },
   {
     "name": "Adam Thielen",
@@ -3534,8 +3655,9 @@
       28,
       9.4
     ],
-    "SORINErating": 79.61233176863573,
-    "projection": 153.4
+    "SORINErating": 81.57670555862151,
+    "projection": 153.4,
+    "adp": 153
   },
   {
     "name": "Chris Godwin",
@@ -3563,8 +3685,9 @@
       null,
       null
     ],
-    "SORINErating": 89.06868073400166,
-    "projection": 194.6
+    "SORINErating": 89.01715828963196,
+    "projection": 194.6,
+    "adp": 89
   },
   {
     "name": "Nick Westbrook-Ikhine",
@@ -3592,8 +3715,9 @@
       6.7,
       9
     ],
-    "SORINErating": 67.95670058193654,
-    "projection": 95.4
+    "SORINErating": 72.37480497149002,
+    "projection": 95.4,
+    "adp": 0
   },
   {
     "name": "Jalen McMillan",
@@ -3621,8 +3745,9 @@
       23,
       19
     ],
-    "SORINErating": 74.94838556825668,
-    "projection": 107.9
+    "SORINErating": 78.11547588756326,
+    "projection": 107.9,
+    "adp": 228
   },
   {
     "name": "Jerome Ford",
@@ -3650,8 +3775,9 @@
       2.2,
       null
     ],
-    "SORINErating": 70.44441209448658,
-    "projection": 119.3
+    "SORINErating": 74.02091540629314,
+    "projection": 119.3,
+    "adp": 144
   },
   {
     "name": "Austin Ekeler",
@@ -3679,8 +3805,9 @@
       null,
       5.2
     ],
-    "SORINErating": 71.5848337044461,
-    "projection": 156.1
+    "SORINErating": 74.33259178108369,
+    "projection": 156.1,
+    "adp": 125
   },
   {
     "name": "Romeo Doubs",
@@ -3708,8 +3835,9 @@
       14.8,
       null
     ],
-    "SORINErating": 71.8500998462435,
-    "projection": 127.4
+    "SORINErating": 75.20085763766413,
+    "projection": 127.4,
+    "adp": 241
   },
   {
     "name": "Marvin Mims Jr.",
@@ -3737,8 +3865,9 @@
       30.2,
       22.1
     ],
-    "SORINErating": 70.31136624646054,
-    "projection": 157.7
+    "SORINErating": 75.00249414429456,
+    "projection": 157.7,
+    "adp": 168
   },
   {
     "name": "Tre Tucker",
@@ -3766,8 +3895,9 @@
       10.9,
       5.4
     ],
-    "SORINErating": 66.28962494322538,
-    "projection": 87.7
+    "SORINErating": 70.95499284049217,
+    "projection": 87.7,
+    "adp": 0
   },
   {
     "name": "Tank Bigsby",
@@ -3795,8 +3925,9 @@
       3.3,
       11.2
     ],
-    "SORINErating": 66.5592849940033,
-    "projection": 109.3
+    "SORINErating": 70.94157771626442,
+    "projection": 109.3,
+    "adp": 136
   },
   {
     "name": "Justice Hill",
@@ -3824,8 +3955,9 @@
       null,
       null
     ],
-    "SORINErating": 69.29224431686112,
-    "projection": 84
+    "SORINErating": 73.33328457772774,
+    "projection": 84,
+    "adp": 301
   },
   {
     "name": "Allen Lazard",
@@ -3853,8 +3985,9 @@
       1.9,
       16.1
     ],
-    "SORINErating": 69.09143488484818,
-    "projection": 84.2
+    "SORINErating": 72.25090362367757,
+    "projection": 84.2,
+    "adp": 0
   },
   {
     "name": "Xavier Legette",
@@ -3882,8 +4015,9 @@
       7.8,
       6
     ],
-    "SORINErating": 65.6285413165642,
-    "projection": 141.3
+    "SORINErating": 70.19469598589774,
+    "projection": 141.3,
+    "adp": 156
   },
   {
     "name": "Dak Prescott",
@@ -3911,8 +4045,9 @@
       null,
       null
     ],
-    "SORINErating": 67.07456640805555,
-    "projection": 290
+    "SORINErating": 71.24671940559703,
+    "projection": 290,
+    "adp": 103
   },
   {
     "name": "Michael Wilson",
@@ -3940,8 +4075,9 @@
       6.9,
       null
     ],
-    "SORINErating": 66.03398071028172,
-    "projection": 120.2
+    "SORINErating": 70.59101513766163,
+    "projection": 120.2,
+    "adp": 0
   },
   {
     "name": "Jaylen Warren",
@@ -3969,8 +4105,9 @@
       16.2,
       2.1
     ],
-    "SORINErating": 68.79787995114441,
-    "projection": 176.2
+    "SORINErating": 72.8852514988682,
+    "projection": 176.2,
+    "adp": 99
   },
   {
     "name": "Kayshon Boutte",
@@ -3998,8 +4135,9 @@
       6.8,
       24.7
     ],
-    "SORINErating": 68.02728904021149,
-    "projection": 64.5
+    "SORINErating": 72.39930846022293,
+    "projection": 64.5,
+    "adp": 313
   },
   {
     "name": "Isaiah Likely",
@@ -4027,8 +4165,9 @@
       7.9,
       6.8
     ],
-    "SORINErating": 70.51556491895384,
-    "projection": 118.4
+    "SORINErating": 74.11690743672354,
+    "projection": 118.4,
+    "adp": 195
   },
   {
     "name": "Demarcus Robinson",
@@ -4056,8 +4195,9 @@
       0,
       10.2
     ],
-    "SORINErating": 63.67259922369294,
-    "projection": 51.5
+    "SORINErating": 68.45202133872277,
+    "projection": 51.5,
+    "adp": 470
   },
   {
     "name": "Juwan Johnson",
@@ -4085,8 +4225,9 @@
       12.6,
       14
     ],
-    "SORINErating": 71.70537197472399,
-    "projection": 118.4
+    "SORINErating": 75.33171431218484,
+    "projection": 118.4,
+    "adp": 0
   },
   {
     "name": "Stefon Diggs",
@@ -4114,8 +4255,9 @@
       null,
       null
     ],
-    "SORINErating": 81.82949623580535,
-    "projection": 194.2
+    "SORINErating": 82.81697197666534,
+    "projection": 194.2,
+    "adp": 86
   },
   {
     "name": "Tyler Conklin",
@@ -4143,8 +4285,9 @@
       21.7,
       9.6
     ],
-    "SORINErating": 72.74849920984963,
-    "projection": 86.3
+    "SORINErating": 76.12032292394908,
+    "projection": 86.3,
+    "adp": 0
   },
   {
     "name": "Tyler Lockett",
@@ -4172,8 +4315,9 @@
       5,
       4.8
     ],
-    "SORINErating": 63.152810809472314,
-    "projection": 128.1
+    "SORINErating": 67.96463743965406,
+    "projection": 128.1,
+    "adp": 240
   },
   {
     "name": "Elijah Moore",
@@ -4201,8 +4345,9 @@
       1.1,
       6.6
     ],
-    "SORINErating": 64.1800192037621,
-    "projection": 37.9
+    "SORINErating": 68.98530249714314,
+    "projection": 37.9,
+    "adp": 326
   },
   {
     "name": "Cole Kmet",
@@ -4230,8 +4375,9 @@
       0,
       2.3
     ],
-    "SORINErating": 66.46936683101507,
-    "projection": 71.7
+    "SORINErating": 70.59312038179209,
+    "projection": 71.7,
+    "adp": 237
   },
   {
     "name": "Justin Fields",
@@ -4259,8 +4405,9 @@
       null,
       null
     ],
-    "SORINErating": 54.87859239457413,
-    "projection": 301.1
+    "SORINErating": 60.503581998970866,
+    "projection": 301.1,
+    "adp": 114
   },
   {
     "name": "Andrei Iosivas",
@@ -4288,8 +4435,9 @@
       8.9,
       3.2
     ],
-    "SORINErating": 65.68662443624277,
-    "projection": 87
+    "SORINErating": 70.51162381054488,
+    "projection": 87,
+    "adp": 0
   },
   {
     "name": "Dalton Schultz",
@@ -4317,8 +4465,9 @@
       4.1,
       5.9
     ],
-    "SORINErating": 68.75811271563583,
-    "projection": 119.4
+    "SORINErating": 72.81187378380562,
+    "projection": 119.4,
+    "adp": 222
   },
   {
     "name": "Ray Davis",
@@ -4346,8 +4495,9 @@
       2.3,
       14.5
     ],
-    "SORINErating": 65.86149567258317,
-    "projection": 99.6
+    "SORINErating": 70.52242567495897,
+    "projection": 99.6,
+    "adp": 205
   },
   {
     "name": "Jordan Mason",
@@ -4375,8 +4525,9 @@
       null,
       null
     ],
-    "SORINErating": 68.0396489753586,
-    "projection": 133.7
+    "SORINErating": 71.4538525732026,
+    "projection": 133.7,
+    "adp": 141
   },
   {
     "name": "Chig Okonkwo",
@@ -4404,8 +4555,9 @@
       10.9,
       0
     ],
-    "SORINErating": 69.60059014115016,
-    "projection": 123.7
+    "SORINErating": 73.6320849789117,
+    "projection": 123.7,
+    "adp": 192
   },
   {
     "name": "Tyjae Spears",
@@ -4433,8 +4585,9 @@
       13.3,
       null
     ],
-    "SORINErating": 71.01018485026927,
-    "projection": 134.9
+    "SORINErating": 74.57125840784515,
+    "projection": 134.9,
+    "adp": 142
   },
   {
     "name": "Noah Gray",
@@ -4462,8 +4615,9 @@
       1.6,
       0.7
     ],
-    "SORINErating": 68.22235558303524,
-    "projection": 72
+    "SORINErating": 72.31942841821335,
+    "projection": 72,
+    "adp": 258
   },
   {
     "name": "Keon Coleman",
@@ -4491,8 +4645,9 @@
       11.7,
       6
     ],
-    "SORINErating": 66.70008169708716,
-    "projection": 170.7
+    "SORINErating": 70.64262725950067,
+    "projection": 170.7,
+    "adp": 112
   },
   {
     "name": "Dontayvion Wicks",
@@ -4520,8 +4675,9 @@
       8.3,
       9.9
     ],
-    "SORINErating": 63.472820767811825,
-    "projection": 80.3
+    "SORINErating": 68.56534572513414,
+    "projection": 80.3,
+    "adp": 315
   },
   {
     "name": "Will Dissly",
@@ -4549,8 +4705,9 @@
       4.1,
       15.2
     ],
-    "SORINErating": 68.33442680098659,
-    "projection": 89.7
+    "SORINErating": 72.03086129425239,
+    "projection": 89.7,
+    "adp": 340
   },
   {
     "name": "Darius Slayton",
@@ -4578,8 +4735,9 @@
       10.2,
       0
     ],
-    "SORINErating": 62.28392283200283,
-    "projection": 99.3
+    "SORINErating": 67.19749506511307,
+    "projection": 99.3,
+    "adp": 0
   },
   {
     "name": "Joshua Palmer",
@@ -4607,8 +4765,9 @@
       8.1,
       null
     ],
-    "SORINErating": 63.88242975418612,
-    "projection": 120.8
+    "SORINErating": 68.6903572274775,
+    "projection": 120.8,
+    "adp": 0
   },
   {
     "name": "Devaughn Vele",
@@ -4636,8 +4795,9 @@
       4.7,
       15
     ],
-    "SORINErating": 66.52579105284465,
-    "projection": 65
+    "SORINErating": 70.55978164968958,
+    "projection": 65,
+    "adp": 412
   },
   {
     "name": "Gardner Minshew II",
@@ -4665,8 +4825,9 @@
       null,
       null
     ],
-    "SORINErating": 55.88599852734061,
-    "projection": 10.2
+    "SORINErating": 62.07410705563729,
+    "projection": 10.2,
+    "adp": 384
   },
   {
     "name": "Tyler Allgeier",
@@ -4694,8 +4855,9 @@
       1.9,
       8.9
     ],
-    "SORINErating": 62.34535208085927,
-    "projection": 95.8
+    "SORINErating": 67.55269020298289,
+    "projection": 95.8,
+    "adp": 164
   },
   {
     "name": "Joe Flacco",
@@ -4723,8 +4885,9 @@
       17.3,
       14.6
     ],
-    "SORINErating": 62.791397347784496,
-    "projection": 127.4
+    "SORINErating": 67.73001683978157,
+    "projection": 127.4,
+    "adp": 275
   },
   {
     "name": "Christian Watson",
@@ -4752,8 +4915,9 @@
       null,
       0
     ],
-    "SORINErating": 63.82893752998988,
-    "projection": 71.6
+    "SORINErating": 68.4203507329392,
+    "projection": 71.6,
+    "adp": 0
   },
   {
     "name": "Mason Rudolph",
@@ -4781,8 +4945,9 @@
       13,
       3.3
     ],
-    "SORINErating": 61.03505273719438,
-    "projection": 18.8
+    "SORINErating": 65.90965712528269,
+    "projection": 18.8,
+    "adp": 323
   },
   {
     "name": "Jake Ferguson",
@@ -4810,8 +4975,9 @@
       2.8,
       3.2
     ],
-    "SORINErating": 68.92223808751349,
-    "projection": 150.2
+    "SORINErating": 72.27751847473442,
+    "projection": 150.2,
+    "adp": 139
   },
   {
     "name": "KaVontae Turpin",
@@ -4839,8 +5005,9 @@
       4.4,
       8.8
     ],
-    "SORINErating": 62.09712094056101,
-    "projection": 54.9
+    "SORINErating": 67.35948422813016,
+    "projection": 54.9,
+    "adp": 309
   },
   {
     "name": "Noah Fant",
@@ -4868,8 +5035,9 @@
       8.3,
       17.3
     ],
-    "SORINErating": 69.70122878920343,
-    "projection": 87.8
+    "SORINErating": 73.128199902027,
+    "projection": 87.8,
+    "adp": 295
   },
   {
     "name": "Dallas Goedert",
@@ -4897,8 +5065,9 @@
       null,
       9.5
     ],
-    "SORINErating": 77.0375573039393,
-    "projection": 143
+    "SORINErating": 78.64308764597965,
+    "projection": 143,
+    "adp": 113
   },
   {
     "name": "Antonio Gibson",
@@ -4926,8 +5095,9 @@
       6.3,
       10.1
     ],
-    "SORINErating": 62.79304947129979,
-    "projection": 58.2
+    "SORINErating": 68.06500475391653,
+    "projection": 58.2,
+    "adp": 0
   },
   {
     "name": "Taysom Hill",
@@ -4955,8 +5125,9 @@
       null,
       null
     ],
-    "SORINErating": 77.39542331648924,
-    "projection": 37.1
+    "SORINErating": 78.7303723029143,
+    "projection": 37.1,
+    "adp": 263
   },
   {
     "name": "Foster Moreau",
@@ -4984,8 +5155,9 @@
       13.7,
       7.1
     ],
-    "SORINErating": 67.93560718883643,
-    "projection": 60.2
+    "SORINErating": 72.13162216698137,
+    "projection": 60.2,
+    "adp": 0
   },
   {
     "name": "Jalen Nailor",
@@ -5013,8 +5185,9 @@
       19.1,
       8.3
     ],
-    "SORINErating": 62.65305996720876,
-    "projection": 85.6
+    "SORINErating": 67.80236519451955,
+    "projection": 85.6,
+    "adp": 0
   },
   {
     "name": "Dalton Kincaid",
@@ -5042,8 +5215,9 @@
       4.4,
       null
     ],
-    "SORINErating": 70.67906255692436,
-    "projection": 140.7
+    "SORINErating": 73.68683637260297,
+    "projection": 140.7,
+    "adp": 127
   },
   {
     "name": "Tutu Atwell",
@@ -5071,8 +5245,9 @@
       0,
       8.7
     ],
-    "SORINErating": 60.917871715968936,
-    "projection": 104.4
+    "SORINErating": 66.28365632370411,
+    "projection": 104.4,
+    "adp": 0
   },
   {
     "name": "Mack Hollins",
@@ -5100,8 +5275,9 @@
       5.3,
       5.5
     ],
-    "SORINErating": 61.97091063131519,
-    "projection": 26.3
+    "SORINErating": 67.27244665782402,
+    "projection": 26.3,
+    "adp": 307
   },
   {
     "name": "Aidan O'Connell",
@@ -5129,8 +5305,9 @@
       17.6,
       16.9
     ],
-    "SORINErating": 57.910557851412946,
-    "projection": 11.1
+    "SORINErating": 63.83235594264654,
+    "projection": 11.1,
+    "adp": 0
   },
   {
     "name": "Jaleel McLaughlin",
@@ -5158,8 +5335,9 @@
       9.6,
       6.8
     ],
-    "SORINErating": 62.08858062778708,
-    "projection": 52.5
+    "SORINErating": 67.29530836488084,
+    "projection": 52.5,
+    "adp": 0
   },
   {
     "name": "Parker Washington",
@@ -5187,8 +5365,9 @@
       12.1,
       9.5
     ],
-    "SORINErating": 64.23202993731499,
-    "projection": 63.5
+    "SORINErating": 69.61812699078051,
+    "projection": 63.5,
+    "adp": 0
   },
   {
     "name": "Devin Singletary",
@@ -5216,8 +5395,9 @@
       4,
       2.7
     ],
-    "SORINErating": 61.54105566748795,
-    "projection": 48.4
+    "SORINErating": 66.58909491139669,
+    "projection": 48.4,
+    "adp": 0
   },
   {
     "name": "Emanuel Wilson",
@@ -5245,8 +5425,9 @@
       8.9,
       14.1
     ],
-    "SORINErating": 62.2885115931666,
-    "projection": 43.1
+    "SORINErating": 67.52714445581975,
+    "projection": 43.1,
+    "adp": 0
   },
   {
     "name": "Ricky Pearsall",
@@ -5274,8 +5455,9 @@
       28.7,
       18.9
     ],
-    "SORINErating": 67.3413754540455,
-    "projection": 172.7
+    "SORINErating": 71.02145575390176,
+    "projection": 172.7,
+    "adp": 111
   },
   {
     "name": "Jalen Coker",
@@ -5303,8 +5485,9 @@
       5.5,
       14
     ],
-    "SORINErating": 67.9976750591818,
-    "projection": 88.3
+    "SORINErating": 71.76487034153027,
+    "projection": 88.3,
+    "adp": 0
   },
   {
     "name": "Tim Patrick",
@@ -5332,8 +5515,9 @@
       2,
       3.5
     ],
-    "SORINErating": 62.34852264588977,
-    "projection": 58.1
+    "SORINErating": 67.64986896925731,
+    "projection": 58.1,
+    "adp": 285
   },
   {
     "name": "Ty Johnson",
@@ -5361,8 +5545,9 @@
       3.5,
       2.3
     ],
-    "SORINErating": 62.21318130021119,
-    "projection": 66.8
+    "SORINErating": 67.5892733483823,
+    "projection": 66.8,
+    "adp": 0
   },
   {
     "name": "Brenton Strange",
@@ -5390,8 +5575,9 @@
       0,
       10
     ],
-    "SORINErating": 65.20259539685185,
-    "projection": 128.5
+    "SORINErating": 69.71341649014238,
+    "projection": 128.5,
+    "adp": 235
   },
   {
     "name": "Greg Dortch",
@@ -5419,8 +5605,9 @@
       4.8,
       21.4
     ],
-    "SORINErating": 60.58842812735416,
-    "projection": 68.9
+    "SORINErating": 66.18707643366525,
+    "projection": 68.9,
+    "adp": 0
   },
   {
     "name": "Evan Engram",
@@ -5448,8 +5635,9 @@
       null,
       null
     ],
-    "SORINErating": 76.55177551946053,
-    "projection": 152.5
+    "SORINErating": 77.98103480280867,
+    "projection": 152.5,
+    "adp": 78
   },
   {
     "name": "Diontae Johnson",
@@ -5477,8 +5665,9 @@
       null,
       3.2
     ],
-    "SORINErating": 62.789670554221146,
-    "projection": 112
+    "SORINErating": 67.03500511559444,
+    "projection": 112,
+    "adp": 0
   },
   {
     "name": "T.J. Hockenson",
@@ -5506,8 +5695,9 @@
       11.8,
       2.9
     ],
-    "SORINErating": 72.35663602153907,
-    "projection": 182.9
+    "SORINErating": 74.82176739784336,
+    "projection": 182.9,
+    "adp": 55
   },
   {
     "name": "Noah Brown",
@@ -5535,8 +5725,9 @@
       null,
       null
     ],
-    "SORINErating": 65.41453476087919,
-    "projection": 83.1
+    "SORINErating": 69.49819226349179,
+    "projection": 83.1,
+    "adp": 0
   },
   {
     "name": "Braelon Allen",
@@ -5564,8 +5755,9 @@
       2.6,
       4.3
     ],
-    "SORINErating": 59.400887015572216,
-    "projection": 88.4
+    "SORINErating": 64.98759862442355,
+    "projection": 88.4,
+    "adp": 188
   },
   {
     "name": "Drew Lock",
@@ -5593,8 +5785,9 @@
       34.4,
       8.8
     ],
-    "SORINErating": 58.194780220115575,
-    "projection": 8.4
+    "SORINErating": 63.632522030926445,
+    "projection": 8.4,
+    "adp": 402
   },
   {
     "name": "David Moore",
@@ -5622,8 +5815,9 @@
       2.7,
       7.9
     ],
-    "SORINErating": 61.16219018644079,
-    "projection": 14.9
+    "SORINErating": 66.83170855021186,
+    "projection": 14.9,
+    "adp": 443
   },
   {
     "name": "Marquez Valdes-Scantling",
@@ -5651,8 +5845,9 @@
       0,
       6.3
     ],
-    "SORINErating": 62.704370474902184,
-    "projection": 79.9
+    "SORINErating": 67.58857345001971,
+    "projection": 79.9,
+    "adp": 0
   },
   {
     "name": "Samaje Perine",
@@ -5680,8 +5875,9 @@
       4.9,
       2.4
     ],
-    "SORINErating": 58.17135795259729,
-    "projection": 74.8
+    "SORINErating": 63.98611551972635,
+    "projection": 74.8,
+    "adp": 0
   },
   {
     "name": "Sterling Shepard",
@@ -5709,8 +5905,9 @@
       null,
       2.1
     ],
-    "SORINErating": 59.867287458016335,
-    "projection": 8.5
+    "SORINErating": 65.16154954656005,
+    "projection": 8.5,
+    "adp": 399
   },
   {
     "name": "Deshaun Watson",
@@ -5738,8 +5935,9 @@
       null,
       null
     ],
-    "SORINErating": 55.498806728714285,
-    "projection": 6.7
+    "SORINErating": 61.19713582204746,
+    "projection": 6.7,
+    "adp": 260
   },
   {
     "name": "AJ Barner",
@@ -5767,8 +5965,9 @@
       0,
       14.4
     ],
-    "SORINErating": 62.678754821269635,
-    "projection": 76.7
+    "SORINErating": 67.68945882494015,
+    "projection": 76.7,
+    "adp": 281
   },
   {
     "name": "Roschon Johnson",
@@ -5796,8 +5995,9 @@
       0.5,
       6.9
     ],
-    "SORINErating": 60.19215738439825,
-    "projection": 97.7
+    "SORINErating": 65.04388468032681,
+    "projection": 97.7,
+    "adp": 0
   },
   {
     "name": "Miles Sanders",
@@ -5825,8 +6025,9 @@
       null,
       26.6
     ],
-    "SORINErating": 68.59230323947673,
-    "projection": 76.6
+    "SORINErating": 72.97393106590161,
+    "projection": 76.6,
+    "adp": 0
   },
   {
     "name": "Ja'Tavion Sanders",
@@ -5854,8 +6055,9 @@
       1.5,
       6.5
     ],
-    "SORINErating": 61.510123181846545,
-    "projection": 89.5
+    "SORINErating": 66.34512190806373,
+    "projection": 89.5,
+    "adp": 266
   },
   {
     "name": "Spencer Rattler",
@@ -5883,8 +6085,9 @@
       15.3,
       14.7
     ],
-    "SORINErating": 53.724005817932515,
-    "projection": 77.1
+    "SORINErating": 59.805572355971776,
+    "projection": 77.1,
+    "adp": 377
   },
   {
     "name": "Christian Kirk",
@@ -5912,8 +6115,9 @@
       null,
       null
     ],
-    "SORINErating": 67.57477337589282,
-    "projection": 135.2
+    "SORINErating": 70.7532314762898,
+    "projection": 135.2,
+    "adp": 248
   },
   {
     "name": "Brandin Cooks",
@@ -5941,8 +6145,9 @@
       9.2,
       4
     ],
-    "SORINErating": 62.529733529971814,
-    "projection": 98.1
+    "SORINErating": 66.91904269173622,
+    "projection": 98.1,
+    "adp": 0
   },
   {
     "name": "Sean Tucker",
@@ -5970,8 +6175,9 @@
       5.4,
       1.6
     ],
-    "SORINErating": 56.64036457178615,
-    "projection": 41.3
+    "SORINErating": 62.7102390758713,
+    "projection": 41.3,
+    "adp": 0
   },
   {
     "name": "Theo Johnson",
@@ -5999,8 +6205,9 @@
       null,
       null
     ],
-    "SORINErating": 65.68802298660147,
-    "projection": 106.1
+    "SORINErating": 69.64437077785566,
+    "projection": 106.1,
+    "adp": 378
   },
   {
     "name": "Dyami Brown",
@@ -6028,8 +6235,9 @@
       null,
       5.4
     ],
-    "SORINErating": 58.310973157289595,
-    "projection": 111.7
+    "SORINErating": 64.2859933787451,
+    "projection": 111.7,
+    "adp": 0
   },
   {
     "name": "Troy Franklin",
@@ -6057,8 +6265,9 @@
       0.9,
       3.2
     ],
-    "SORINErating": 56.8910103547416,
-    "projection": 78
+    "SORINErating": 62.87967310299842,
+    "projection": 78,
+    "adp": 302
   },
   {
     "name": "Josh Oliver",
@@ -6086,8 +6295,9 @@
       0,
       3.6
     ],
-    "SORINErating": 60.22007109971345,
-    "projection": 46.6
+    "SORINErating": 65.09333377556813,
+    "projection": 46.6,
+    "adp": 321
   },
   {
     "name": "Colby Parkinson",
@@ -6115,8 +6325,9 @@
       0,
       1.6
     ],
-    "SORINErating": 58.36017634812461,
-    "projection": 26.4
+    "SORINErating": 63.8349503356121,
+    "projection": 26.4,
+    "adp": 0
   },
   {
     "name": "Kendrick Bourne",
@@ -6144,8 +6355,9 @@
       4.2,
       3.2
     ],
-    "SORINErating": 59.231982248555994,
-    "projection": 44.6
+    "SORINErating": 64.34089116205465,
+    "projection": 44.6,
+    "adp": 372
   },
   {
     "name": "Lil'Jordan Humphrey",
@@ -6173,8 +6385,9 @@
       0,
       4.6
     ],
-    "SORINErating": 55.68288114523621,
-    "projection": 8.4
+    "SORINErating": 61.789915119617746,
+    "projection": 8.4,
+    "adp": 356
   },
   {
     "name": "Curtis Samuel",
@@ -6202,8 +6415,9 @@
       null,
       12.2
     ],
-    "SORINErating": 58.17376767296845,
-    "projection": 72.4
+    "SORINErating": 63.66776060722714,
+    "projection": 72.4,
+    "adp": 379
   },
   {
     "name": "Van Jefferson",
@@ -6231,8 +6445,9 @@
       0,
       4.8
     ],
-    "SORINErating": 56.24738173938883,
-    "projection": 64.4
+    "SORINErating": 62.48741416102635,
+    "projection": 64.4,
+    "adp": 0
   },
   {
     "name": "Nick Chubb",
@@ -6260,8 +6475,9 @@
       null,
       null
     ],
-    "SORINErating": 64.09551116104043,
-    "projection": 91.9
+    "SORINErating": 67.70376889184533,
+    "projection": 91.9,
+    "adp": 176
   },
   {
     "name": "Justin Watson",
@@ -6289,8 +6505,9 @@
       14,
       1.5
     ],
-    "SORINErating": 56.07587415498677,
-    "projection": 12.1
+    "SORINErating": 62.29357324298163,
+    "projection": 12.1,
+    "adp": 0
   },
   {
     "name": "Brandon Aiyuk",
@@ -6318,8 +6535,9 @@
       null,
       null
     ],
-    "SORINErating": 65.45979865259753,
-    "projection": 142.8
+    "SORINErating": 68.88003919453291,
+    "projection": 142.8,
+    "adp": 158
   },
   {
     "name": "Tyler Johnson",
@@ -6347,8 +6565,9 @@
       null,
       13.5
     ],
-    "SORINErating": 57.10576433665412,
-    "projection": 49.6
+    "SORINErating": 62.887143749824425,
+    "projection": 49.6,
+    "adp": 481
   },
   {
     "name": "Josh Whyle",
@@ -6376,8 +6595,9 @@
       0,
       9.9
     ],
-    "SORINErating": 59.194063690003205,
-    "projection": 36.2
+    "SORINErating": 64.76719308360438,
+    "projection": 36.2,
+    "adp": 0
   },
   {
     "name": "Kenneth Gainwell",
@@ -6405,8 +6625,9 @@
       1.9,
       4.3
     ],
-    "SORINErating": 56.03998849553223,
-    "projection": 50.2
+    "SORINErating": 62.31029240628847,
+    "projection": 50.2,
+    "adp": 0
   },
   {
     "name": "Grant Calcaterra",
@@ -6434,8 +6655,9 @@
       4.4,
       3
     ],
-    "SORINErating": 58.99859489572313,
-    "projection": 26.4
+    "SORINErating": 64.5333535318039,
+    "projection": 26.4,
+    "adp": 310
   },
   {
     "name": "Dawson Knox",
@@ -6463,8 +6685,9 @@
       1.4,
       null
     ],
-    "SORINErating": 58.84154455124866,
-    "projection": 57.2
+    "SORINErating": 64.39155930004182,
+    "projection": 57.2,
+    "adp": 234
   },
   {
     "name": "Luke Schoonmaker",
@@ -6492,8 +6715,9 @@
       0,
       3.6
     ],
-    "SORINErating": 59.33426835248309,
-    "projection": 35.2
+    "SORINErating": 64.85158356528481,
+    "projection": 35.2,
+    "adp": 317
   },
   {
     "name": "Isiah Pacheco",
@@ -6521,8 +6745,9 @@
       1.8,
       null
     ],
-    "SORINErating": 64.50707064346855,
-    "projection": 177.5
+    "SORINErating": 67.67037591383918,
+    "projection": 177.5,
+    "adp": 74
   },
   {
     "name": "Kalif Raymond",
@@ -6550,8 +6775,9 @@
       null,
       2.1
     ],
-    "SORINErating": 57.34092818567374,
-    "projection": 39.2
+    "SORINErating": 62.52046176566903,
+    "projection": 39.2,
+    "adp": 320
   },
   {
     "name": "John Metchie III",
@@ -6579,8 +6805,9 @@
       9.8,
       4.4
     ],
-    "SORINErating": 57.3222551976983,
-    "projection": 8.8
+    "SORINErating": 62.86417410415583,
+    "projection": 8.8,
+    "adp": 0
   },
   {
     "name": "Malik Washington",
@@ -6608,8 +6835,9 @@
       7,
       8.8
     ],
-    "SORINErating": 56.72523318246273,
-    "projection": 67.9
+    "SORINErating": 62.599580643936335,
+    "projection": 67.9,
+    "adp": 0
   },
   {
     "name": "Emari Demercado",
@@ -6637,8 +6865,9 @@
       null,
       null
     ],
-    "SORINErating": 56.97280429689377,
-    "projection": 27.2
+    "SORINErating": 62.46207198383575,
+    "projection": 27.2,
+    "adp": 0
   },
   {
     "name": "Trey Sermon",
@@ -6666,8 +6895,9 @@
       2,
       1.5
     ],
-    "SORINErating": 54.465112227594915,
-    "projection": 5.6
+    "SORINErating": 60.7736730740305,
+    "projection": 5.6,
+    "adp": 0
   },
   {
     "name": "JuJu Smith-Schuster",
@@ -6695,8 +6925,9 @@
       3.8,
       1.4
     ],
-    "SORINErating": 56.11523597600583,
-    "projection": 49
+    "SORINErating": 61.92218051569644,
+    "projection": 49,
+    "adp": 269
   },
   {
     "name": "Jordan Whittington",
@@ -6724,8 +6955,9 @@
       1.6,
       12.8
     ],
-    "SORINErating": 56.043450148489896,
-    "projection": 89.7
+    "SORINErating": 61.909261510275925,
+    "projection": 89.7,
+    "adp": 0
   },
   {
     "name": "Malik Willis",
@@ -6753,8 +6985,9 @@
       null,
       3.7
     ],
-    "SORINErating": 45.97790788725085,
-    "projection": 16.2
+    "SORINErating": 52.65801809323971,
+    "projection": 16.2,
+    "adp": 312
   },
   {
     "name": "Elijah Higgins",
@@ -6782,8 +7015,9 @@
       4.3,
       0
     ],
-    "SORINErating": 55.58426626421259,
-    "projection": 28.8
+    "SORINErating": 61.70217855800112,
+    "projection": 28.8,
+    "adp": 350
   },
   {
     "name": "Audric Estime",
@@ -6811,8 +7045,9 @@
       4.7,
       9.4
     ],
-    "SORINErating": 55.864463887323836,
-    "projection": 30.9
+    "SORINErating": 61.70487788236068,
+    "projection": 30.9,
+    "adp": 391
   },
   {
     "name": "Nick Vannett",
@@ -6840,8 +7075,9 @@
       7.8,
       4.6
     ],
-    "SORINErating": 55.18890626828247,
-    "projection": 2
+    "SORINErating": 61.09873463336836,
+    "projection": 2,
+    "adp": 0
   },
   {
     "name": "Trey Benson",
@@ -6869,8 +7105,9 @@
       null,
       null
     ],
-    "SORINErating": 55.22239696174144,
-    "projection": 109.4
+    "SORINErating": 61.049100660735306,
+    "projection": 109.4,
+    "adp": 154
   },
   {
     "name": "Isaiah Davis",
@@ -6898,8 +7135,9 @@
       5.3,
       4.1
     ],
-    "SORINErating": 57.055188049752225,
-    "projection": 28.7
+    "SORINErating": 62.93558258718525,
+    "projection": 28.7,
+    "adp": 0
   },
   {
     "name": "Johnny Mundt",
@@ -6927,8 +7165,9 @@
       1.7,
       0
     ],
-    "SORINErating": 55.07759609807291,
-    "projection": 30.3
+    "SORINErating": 61.23974956287652,
+    "projection": 30.3,
+    "adp": 0
   },
   {
     "name": "Darnell Washington",
@@ -6956,8 +7195,9 @@
       1.8,
       0
     ],
-    "SORINErating": 54.76259999777717,
-    "projection": 29.4
+    "SORINErating": 61.01360078754003,
+    "projection": 29.4,
+    "adp": 270
   },
   {
     "name": "Tyler Goodson",
@@ -6985,8 +7225,9 @@
       0,
       1.5
     ],
-    "SORINErating": 53.60316362138302,
-    "projection": 18.1
+    "SORINErating": 59.94324872239266,
+    "projection": 18.1,
+    "adp": 0
   },
   {
     "name": "Adam Trautman",
@@ -7014,8 +7255,9 @@
       1.5,
       0
     ],
-    "SORINErating": 55.39282436079603,
-    "projection": 34.5
+    "SORINErating": 61.5476533998352,
+    "projection": 34.5,
+    "adp": 360
   },
   {
     "name": "Nate Adkins",
@@ -7043,8 +7285,9 @@
       1.7,
       5.5
     ],
-    "SORINErating": 55.69915669626532,
-    "projection": 25
+    "SORINErating": 61.89285137946612,
+    "projection": 25,
+    "adp": 0
   },
   {
     "name": "Dameon Pierce",
@@ -7072,8 +7315,9 @@
       1.3,
       23.6
     ],
-    "SORINErating": 57.13713739634609,
-    "projection": 21.1
+    "SORINErating": 62.35149285814103,
+    "projection": 21.1,
+    "adp": 369
   },
   {
     "name": "Chris Brooks",
@@ -7101,8 +7345,9 @@
       0,
       5.9
     ],
-    "SORINErating": 54.65007153563701,
-    "projection": 28.5
+    "SORINErating": 60.71446206466089,
+    "projection": 28.5,
+    "adp": 0
   },
   {
     "name": "Jahan Dotson",
@@ -7130,8 +7375,9 @@
       0,
       16.4
     ],
-    "SORINErating": 53.503011125291565,
-    "projection": 40.2
+    "SORINErating": 60.130117968750405,
+    "projection": 40.2,
+    "adp": 254
   },
   {
     "name": "Derius Davis",
@@ -7159,8 +7405,9 @@
       10.6,
       1.4
     ],
-    "SORINErating": 53.85636741474545,
-    "projection": 10.4
+    "SORINErating": 60.298520498247235,
+    "projection": 10.4,
+    "adp": 0
   },
   {
     "name": "Tanner Hudson",
@@ -7188,8 +7435,9 @@
       null,
       2.1
     ],
-    "SORINErating": 56.367319365830866,
-    "projection": 6.7
+    "SORINErating": 61.58773945908581,
+    "projection": 6.7,
+    "adp": 452
   },
   {
     "name": "Josh Reynolds",
@@ -7217,8 +7465,9 @@
       0,
       2.1
     ],
-    "SORINErating": 55.38501722178587,
-    "projection": 93
+    "SORINErating": 60.481498274399975,
+    "projection": 93,
+    "adp": 0
   },
   {
     "name": "Robert Woods",
@@ -7246,8 +7495,9 @@
       4.1,
       3.9
     ],
-    "SORINErating": 52.48130479024741,
-    "projection": 48.5
+    "SORINErating": 59.07652656611138,
+    "projection": 48.5,
+    "adp": 343
   },
   {
     "name": "Michael Mayer",
@@ -7275,8 +7525,9 @@
       2.4,
       6.1
     ],
-    "SORINErating": 56.56663941121306,
-    "projection": 62.9
+    "SORINErating": 61.891149226214786,
+    "projection": 62.9,
+    "adp": 440
   },
   {
     "name": "Drew Sample",
@@ -7304,8 +7555,9 @@
       1.3,
       5.4
     ],
-    "SORINErating": 54.02228270025191,
-    "projection": 23.4
+    "SORINErating": 60.471490725811684,
+    "projection": 23.4,
+    "adp": 454
   },
   {
     "name": "Tylan Wallace",
@@ -7333,8 +7585,9 @@
       1.2,
       0
     ],
-    "SORINErating": 52.097158093992554,
-    "projection": 21.1
+    "SORINErating": 58.876006006807685,
+    "projection": 21.1,
+    "adp": 374
   },
   {
     "name": "D'Ernest Johnson",
@@ -7362,7 +7615,7 @@
       3.1,
       3.6
     ],
-    "SORINErating": 51.45305405451238,
+    "SORINErating": 57.68424511410484,
     "projection": 1.7
   },
   {
@@ -7391,8 +7644,9 @@
       null,
       null
     ],
-    "SORINErating": 57.12515853327699,
-    "projection": 5.4
+    "SORINErating": 61.916224215671434,
+    "projection": 5.4,
+    "adp": 0
   },
   {
     "name": "Jalen Brooks",
@@ -7420,8 +7674,9 @@
       2.2,
       0
     ],
-    "SORINErating": 52.93962692479191,
-    "projection": 8.7
+    "SORINErating": 59.42556044841248,
+    "projection": 8.7,
+    "adp": 0
   },
   {
     "name": "Trey Palmer",
@@ -7449,8 +7704,9 @@
       0,
       0
     ],
-    "SORINErating": 51.84604949556589,
-    "projection": 2.4
+    "SORINErating": 58.460353121377196,
+    "projection": 2.4,
+    "adp": 449
   },
   {
     "name": "Pierre Strong Jr.",
@@ -7478,8 +7734,9 @@
       7.8,
       null
     ],
-    "SORINErating": 52.44945371049164,
-    "projection": 15.2
+    "SORINErating": 58.69508027624661,
+    "projection": 15.2,
+    "adp": 0
   },
   {
     "name": "Brock Wright",
@@ -7507,8 +7764,9 @@
       0,
       0
     ],
-    "SORINErating": 53.601205006661914,
-    "projection": 41.4
+    "SORINErating": 60.070231787568545,
+    "projection": 41.4,
+    "adp": 304
   },
   {
     "name": "Luke McCaffrey",
@@ -7536,8 +7794,9 @@
       0,
       0
     ],
-    "SORINErating": 51.306257575684285,
-    "projection": 48.4
+    "SORINErating": 58.294244697689656,
+    "projection": 48.4,
+    "adp": 273
   },
   {
     "name": "Stone Smartt",
@@ -7565,8 +7824,9 @@
       4.3,
       0
     ],
-    "SORINErating": 54.40277533621942,
-    "projection": 13.7
+    "SORINErating": 60.5552964038037,
+    "projection": 13.7,
+    "adp": 0
   },
   {
     "name": "Payne Durham",
@@ -7594,8 +7854,9 @@
       11.6,
       9.6
     ],
-    "SORINErating": 55.91354217425679,
-    "projection": 28.9
+    "SORINErating": 62.0468296040496,
+    "projection": 28.9,
+    "adp": 0
   },
   {
     "name": "Cade Stover",
@@ -7623,8 +7884,9 @@
       1.1,
       0
     ],
-    "SORINErating": 54.362324705460004,
-    "projection": 33.8
+    "SORINErating": 60.574858424956105,
+    "projection": 33.8,
+    "adp": 416
   },
   {
     "name": "Lucas Krull",
@@ -7652,8 +7914,9 @@
       1.3,
       0
     ],
-    "SORINErating": 53.88451260971959,
-    "projection": 18.6
+    "SORINErating": 59.844881154804746,
+    "projection": 18.6,
+    "adp": 0
   },
   {
     "name": "Mecole Hardman Jr.",
@@ -7681,8 +7944,9 @@
       null,
       null
     ],
-    "SORINErating": 52.29654322483866,
-    "projection": 6.8
+    "SORINErating": 58.390885726605774,
+    "projection": 6.8,
+    "adp": 339
   },
   {
     "name": "Mo Alie-Cox",
@@ -7710,8 +7974,9 @@
       0,
       0
     ],
-    "SORINErating": 52.94332841925724,
-    "projection": 8.3
+    "SORINErating": 59.44449967454296,
+    "projection": 8.3,
+    "adp": 407
   },
   {
     "name": "Kimani Vidal",
@@ -7739,8 +8004,9 @@
       2.4,
       0
     ],
-    "SORINErating": 53.318777489959565,
-    "projection": 25.4
+    "SORINErating": 58.96803502954248,
+    "projection": 25.4,
+    "adp": 0
   },
   {
     "name": "Ja'Lynn Polk",
@@ -7768,8 +8034,9 @@
       0,
       null
     ],
-    "SORINErating": 51.41050242099786,
-    "projection": 65.5
+    "SORINErating": 58.0981961654718,
+    "projection": 65.5,
+    "adp": 0
   },
   {
     "name": "Jonathan Mingo",
@@ -7797,8 +8064,9 @@
       2.2,
       4.4
     ],
-    "SORINErating": 51.22637297869515,
-    "projection": 11
+    "SORINErating": 58.26025113642524,
+    "projection": 11,
+    "adp": 494
   },
   {
     "name": "Kylen Granson",
@@ -7826,8 +8094,9 @@
       6.4,
       1.7
     ],
-    "SORINErating": 53.258687055477644,
-    "projection": 7.4
+    "SORINErating": 59.91277682554824,
+    "projection": 7.4,
+    "adp": 0
   },
   {
     "name": "KhaDarel Hodge",
@@ -7855,8 +8124,9 @@
       1.9,
       3.4
     ],
-    "SORINErating": 51.77273004262388,
-    "projection": 24
+    "SORINErating": 58.533302793872906,
+    "projection": 24,
+    "adp": 445
   },
   {
     "name": "Dante Pettis",
@@ -7884,8 +8154,9 @@
       5.7,
       9.6
     ],
-    "SORINErating": 54.61431183779642,
-    "projection": 13.9
+    "SORINErating": 59.91315988096801,
+    "projection": 13.9,
+    "adp": 0
   },
   {
     "name": "Malik Heath",
@@ -7913,8 +8184,9 @@
       7.3,
       8.3
     ],
-    "SORINErating": 53.4123013806164,
-    "projection": 14.4
+    "SORINErating": 59.60249917608695,
+    "projection": 14.4,
+    "adp": 0
   },
   {
     "name": "Chris Rodriguez Jr.",
@@ -7942,8 +8214,9 @@
       9.8,
       0
     ],
-    "SORINErating": 56.77764621219718,
-    "projection": 20.7
+    "SORINErating": 61.67008642312526,
+    "projection": 20.7,
+    "adp": 0
   },
   {
     "name": "Khalil Herbert",
@@ -7971,8 +8244,9 @@
       2.3,
       15.3
     ],
-    "SORINErating": 53.71304672518421,
-    "projection": 60.1
+    "SORINErating": 59.90355139434243,
+    "projection": 60.1,
+    "adp": 358
   },
   {
     "name": "Patrick Taylor Jr.",
@@ -8000,8 +8274,9 @@
       0,
       13.1
     ],
-    "SORINErating": 54.75974952400824,
-    "projection": 17.4
+    "SORINErating": 60.18252585179026,
+    "projection": 17.4,
+    "adp": 459
   },
   {
     "name": "Jake Bobo",
@@ -8029,8 +8304,9 @@
       0,
       7.4
     ],
-    "SORINErating": 50.95061805027082,
-    "projection": 30.8
+    "SORINErating": 58.06505833016122,
+    "projection": 30.8,
+    "adp": 289
   },
   {
     "name": "Kendre Miller",
@@ -8058,8 +8334,9 @@
       2.9,
       null
     ],
-    "SORINErating": 55.408223601317516,
-    "projection": 74.2
+    "SORINErating": 60.435706129099074,
+    "projection": 74.2,
+    "adp": 0
   },
   {
     "name": "JaMycal Hasty",
@@ -8087,8 +8364,9 @@
       0,
       null
     ],
-    "SORINErating": 50.176165367241595,
-    "projection": 1.3
+    "SORINErating": 56.63274279284914,
+    "projection": 1.3,
+    "adp": 0
   },
   {
     "name": "Jeremy Ruckert",
@@ -8116,8 +8394,9 @@
       0,
       1.5
     ],
-    "SORINErating": 51.113106236111165,
-    "projection": 42.1
+    "SORINErating": 57.996781218927836,
+    "projection": 42.1,
+    "adp": 404
   },
   {
     "name": "Ty Chandler",
@@ -8145,8 +8424,9 @@
       0.7,
       null
     ],
-    "SORINErating": 50.57127991355658,
-    "projection": 23.9
+    "SORINErating": 57.35368095455281,
+    "projection": 23.9,
+    "adp": 338
   },
   {
     "name": "Charlie Kolar",
@@ -8174,8 +8454,9 @@
       null,
       0
     ],
-    "SORINErating": 53.23286880053818,
-    "projection": 15.6
+    "SORINErating": 59.31653648027342,
+    "projection": 15.6,
+    "adp": 458
   },
   {
     "name": "Hunter Luepke",
@@ -8203,8 +8484,9 @@
       1.1,
       1.5
     ],
-    "SORINErating": 49.68894963403753,
-    "projection": 8.9
+    "SORINErating": 56.70795469395192,
+    "projection": 8.9,
+    "adp": 0
   },
   {
     "name": "Bub Means",
@@ -8232,8 +8514,9 @@
       null,
       null
     ],
-    "SORINErating": 55.2219166510753,
-    "projection": 39.5
+    "SORINErating": 60.11296071917031,
+    "projection": 39.5,
+    "adp": 0
   },
   {
     "name": "Eric Saubert",
@@ -8261,8 +8544,9 @@
       0,
       5.7
     ],
-    "SORINErating": 51.84166406138334,
-    "projection": 11.8
+    "SORINErating": 58.64898587192478,
+    "projection": 11.8,
+    "adp": 0
   },
   {
     "name": "Daniel Bellinger",
@@ -8290,8 +8574,9 @@
       0,
       2.9
     ],
-    "SORINErating": 52.39700501767705,
-    "projection": 33.6
+    "SORINErating": 59.17786647694316,
+    "projection": 33.6,
+    "adp": 331
   },
   {
     "name": "Alec Ingold",
@@ -8319,8 +8604,9 @@
       0,
       4.1
     ],
-    "SORINErating": 50.41197102017415,
-    "projection": 21.4
+    "SORINErating": 57.28266457887222,
+    "projection": 21.4,
+    "adp": 0
   },
   {
     "name": "Jordan Mims",
@@ -8348,8 +8634,9 @@
       null,
       5.5
     ],
-    "SORINErating": 52.177782544314994,
-    "projection": 11.9
+    "SORINErating": 57.950140067192834,
+    "projection": 11.9,
+    "adp": 0
   },
   {
     "name": "Drew Ogletree",
@@ -8377,8 +8664,9 @@
       0,
       3.1
     ],
-    "SORINErating": 51.15537343845803,
-    "projection": 20.6
+    "SORINErating": 58.05410225478681,
+    "projection": 20.6,
+    "adp": 0
   },
   {
     "name": "Xavier Hutchinson",
@@ -8406,8 +8694,9 @@
       4.1,
       1.5
     ],
-    "SORINErating": 50.18826078889809,
-    "projection": 35
+    "SORINErating": 57.351735544637926,
+    "projection": 35,
+    "adp": 0
   },
   {
     "name": "Bo Melton",
@@ -8435,8 +8724,9 @@
       4.8,
       0.1
     ],
-    "SORINErating": 49.26483362336288,
-    "projection": 16.9
+    "SORINErating": 56.605567136741556,
+    "projection": 16.9,
+    "adp": 0
   },
   {
     "name": "Trent Sherfield Sr.",
@@ -8464,8 +8754,9 @@
       0,
       0
     ],
-    "SORINErating": 49.17684451643214,
-    "projection": 4.3
+    "SORINErating": 56.500212841370754,
+    "projection": 4.3,
+    "adp": 482
   },
   {
     "name": "Julian Hill",
@@ -8493,8 +8784,9 @@
       0,
       0
     ],
-    "SORINErating": 50.46151128904714,
-    "projection": 32.2
+    "SORINErating": 57.417623618446115,
+    "projection": 32.2,
+    "adp": 303
   },
   {
     "name": "Dorian Thompson-Robinson",
@@ -8522,8 +8814,9 @@
       4.8,
       0.8
     ],
-    "SORINErating": 40.83797364880991,
-    "projection": 0
+    "SORINErating": 48.580136865220254,
+    "projection": 0,
+    "adp": 413
   },
   {
     "name": "DeeJay Dallas",
@@ -8551,8 +8844,9 @@
       1.5,
       3.7
     ],
-    "SORINErating": 49.861578402611705,
-    "projection": 7.6
+    "SORINErating": 57.056311066297084,
+    "projection": 7.6,
+    "adp": 0
   },
   {
     "name": "Craig Reynolds",
@@ -8580,8 +8874,9 @@
       8.6,
       3.9
     ],
-    "SORINErating": 50.536908274025535,
-    "projection": 19.3
+    "SORINErating": 57.44698098960319,
+    "projection": 19.3,
+    "adp": 334
   },
   {
     "name": "Devin Duvernay",
@@ -8609,8 +8904,9 @@
       1.4,
       0
     ],
-    "SORINErating": 49.905787793333076,
-    "projection": 7.4
+    "SORINErating": 56.781100689603576,
+    "projection": 7.4,
+    "adp": 483
   },
   {
     "name": "Ashton Dulin",
@@ -8638,8 +8934,9 @@
       0,
       0
     ],
-    "SORINErating": 49.07260131946997,
-    "projection": 4.2
+    "SORINErating": 56.14852194233678,
+    "projection": 4.2,
+    "adp": 0
   },
   {
     "name": "K.J. Osborn",
@@ -8667,8 +8964,9 @@
       0,
       null
     ],
-    "SORINErating": 50.4039826597053,
-    "projection": 75.6
+    "SORINErating": 56.26023166869061,
+    "projection": 75.6,
+    "adp": 486
   },
   {
     "name": "Luke Farrell",
@@ -8696,8 +8994,9 @@
       0,
       1.4
     ],
-    "SORINErating": 49.517295895016574,
-    "projection": 15.6
+    "SORINErating": 56.768179134759215,
+    "projection": 15.6,
+    "adp": 477
   },
   {
     "name": "Ronnie Rivers",
@@ -8725,8 +9024,9 @@
       null,
       12.2
     ],
-    "SORINErating": 52.777833521772344,
-    "projection": 12.6
+    "SORINErating": 58.25714721382497,
+    "projection": 12.6,
+    "adp": 0
   },
   {
     "name": "Ryan Flournoy",
@@ -8754,8 +9054,9 @@
       1.3,
       3.4
     ],
-    "SORINErating": 49.890519639824426,
-    "projection": 4.8
+    "SORINErating": 56.46745926067165,
+    "projection": 4.8,
+    "adp": 0
   },
   {
     "name": "Brevyn Spann-Ford",
@@ -8783,8 +9084,9 @@
       0,
       0
     ],
-    "SORINErating": 49.456401890809204,
-    "projection": 18.1
+    "SORINErating": 56.66677044086788,
+    "projection": 18.1,
+    "adp": 0
   },
   {
     "name": "Ainias Smith",
@@ -8812,8 +9114,9 @@
       0,
       13.9
     ],
-    "SORINErating": 52.12865461092228,
-    "projection": 5.5
+    "SORINErating": 57.60806252430858,
+    "projection": 5.5,
+    "adp": 375
   },
   {
     "name": "Harrison Bryant",
@@ -8841,8 +9144,9 @@
       0,
       0
     ],
-    "SORINErating": 49.81554889409966,
-    "projection": 1.1
+    "SORINErating": 56.467023428624806,
+    "projection": 1.1,
+    "adp": 0
   },
   {
     "name": "Patrick Ricard",
@@ -8870,8 +9174,9 @@
       0,
       2.4
     ],
-    "SORINErating": 48.85469353352956,
-    "projection": 10.9
+    "SORINErating": 56.30285981598116,
+    "projection": 10.9,
+    "adp": 411
   },
   {
     "name": "Blake Whiteheart",
@@ -8899,8 +9204,9 @@
       1.8,
       1.1
     ],
-    "SORINErating": 50.57152378125925,
-    "projection": 4.3
+    "SORINErating": 56.72920172933772,
+    "projection": 4.3,
+    "adp": 0
   },
   {
     "name": "Simi Fehoko",
@@ -8928,7 +9234,7 @@
       null,
       null
     ],
-    "SORINErating": 50.01024321308564,
+    "SORINErating": 56.011088765810904,
     "projection": 20.7
   },
   {
@@ -8957,8 +9263,9 @@
       2.9,
       8.6
     ],
-    "SORINErating": 49.39951432344307,
-    "projection": 42.4
+    "SORINErating": 56.05120553831644,
+    "projection": 42.4,
+    "adp": 0
   },
   {
     "name": "Connor Heyward",
@@ -8986,8 +9293,9 @@
       1.8,
       0
     ],
-    "SORINErating": 49.550397404386196,
-    "projection": 25.9
+    "SORINErating": 56.79327705992755,
+    "projection": 25.9,
+    "adp": 432
   },
   {
     "name": "Kenny Yeboah",
@@ -9015,8 +9323,9 @@
       0,
       4
     ],
-    "SORINErating": 50.395209941875756,
-    "projection": 15.2
+    "SORINErating": 56.35147398806433,
+    "projection": 15.2,
+    "adp": 0
   },
   {
     "name": "Bryce Oliver",
@@ -9044,8 +9353,9 @@
       0,
       2.5
     ],
-    "SORINErating": 48.46051421555907,
-    "projection": 8.5
+    "SORINErating": 55.00375378181404,
+    "projection": 8.5,
+    "adp": 0
   },
   {
     "name": "Johnny Wilson",
@@ -9073,8 +9383,9 @@
       0,
       5.4
     ],
-    "SORINErating": 47.82917061417588,
-    "projection": 12.5
+    "SORINErating": 55.29066805026496,
+    "projection": 12.5,
+    "adp": 342
   },
   {
     "name": "Jermaine Burton",
@@ -9102,8 +9413,9 @@
       0,
       null
     ],
-    "SORINErating": 48.61330951625522,
-    "projection": 53.9
+    "SORINErating": 55.80113324739845,
+    "projection": 53.9,
+    "adp": 368
   },
   {
     "name": "Quintin Morris",
@@ -9131,7 +9443,7 @@
       0,
       5
     ],
-    "SORINErating": 48.95649721636278,
+    "SORINErating": 56.18372737515044,
     "projection": 17.8
   },
   {
@@ -9160,8 +9472,9 @@
       2.4,
       0
     ],
-    "SORINErating": 48.41265371986506,
-    "projection": 15.2
+    "SORINErating": 55.88737311861366,
+    "projection": 15.2,
+    "adp": 390
   },
   {
     "name": "Durham Smythe",
@@ -9189,8 +9502,9 @@
       0,
       0
     ],
-    "SORINErating": 48.017357792153845,
-    "projection": 7.6
+    "SORINErating": 55.51554694624879,
+    "projection": 7.6,
+    "adp": 0
   },
   {
     "name": "Jalin Hyatt",
@@ -9218,8 +9532,9 @@
       0,
       0
     ],
-    "SORINErating": 48.28852568770553,
-    "projection": 35.9
+    "SORINErating": 55.75935451391102,
+    "projection": 35.9,
+    "adp": 330
   },
   {
     "name": "Ben Sinnott",
@@ -9247,8 +9562,9 @@
       0,
       0
     ],
-    "SORINErating": 48.972089947019754,
-    "projection": 49.8
+    "SORINErating": 56.351184338474816,
+    "projection": 49.8,
+    "adp": 0
   },
   {
     "name": "C.J. Ham",
@@ -9276,8 +9592,9 @@
       3.5,
       0
     ],
-    "SORINErating": 47.79015035777822,
-    "projection": 16.6
+    "SORINErating": 55.38889577071101,
+    "projection": 16.6,
+    "adp": 363
   },
   {
     "name": "Julius Chestnut",
@@ -9305,8 +9622,9 @@
       1.7,
       1.1
     ],
-    "SORINErating": 47.75903347232978,
-    "projection": 12.3
+    "SORINErating": 55.004151027592755,
+    "projection": 12.3,
+    "adp": 352
   },
   {
     "name": "DJ Chark Jr.",
@@ -9334,8 +9652,9 @@
       0,
       7.6
     ],
-    "SORINErating": 47.71186305236561,
-    "projection": 27.8
+    "SORINErating": 53.68440983756171,
+    "projection": 27.8,
+    "adp": 406
   },
   {
     "name": "Hunter Long",
@@ -9363,8 +9682,9 @@
       0,
       0
     ],
-    "SORINErating": 48.05617157957607,
-    "projection": 18.1
+    "SORINErating": 55.52674153559033,
+    "projection": 18.1,
+    "adp": 0
   },
   {
     "name": "Chris Manhertz",
@@ -9392,7 +9712,7 @@
       2.2,
       2.6
     ],
-    "SORINErating": 47.88045585696109,
+    "SORINErating": 55.37676660041457,
     "projection": 11.5
   },
   {
@@ -9421,8 +9741,9 @@
       0,
       null
     ],
-    "SORINErating": 47.34534824820669,
-    "projection": 7.3
+    "SORINErating": 54.545440032047814,
+    "projection": 7.3,
+    "adp": 425
   },
   {
     "name": "Ben Skowronek",
@@ -9450,8 +9771,9 @@
       null,
       0
     ],
-    "SORINErating": 47.52528731128481,
-    "projection": 16.8
+    "SORINErating": 54.272541363585546,
+    "projection": 16.8,
+    "adp": 0
   },
   {
     "name": "Charlie Woerner",
@@ -9479,8 +9801,9 @@
       1.6,
       0
     ],
-    "SORINErating": 47.9259019261011,
-    "projection": 33.2
+    "SORINErating": 55.41601736009094,
+    "projection": 33.2,
+    "adp": 498
   },
   {
     "name": "Luke Musgrave",
@@ -9508,8 +9831,9 @@
       1.4,
       2.9
     ],
-    "SORINErating": 49.296770859389525,
-    "projection": 46.2
+    "SORINErating": 55.2106654359764,
+    "projection": 46.2,
+    "adp": 268
   },
   {
     "name": "Tucker Fisk",
@@ -9537,8 +9861,9 @@
       1.8,
       0
     ],
-    "SORINErating": 47.879904824263946,
-    "projection": 5.9
+    "SORINErating": 54.341129005075985,
+    "projection": 5.9,
+    "adp": 0
   },
   {
     "name": "Davis Allen",
@@ -9566,8 +9891,9 @@
       0,
       0
     ],
-    "SORINErating": 47.41404996260631,
-    "projection": 9.1
+    "SORINErating": 54.607220862756144,
+    "projection": 9.1,
+    "adp": 471
   },
   {
     "name": "Tip Reiman",
@@ -9595,8 +9921,9 @@
       0,
       0
     ],
-    "SORINErating": 47.63115705559056,
-    "projection": 15.1
+    "SORINErating": 55.29059663974837,
+    "projection": 15.1,
+    "adp": 0
   },
   {
     "name": "Devontez Walker",
@@ -9624,8 +9951,9 @@
       0,
       0
     ],
-    "SORINErating": 47.60642561530086,
-    "projection": 15.7
+    "SORINErating": 53.81719395909916,
+    "projection": 15.7,
+    "adp": 380
   },
   {
     "name": "Ben Sims",
@@ -9653,7 +9981,7 @@
       0,
       0
     ],
-    "SORINErating": 46.83630405287533,
+    "SORINErating": 54.55608595876066,
     "projection": 0
   },
   {
@@ -9682,8 +10010,9 @@
       0,
       null
     ],
-    "SORINErating": 46.617516409935305,
-    "projection": 1.3
+    "SORINErating": 53.87395489374941,
+    "projection": 1.3,
+    "adp": 419
   },
   {
     "name": "Raheem Blackshear",
@@ -9711,8 +10040,9 @@
       2,
       4.7
     ],
-    "SORINErating": 46.410711430450746,
-    "projection": 16.1
+    "SORINErating": 54.189686191291216,
+    "projection": 16.1,
+    "adp": 353
   },
   {
     "name": "Cam Grandy",
@@ -9740,8 +10070,9 @@
       1.7,
       1.9
     ],
-    "SORINErating": 46.98872251078665,
-    "projection": 14.3
+    "SORINErating": 53.43757343537275,
+    "projection": 14.3,
+    "adp": 0
   },
   {
     "name": "Greg Dulcich",
@@ -9769,8 +10100,9 @@
       0,
       0
     ],
-    "SORINErating": 46.665235406552625,
-    "projection": 12.3
+    "SORINErating": 53.26505421180782,
+    "projection": 12.3,
+    "adp": 0
   },
   {
     "name": "E.J. Jenkins",
@@ -9798,8 +10130,9 @@
       0,
       7.7
     ],
-    "SORINErating": 48.0850139222631,
-    "projection": 0
+    "SORINErating": 54.360103570364444,
+    "projection": 0,
+    "adp": 0
   },
   {
     "name": "Tim Jones",
@@ -9827,8 +10160,9 @@
       2.1,
       0
     ],
-    "SORINErating": 45.902855579708756,
-    "projection": 18.4
+    "SORINErating": 53.805790382516946,
+    "projection": 18.4,
+    "adp": 0
   },
   {
     "name": "Will Mallory",
@@ -9856,7 +10190,7 @@
       null,
       null
     ],
-    "SORINErating": 46.09947625315019,
+    "SORINErating": 53.028741360842666,
     "projection": 8.3
   },
   {
@@ -9885,8 +10219,9 @@
       null,
       null
     ],
-    "SORINErating": 45.64864035056516,
-    "projection": 15.6
+    "SORINErating": 52.57859423133418,
+    "projection": 15.6,
+    "adp": 434
   },
   {
     "name": "Xavier Smith",
@@ -9914,8 +10249,9 @@
       0,
       0.6
     ],
-    "SORINErating": 45.32617863080934,
-    "projection": 1.4
+    "SORINErating": 53.145606088214265,
+    "projection": 1.4,
+    "adp": 0
   },
   {
     "name": "Ihmir Smith-Marsette",
@@ -9943,8 +10279,9 @@
       6,
       0
     ],
-    "SORINErating": 45.83881388845049,
-    "projection": 1.4
+    "SORINErating": 53.64067456444978,
+    "projection": 1.4,
+    "adp": 465
   },
   {
     "name": "Jamari Thrash",
@@ -9972,8 +10309,9 @@
       0,
       0
     ],
-    "SORINErating": 45.31005180866765,
-    "projection": 8
+    "SORINErating": 52.34679570914135,
+    "projection": 8,
+    "adp": 414
   },
   {
     "name": "Tanner Conner",
@@ -10001,8 +10339,9 @@
       null,
       null
     ],
-    "SORINErating": 45.603909793609716,
-    "projection": 16.3
+    "SORINErating": 52.135650765833354,
+    "projection": 16.3,
+    "adp": 0
   },
   {
     "name": "Trenton Irwin",
@@ -10030,8 +10369,9 @@
       null,
       null
     ],
-    "SORINErating": 42.86108963115356,
-    "projection": 0.5
+    "SORINErating": 49.64482778752512,
+    "projection": 0.5,
+    "adp": 0
   },
   {
     "name": "Josiah Deguara",
@@ -10059,7 +10399,7 @@
       0,
       0
     ],
-    "SORINErating": 44.71776863516986,
+    "SORINErating": 52.370130415515334,
     "projection": 0
   },
   {
@@ -10088,8 +10428,9 @@
       0,
       2.9
     ],
-    "SORINErating": 44.96129893725431,
-    "projection": 16.5
+    "SORINErating": 52.60681461440398,
+    "projection": 16.5,
+    "adp": 0
   },
   {
     "name": "Anthony Gould",
@@ -10117,8 +10458,9 @@
       0,
       0
     ],
-    "SORINErating": 43.92413844200419,
-    "projection": 4.2
+    "SORINErating": 51.01491523668679,
+    "projection": 4.2,
+    "adp": 0
   },
   {
     "name": "Shane Zylstra",
@@ -10146,8 +10488,9 @@
       0,
       0
     ],
-    "SORINErating": 44.45970516888325,
-    "projection": 0
+    "SORINErating": 52.00522356511669,
+    "projection": 0,
+    "adp": 0
   },
   {
     "name": "Jack Stoll",
@@ -10175,8 +10518,9 @@
       0,
       null
     ],
-    "SORINErating": 43.860647063621414,
-    "projection": 5.1
+    "SORINErating": 51.09125983048524,
+    "projection": 5.1,
+    "adp": 0
   },
   {
     "name": "Isaiah Williams",
@@ -10204,8 +10548,9 @@
       0,
       0
     ],
-    "SORINErating": 43.6298343449246,
-    "projection": 5
+    "SORINErating": 50.83577153421693,
+    "projection": 5,
+    "adp": 472
   },
   {
     "name": "Jared Wiley",
@@ -10233,8 +10578,9 @@
       null,
       null
     ],
-    "SORINErating": 42.53986815029451,
-    "projection": 13
+    "SORINErating": 49.66102313291761,
+    "projection": 13,
+    "adp": 0
   },
   {
     "name": "Tyler Scott",
@@ -10262,8 +10608,9 @@
       0,
       0
     ],
-    "SORINErating": 42.505716816857095,
-    "projection": 6.6
+    "SORINErating": 50.38557802035252,
+    "projection": 6.6,
+    "adp": 437
   },
   {
     "name": "Ross Dwelley",
@@ -10291,8 +10638,9 @@
       null,
       0
     ],
-    "SORINErating": 43.20526645187005,
-    "projection": 11.7
+    "SORINErating": 51.31027846404052,
+    "projection": 11.7,
+    "adp": 0
   },
   {
     "name": "John FitzPatrick",
@@ -10320,8 +10668,9 @@
       0,
       0
     ],
-    "SORINErating": 41.959475751532636,
-    "projection": 0
+    "SORINErating": 49.55121368292063,
+    "projection": 0,
+    "adp": 0
   },
   {
     "name": "Reggie Gilliam",
@@ -10349,7 +10698,7 @@
       0.3,
       0.4
     ],
-    "SORINErating": 43.05642709435963,
+    "SORINErating": 51.21667617787995,
     "projection": 0
   },
   {
@@ -10378,8 +10727,9 @@
       null,
       0
     ],
-    "SORINErating": 39.118739748903494,
-    "projection": 0
+    "SORINErating": 47.57846208915482,
+    "projection": 0,
+    "adp": 0
   },
   {
     "name": "Zach Pascal",
@@ -10407,8 +10757,9 @@
       null,
       0
     ],
-    "SORINErating": 40.27482149105588,
-    "projection": 3.7
+    "SORINErating": 49.02414598811845,
+    "projection": 3.7,
+    "adp": 0
   },
   {
     "name": "Braxton Berrios",
@@ -10436,8 +10787,9 @@
       0,
       null
     ],
-    "SORINErating": 38.40603866057816,
-    "projection": 2.3
+    "SORINErating": 46.381879485981784,
+    "projection": 2.3,
+    "adp": 382
   },
   {
     "name": "Dareke Young",
@@ -10465,8 +10817,9 @@
       0,
       0
     ],
-    "SORINErating": 39.80628367505775,
-    "projection": 8.7
+    "SORINErating": 48.36782044866422,
+    "projection": 8.7,
+    "adp": 0
   },
   {
     "name": "Avery Williams",
@@ -10494,8 +10847,9 @@
       0,
       0
     ],
-    "SORINErating": 40.95050383933793,
-    "projection": 3.1
+    "SORINErating": 49.95050383933792,
+    "projection": 3.1,
+    "adp": 430
   },
   {
     "name": "Ko Kieft",
@@ -10523,8 +10877,9 @@
       0,
       0
     ],
-    "SORINErating": 40.239383559096545,
-    "projection": 0
+    "SORINErating": 49.239383559096545,
+    "projection": 0,
+    "adp": 0
   },
   {
     "name": "Teagan Quitoriano",
@@ -10552,8 +10907,9 @@
       null,
       null
     ],
-    "SORINErating": 38.1602092521407,
-    "projection": 17.5
+    "SORINErating": 46.136050077544326,
+    "projection": 17.5,
+    "adp": 0
   },
   {
     "name": "Justin Shorter",
@@ -10581,8 +10937,9 @@
       0,
       null
     ],
-    "SORINErating": 38.42940648121084,
-    "projection": 0
+    "SORINErating": 46.40524730661447,
+    "projection": 0,
+    "adp": 0
   },
   {
     "name": "Trayveon Williams",
@@ -10610,8 +10967,9 @@
       0,
       0
     ],
-    "SORINErating": 38.43238591342971,
-    "projection": 2.3
+    "SORINErating": 46.543674863292274,
+    "projection": 2.3,
+    "adp": 0
   },
   {
     "name": "Brady Russell",
@@ -10639,8 +10997,9 @@
       null,
       null
     ],
-    "SORINErating": 38.84208163074295,
-    "projection": 0
+    "SORINErating": 47.30180397099428,
+    "projection": 0,
+    "adp": 418
   },
   {
     "name": "Irvin Charles",
@@ -10668,8 +11027,9 @@
       null,
       null
     ],
-    "SORINErating": 39.82461786807976,
-    "projection": 30.9
+    "SORINErating": 48.284340208331095,
+    "projection": 30.9,
+    "adp": 0
   },
   {
     "name": "Brayden Willis",
@@ -10697,7 +11057,8 @@
       0,
       0
     ],
-    "SORINErating": 38.61507402346843,
-    "projection": 0
+    "SORINErating": 46.85094493019306,
+    "projection": 0,
+    "adp": 0
   }
 ]

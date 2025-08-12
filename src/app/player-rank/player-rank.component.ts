@@ -17,7 +17,9 @@ export class PlayerRankComponent implements OnInit {
   pageIndex = 0;
   pageSize = 10;
   totalCount = 100;
+  position = '';
   constructor(private http: HttpClient) {}
+
 
   setPage(page: PageEvent){
     this.pageIndex = page.pageIndex;
@@ -42,17 +44,44 @@ export class PlayerRankComponent implements OnInit {
         next: (data) => {
           // Sort by descending SORINErating
           this.players = data.sort((a, b) => b.SORINErating - a.SORINErating);
-          this.totalCount = data.length;
+          this.filterBy(this.position);
+          this.totalCount = this.players.length;
           this.playerDisplay = this.players.slice(this.pageIndex*this.pageSize, this.pageIndex*this.pageSize+this.pageSize);
         },
         error: (err) => console.error('Failed to load players:', err)
       });
   }
 
+  setPosition(position: string){
+    this.position = position;
+    this.displayPlayers();
+  }
+
+  filterBy(position: string){
+    if(position=='FLEX'){
+      this.players = this.players.filter((player)=>{
+        if(player.position == 'RB' || player.position == 'WR' || player.position == 'TE'){
+          return true;
+        }else{
+          return false;
+        }
+      });
+    }else if(position != ''){
+      this.players = this.players.filter((player)=>{
+        if(player.position == position){
+          return true;
+        }else{
+          return false;
+        }
+      
+    });
+    }
+  }
+
   onSortChange(){
   }
 
 
-  tableHeaders = ['Rank', 'Name','Position', 'Team', 'Score','Proj','AVG',]
+  tableHeaders = ['Rank', 'Name', 'ADP', 'Position', 'Team', 'Score','Proj','AVG',]
   
 }

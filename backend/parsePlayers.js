@@ -11,6 +11,7 @@ const players = [];
 const teamData = require('./data/teamData.json');
 const playerProj = require('./data/projectionData.json');
 const playerProjQB = require('./data/projectedQBData.json');
+const playerADP = require('./data/playerADP.json')
 
 fs.createReadStream(filePath)
   .pipe(csv())
@@ -26,7 +27,7 @@ fs.createReadStream(filePath)
       const n = parseFloat(val);
       return isNaN(n) ? 0 : n;
     };
-
+    const adp = playerADP[name];
     const avgPoints = safe(row['AVG']);
     const totalPoints = safe(row['TTL']);
     const AVGSecondHalf = safe(row['AVGSecondHalf']);
@@ -108,16 +109,16 @@ fs.createReadStream(filePath)
       return;
     }
     if (position === 'QB'){
-      pointsRating = 25 * (avgPoints/expectedMaxAvg)**(2);
+      pointsRating = 20 * (avgPoints/expectedMaxAvg)**(2);
     }else{
-      pointsRating = 25 * (avgPoints/expectedMaxAvg)**(1/2.5);
+      pointsRating = 20 * (avgPoints/expectedMaxAvg)**(1/2.5);
     }
     
-    consistencyRating = 18 * (gamesOverAvg/validGames)
+    consistencyRating = 14 * (gamesOverAvg/validGames)
     riseRating = 16 * (AVGSecondHalf/26)**(1.2)
     opportunityScore = 2 * (opportunityScore)
-    health = 9 * (validGames/17)**(1/3)
-    projectionScore = 30 + (projection/expectedProj)**(.5);
+    health = 13 * (validGames/17)**(1/3)
+    projectionScore = 35 + (projection/expectedProj)**(.5);
 
 
       const SORINErating = (
@@ -139,7 +140,8 @@ fs.createReadStream(filePath)
         AVGSecondHalf,
         weeklyPoints,
         SORINErating,
-        projection
+        projection,
+        adp
       });
     } else {
       console.log(`⚠️ Skipping ${name} due to completely invalid data`);
