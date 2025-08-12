@@ -11,5 +11,9 @@ import { TradeCalculatorComponent } from './trade-calculator/trade-calculator.co
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
+  displayChoice = 'rank';
   title = 'fantasy-football-app';
+  setChoice(choice:string){
+    this.displayChoice = choice;
+  }
 }

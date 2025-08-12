@@ -1,1 +1,91 @@
-<p>trade-calculator works!</p>
+<h1>Trade Calculator</h1>
+<!-- <h3>Powered by S.O.R.I.N.E</h3> -->
+<div [formGroup] = "playerInputs" (ngSubmit)="calculateTrade()">
+    <div>
+        <label>Team A</label>
+        <mat-select [formControl]="playerInputs.controls.teamA.at(0)">
+            <mat-option>--select--</mat-option>
+            @for (player of players; track player.name){
+                <mat-option [value]="player">
+                    {{player.name}}
+                </mat-option>
+            }
+        </mat-select>
+        <mat-select [formControl]="playerInputs.controls.teamA.at(1)">
+            <mat-option>--select--</mat-option>
+            @for (player of players; track player.name){
+                <mat-option [value]="player">
+                    {{player.name}}
+                </mat-option>
+            }
+        </mat-select>
+        <mat-select [formControl]="playerInputs.controls.teamA.at(2)">
+            <mat-option>--select--</mat-option>
+            @for (player of players; track player.name){
+                <mat-option [value]="player">
+                    {{player.name}}
+                </mat-option>
+            }
+        </mat-select>
+        <mat-select [formControl]="playerInputs.controls.teamA.at(3)">
+            <mat-option>--select--</mat-option>
+            @for (player of players; track player.name){
+                <mat-option [value]="player">
+                    {{player.name}}
+                </mat-option>
+            }
+        </mat-select>
+        <mat-select [formControl]="playerInputs.controls.teamA.at(4)">
+            <mat-option>--select--</mat-option>
+            @for (player of players; track player.name){
+                <mat-option [value]="player">
+                    {{player.name}}
+                </mat-option>
+            }
+        </mat-select>
+    </div>
+    <div>
+        <label>Team B</label>
+        <mat-select [formControl]="playerInputs.controls.teamB.at(0)">
+            <mat-option>--select--</mat-option>
+            @for (player of players; track player.name){
+                <mat-option [value]="player">
+                    {{player.name}}
+                </mat-option>
+            }
+        </mat-select>
+        <mat-select [formControl]="playerInputs.controls.teamB.at(1)">
+            <mat-option>--select--</mat-option>
+            @for (player of players; track player.name){
+                <mat-option [value]="player">
+                    {{player.name}}
+                </mat-option>
+            }
+        </mat-select>
+        <mat-select [formControl]="playerInputs.controls.teamB.at(2)">
+            <mat-option>--select--</mat-option>
+            @for (player of players; track player.name){
+                <mat-option [value]="player">
+                    {{player.name}}
+                </mat-option>
+            }
+        </mat-select>
+        <mat-select [formControl]="playerInputs.controls.teamB.at(3)">
+            <mat-option>--select--</mat-option>
+            @for (player of players; track player.name){
+                <mat-option [value]="player">
+                    {{player.name}}
+                </mat-option>
+            }
+        </mat-select>
+        <mat-select [formControl]="playerInputs.controls.teamB.at(4)">
+            <mat-option>--select--</mat-option>
+            @for (player of players; track player.name){
+                <mat-option [value]="player">
+                    {{player.name}}
+                </mat-option>
+            }
+        </mat-select>
+    </div>
+    <button (click)="calculateTrade()" type="submit">Calculate</button>
+</div>

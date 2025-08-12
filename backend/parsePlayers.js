@@ -20,6 +20,9 @@ fs.createReadStream(filePath)
     const team = row['Team']?.trim();
     const position = row['Pos']?.trim().toUpperCase();
     if (!name || !team || !position || position === 'K' ) return;
+    if (!playerADP[name] || playerADP[name]=='0'){
+      return;
+    }
 
     const weeklyPoints = [];
 
