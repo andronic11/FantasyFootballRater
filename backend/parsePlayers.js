@@ -73,24 +73,24 @@ fs.createReadStream(filePath)
     }
 
     let expectedProj;
-    if (position === 'QB') expectedProj = 430;
-    else if (position === 'RB') expectedProj = 360;
-    else if (position === 'WR') expectedProj = 400;
-    else if (position === 'TE') expectedProj = 260;
+    if (position === 'QB') expectedProj = 470;
+    else if (position === 'RB') expectedProj = 330;
+    else if (position === 'WR') expectedProj = 360;
+    else if (position === 'TE') expectedProj = 310;
     else expectedProj = 260;
 
     let expectedPoints;
-    if (position === 'QB') expectedPoints = 20;
-    else if (position === 'RB') expectedPoints = 16;
+    if (position === 'QB') expectedPoints = 28;
+    else if (position === 'RB') expectedPoints = 16.5;
     else if (position === 'WR') expectedPoints = 16.5;
-    else if (position === 'TE') expectedPoints = 11;
+    else if (position === 'TE') expectedPoints = 15;
     else expectedPoints = 14;
 
     let expectedMaxAvg;
-    if (position === 'QB') expectedMaxAvg = 26;
+    if (position === 'QB') expectedMaxAvg = 28;
     else if (position === 'RB') expectedMaxAvg = 21;
     else if (position === 'WR') expectedMaxAvg = 22;
-    else if (position === 'TE') expectedMaxAvg = 17;
+    else if (position === 'TE') expectedMaxAvg = 18;
     else expectedMaxAvg = 11;
 
     let gamesOverAvg = 0;
@@ -118,13 +118,13 @@ fs.createReadStream(filePath)
     }
     
     consistencyRating = 14 * (gamesOverAvg/validGames)
-    riseRating = 16 * (AVGSecondHalf/26)**(1.2)
+    riseRating = 13 * (AVGSecondHalf/26)**(1.2)
     opportunityScore = 2 * (opportunityScore)
-    health = 13 * (validGames/17)**(1/3)
-    projectionScore = 35 + (projection/expectedProj)**(.5);
+    health = 5 * (validGames/17)**(1/3)
+    projectionScore = 45 * (projection/expectedProj)**(.19);
 
 
-      const SORINErating = (
+      SORINErating = (
       pointsRating +
       consistencyRating +
       riseRating +
@@ -132,6 +132,10 @@ fs.createReadStream(filePath)
       health + 
       projectionScore
       );
+    
+      // if( position == 'QB' || position == 'TE' ){
+      //   SORINErating = SORINErating * .95;
+      // }
       
       
     if (!isNaN(SORINErating)) {

@@ -106,12 +106,12 @@ export class TradeCalculatorComponent implements OnInit{
     }
 
     while(teamA.length < teamB.length){
-      teamA.push(50);
-      this.aScore += 50;
+      teamA.push(75);
+      this.aScore += 75;
     }
     while(teamB.length < teamA.length){
-      teamB.push(50);
-      this.bScore += 50;
+      teamB.push(75);
+      this.bScore += 75;
     }
     console.log(teamA);
     console.log(this.aScore/teamA.length);
