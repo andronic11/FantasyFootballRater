@@ -9,7 +9,8 @@ import { MatSort,MatSortModule,MatSortHeader } from '@angular/material/sort';
   selector: 'app-player-rank',
   standalone: true,
   imports: [CommonModule, MatTableModule, MatPaginatorModule, MatSortModule],
-  templateUrl: './player-rank.component.html'
+  templateUrl: './player-rank.component.html',
+  styleUrl: './player-rank.component.scss'
 })
 export class PlayerRankComponent implements OnInit {
   players: Player[] = [];
@@ -18,6 +19,7 @@ export class PlayerRankComponent implements OnInit {
   pageSize = 10;
   totalCount = 100;
   position = '';
+  sortCategory = 'sorine';
   constructor(private http: HttpClient) {}
 
 
@@ -43,7 +45,8 @@ export class PlayerRankComponent implements OnInit {
       .subscribe({
         next: (data) => {
           // Sort by descending SORINErating
-          this.players = data.sort((a, b) => b.SORINErating - a.SORINErating);
+          //this.players = data.sort((a, b) => b.SORINErating - a.SORINErating);
+          this.players = this.sortData(data,this.sortCategory);
           this.filterBy(this.position);
           this.totalCount = this.players.length;
           this.playerDisplay = this.players.slice(this.pageIndex*this.pageSize, this.pageIndex*this.pageSize+this.pageSize);
@@ -52,8 +55,28 @@ export class PlayerRankComponent implements OnInit {
       });
   }
 
+  sortData(players: Player[], category: string){
+    if(category=='sorine'){
+      players.sort((a, b) => b.SORINErating - a.SORINErating);
+    }else if(category=='ADP'){
+      players.sort((a, b) => a.adp - b.adp);
+    }else if(category=='projection'){
+      players.sort((a, b) => b.projection - a.projection);
+    }else if(category=='AVG'){
+      players.sort((a, b) => b.avgPoints - a.avgPoints);
+    }
+    return players;
+  }
+
+  setSortCategory(category: string){
+    this.sortCategory = category;
+    this.displayPlayers();
+  }
+
   setPosition(position: string){
     this.position = position;
+    this.pageIndex = 0;
+    this.pageSize = 10;
     this.displayPlayers();
   }
 

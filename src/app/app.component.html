@@ -1,3 +1,9 @@
 <app-header/>
-<app-player-rank/>
-<app-trade-calculator/>
+<button (click)="setChoice('rank')">Rankings</button>
+<button (click)="setChoice('tradeCalc')">Trade Calculator</button>
+@if(this.displayChoice=='tradeCalc'){
+    <app-trade-calculator/>
+}@else if(this.displayChoice == 'rank'){
+    <app-player-rank/>
+}
+
