@@ -1,0 +1,21 @@
+:host {
+    display: block;
+    background: #0f172a;
+    padding: 1rem;
+    max-height: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Header {
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 1rem 0;
+}
+
+app-header {
+    display: block;
+    margin-bottom: 1rem;
+}

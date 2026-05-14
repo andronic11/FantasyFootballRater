@@ -1,4 +1,4 @@
-<app-header/>
+<!-- <app-header/>
 <button (click)="setChoice('rank')">Rankings</button>
 <button (click)="setChoice('tradeCalc')">Trade Calculator</button>
 @if(this.displayChoice=='tradeCalc'){
@@ -6,4 +6,28 @@
 }@else if(this.displayChoice == 'rank'){
     <app-player-rank/>
 }
+ -->
 
+
+<app-header/>
+
+<div class="nav-buttons">
+    <button 
+        [class.active]="displayChoice == 'rank'"
+        (click)="setChoice('rank')">
+        Rankings
+    </button>
+
+    <button 
+        [class.active]="displayChoice == 'tradeCalc'"
+        (click)="setChoice('tradeCalc')">
+        Trade Calculator
+    </button>
+</div>
+
+@if(displayChoice == 'tradeCalc'){
+    <app-trade-calculator/>
+}
+@else if(displayChoice == 'rank'){
+    <app-player-rank/>
+}

@@ -1,5 +1,122 @@
-.filterButtons{   
+:host {
+    display: block;
+    min-height: 100vh;
+    background: #0f172a;
     color: white;
-    background-color: black;
-} 
+    padding: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+.page-container {
+    max-width: 1400px;
+    margin: auto;
+}
+
+.header {
+    margin-bottom: 2rem;
+}
+
+.header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.3rem;
+    font-weight: 700;
+}
+
+.header p {
+    color: #94a3b8;
+}
+
+.filters {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.filterButtons {
+    background: #1e293b;
+    border: 1px solid #334155;
+    color: white;
+    padding: 0.7rem 1.2rem;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    font-weight: 600;
+}
+
+.filterButtons:hover {
+    background: #38bdf8;
+    color: black;
+    transform: translateY(-2px);
+}
+
+.table-container {
+    background: #1e293b;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 1rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+table {
+    width: 100%;
+    background: transparent !important;
+}
+
+th {
+    background: #111827 !important;
+    color: #38bdf8 !important;
+    font-size: 0.9rem;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+td {
+    color: #f8fafc;
+}
+
+tr:hover {
+    background: rgba(56, 189, 248, 0.08);
+}
+
+.mat-mdc-paginator {
+    background: transparent;
+    color: white;
+}
+
+
+.position-badge {
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: white;
+    display: inline-block;
+    min-width: 42px;
+    text-align: center;
+}
+
+/* QB */
+.QB {
+    background: #ef4444;
+}
+
+/* RB */
+.RB {
+    background: #22c55e;
+}
+
+/* WR */
+.WR {
+    background: #3b82f6;
+}
+
+/* TE */
+.TE {
+    background: #f59e0b;
+}
+
+/* FLEX */
+.FLEX {
+    background: #a855f7;
+}
