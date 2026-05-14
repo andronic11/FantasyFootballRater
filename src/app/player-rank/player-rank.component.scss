@@ -84,3 +84,39 @@ tr:hover {
     color: white;
 }
 
+
+.position-badge {
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: white;
+    display: inline-block;
+    min-width: 42px;
+    text-align: center;
+}
+
+/* QB */
+.QB {
+    background: #ef4444;
+}
+
+/* RB */
+.RB {
+    background: #22c55e;
+}
+
+/* WR */
+.WR {
+    background: #3b82f6;
+}
+
+/* TE */
+.TE {
+    background: #f59e0b;
+}
+
+/* FLEX */
+.FLEX {
+    background: #a855f7;
+}
