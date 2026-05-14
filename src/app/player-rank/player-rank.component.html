@@ -1,13 +1,20 @@
-  <div>
-    <div>
-        <button class="filterButtons" (click)="setPosition('')">Overall</button>
-        <button class="filterButtons" (click)="setPosition('QB')">QB</button>
-        <button class="filterButtons" (click)="setPosition('RB')">RB</button>
-        <button class="filterButtons" (click)="setPosition('WR')">WR</button>
-        <button class="filterButtons" (click)="setPosition('TE')">TE</button>
-        <button class="filterButtons" (click)="setPosition('FLEX')">Flex</button>
-    </div>
-    
+<div class="page-container">
+
+<div class="header">
+  <h1>Fantasy Rankings</h1>
+  <p>Custom SORINE fantasy projections</p>
+</div>
+
+<div class="filters">
+  <button class="filterButtons" (click)="setPosition('')">Overall</button>
+  <button class="filterButtons" (click)="setPosition('QB')">QB</button>
+  <button class="filterButtons" (click)="setPosition('RB')">RB</button>
+  <button class="filterButtons" (click)="setPosition('WR')">WR</button>
+  <button class="filterButtons" (click)="setPosition('TE')">TE</button>
+  <button class="filterButtons" (click)="setPosition('FLEX')">Flex</button>
+</div>
+
+  <div class="table-container">
     <table mat-table [dataSource]="playerDisplay" >
       <!-- Rank Column -->
       <ng-container matColumnDef="Rank">
@@ -70,5 +77,6 @@
               (page) = "this.setPage($event)"
               aria-label="Select page">
     </mat-paginator>
-    <ng-template #loading>Loading players...</ng-template>
   </div>
+
+</div>
